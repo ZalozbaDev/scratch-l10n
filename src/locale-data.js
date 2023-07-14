@@ -32,6 +32,7 @@ import ha from './locale-data/ha';
 import he from './locale-data/he';
 import hu from './locale-data/hu';
 import hr from './locale-data/hr';
+import hsb from './locale-data/hsb';
 import hy from './locale-data/hy';
 import id from './locale-data/id';
 import is from './locale-data/is';
@@ -106,6 +107,7 @@ let localeData = [].concat(
     he,
     hu,
     hr,
+    hsb,
     hy,
     id,
     is,

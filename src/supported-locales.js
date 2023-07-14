@@ -39,6 +39,7 @@ const locales = {
     'hy': {name: 'Հայերեն'},
     'he': {name: 'עִבְרִית'},
     'hr': {name: 'Hrvatski'},
+    'hsb': {name: 'Hornjoserbsce'},
     'xh': {name: 'isiXhosa'},
     'zu': {name: 'isiZulu'},
     'is': {name: 'Íslenska'},
