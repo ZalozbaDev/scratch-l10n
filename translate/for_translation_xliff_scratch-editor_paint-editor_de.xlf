@@ -1,0 +1,178 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="paint-editor" source-language="en" datatype="CHROME" target-language="de">
+    <body>
+      <trans-unit id="1" resname="e652e2a40177255e481f484545ba3c56">
+        <source>Color</source>
+        <target>Farbe</target>
+      </trans-unit>
+      <trans-unit id="2" resname="8bbb4592a8b32fa59267a0668e2e2dd1">
+        <source>Saturation</source>
+        <target>Sättigung</target>
+      </trans-unit>
+      <trans-unit id="3" resname="cc456aef169200693ec6fc6b9a5f4e5a">
+        <source>Brightness</source>
+        <target>Helligkeit</target>
+      </trans-unit>
+      <trans-unit id="4" resname="2598e681328a6a75d3b77b1b947db748">
+        <source>Don't worry, we're on it {emoji}</source>
+        <target>Keine Sorge, wir kümmern uns darum {emoji}</target>
+      </trans-unit>
+      <trans-unit id="5" resname="efb9cfba44d2d3ce23aa2c444e4a7367">
+        <source>Coming Soon...</source>
+        <target>Bald verfügbar...</target>
+      </trans-unit>
+      <trans-unit id="6" resname="06c5d747b60916a0bb1f72c008d608a4">
+        <source>We're working on it {emoji}</source>
+        <target>Wir arbeiten daran {emoji}</target>
+      </trans-unit>
+      <trans-unit id="7" resname="d01910847b9ab45cc47621372495a824">
+        <source>Costume</source>
+        <target>Kostüm</target>
+      </trans-unit>
+      <trans-unit id="8" resname="7e27c55fd80a892df1ccb375be1e40dc">
+        <source>Group</source>
+        <target>Gruppieren</target>
+      </trans-unit>
+      <trans-unit id="9" resname="e03b0f328619591e1441284720b9fce0">
+        <source>Ungroup</source>
+        <target>Gruppierung aufheben</target>
+      </trans-unit>
+      <trans-unit id="10" resname="a383f3de6bc7801df0c5c4ca4ac87ef4">
+        <source>Undo</source>
+        <target>Rückgängig</target>
+      </trans-unit>
+      <trans-unit id="11" resname="0480deed99c0e6263143f38ec7357eee">
+        <source>Redo</source>
+        <target>Wiederherstellen</target>
+      </trans-unit>
+      <trans-unit id="12" resname="ac1b783fd18b9863d65b350e0562f7e6">
+        <source>Forward</source>
+        <target>nach vorne</target>
+      </trans-unit>
+      <trans-unit id="13" resname="61771b653e5259da8608a50b9655fe3a">
+        <source>Backward</source>
+        <target>nach hinten</target>
+      </trans-unit>
+      <trans-unit id="14" resname="ee4dbb4af7ab702b28f09a91ba61a46e">
+        <source>Front</source>
+        <target>Ganz nach vorne</target>
+      </trans-unit>
+      <trans-unit id="15" resname="d9893d3e9871271655f3d6f6244bdc91">
+        <source>Back</source>
+        <target>Ganz nach hinten</target>
+      </trans-unit>
+      <trans-unit id="16" resname="0fe1a8b23a95eec9943e57bca8c45f1f">
+        <source>More</source>
+        <target>Mehr</target>
+      </trans-unit>
+      <trans-unit id="17" resname="8dc8664117088479f485487005c6eabf">
+        <source>Size</source>
+        <target>Größe</target>
+      </trans-unit>
+      <trans-unit id="18" resname="0a73d17f26355e51cdf82ad6eb6b90ad">
+        <source>Eraser size</source>
+        <target>Radiererbreite</target>
+      </trans-unit>
+      <trans-unit id="19" resname="e6ba0882e452471bed4ad192248a5216">
+        <source>Copy</source>
+        <target>Kopieren</target>
+      </trans-unit>
+      <trans-unit id="20" resname="82db150b38a0a966469c810b4eda8bae">
+        <source>Paste</source>
+        <target>Einfügen</target>
+      </trans-unit>
+      <trans-unit id="21" resname="c74daab64c60471bdea21a95ff5a0ef6">
+        <source>Delete</source>
+        <target>Löschen</target>
+      </trans-unit>
+      <trans-unit id="22" resname="8c39c1b4068808f56d772b6d434683ec">
+        <source>Curved</source>
+        <target>gekrümmt</target>
+      </trans-unit>
+      <trans-unit id="23" resname="2bb8249835a909774dd316fdfcad424f">
+        <source>Pointed</source>
+        <target>gerade</target>
+      </trans-unit>
+      <trans-unit id="24" resname="90e7866820a763bb25425e55bccc5c40">
+        <source>Thickness</source>
+        <target>Linienstärke</target>
+      </trans-unit>
+      <trans-unit id="25" resname="e2a0f9598515467c23ac391027a71dd7">
+        <source>Flip Horizontal</source>
+        <target>Horizontal spiegeln</target>
+      </trans-unit>
+      <trans-unit id="26" resname="ac2ade9a7c2d1b430cf14ecff797ca2b">
+        <source>Flip Vertical</source>
+        <target>Vertikal spiegeln</target>
+      </trans-unit>
+      <trans-unit id="27" resname="7b1729109473ee54ca166572e0946cbe">
+        <source>Filled</source>
+        <target>Ausgefüllt</target>
+      </trans-unit>
+      <trans-unit id="28" resname="e81af528bba701229f927a4fb479b537">
+        <source>Outlined</source>
+        <target>Umrandet</target>
+      </trans-unit>
+      <trans-unit id="29" resname="7bfc18e733eb6df3202a2ee01b14c86b">
+        <source>Convert to Bitmap</source>
+        <target>In Rastergrafik umwandeln</target>
+      </trans-unit>
+      <trans-unit id="30" resname="cfbe8d695dc530e681358849a4835b57">
+        <source>Convert to Vector</source>
+        <target>In Vektorgrafik umwandeln</target>
+      </trans-unit>
+      <trans-unit id="31" resname="06498cb147fb29c316f7179c49470778">
+        <source>Fill</source>
+        <target>Füllfarbe</target>
+      </trans-unit>
+      <trans-unit id="32" resname="ee623f5dea4361d550829ef0c7cc7aa2">
+        <source>Outline</source>
+        <target>Randfarbe</target>
+      </trans-unit>
+      <trans-unit id="33" resname="9da84cd7d8ab9e05eda35e28f70445e3">
+        <source>Brush</source>
+        <target>Pinsel</target>
+      </trans-unit>
+      <trans-unit id="34" resname="28eeaa2e7875b49b2f7d70437b47b87f">
+        <source>Eraser</source>
+        <target>Radierer</target>
+      </trans-unit>
+      <trans-unit id="35" resname="4850e3c0204b739d9621b02bcaabb3c8">
+        <source>Fill</source>
+        <target>Fülleimer</target>
+      </trans-unit>
+      <trans-unit id="36" resname="b587a2e7241e34d992539c85b73e4ead">
+        <source>Line</source>
+        <target>Linie</target>
+      </trans-unit>
+      <trans-unit id="37" resname="df8a706513919d4b67b4c23de31dc081">
+        <source>Circle</source>
+        <target>Kreis</target>
+      </trans-unit>
+      <trans-unit id="38" resname="da5c9c49d3f1c73769202f2873670ff3">
+        <source>Rectangle</source>
+        <target>Rechteck</target>
+      </trans-unit>
+      <trans-unit id="39" resname="c1f9d4f72d785f44cd4430d40dc0c241">
+        <source>Reshape</source>
+        <target>Verformen</target>
+      </trans-unit>
+      <trans-unit id="40" resname="90eb0ebba4c8b22477fce13a7fc242a4">
+        <source>Rounded Rectangle</source>
+        <target>Abgerundetes Rechteck </target>
+      </trans-unit>
+      <trans-unit id="41" resname="ef5072c8df043f3de8f00c51d00bb034">
+        <source>Select</source>
+        <target>Auswählen</target>
+      </trans-unit>
+      <trans-unit id="42" resname="fdeadb5049f9aae67ee1ccc4f9334410">
+        <source>Text</source>
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="43" resname="23dee645188bf16ea2f6b25611b12356">
+        <source>Swap</source>
+        <target>Tauschen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

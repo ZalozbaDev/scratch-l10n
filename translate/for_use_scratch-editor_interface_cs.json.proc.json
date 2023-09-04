@@ -1,0 +1,2102 @@
+{
+  "gui.alerts.lostPeripheralConnection": {
+    "message": "Scratch ztratil připojení k {extensionName}.",
+    "description": "Message indicating that an extension peripheral has been disconnected"
+  },
+  "gui.alerts.tryAgain": {
+    "message": "Zkusit znovu",
+    "description": "Button to try saving again"
+  },
+  "gui.alerts.download": {
+    "message": "Stáhnout",
+    "description": "Button to download project locally"
+  },
+  "gui.connection.reconnect": {
+    "message": "Znovu připojit",
+    "description": "Button to reconnect the device"
+  },
+  "gui.backpack.costumeLabel": {
+    "message": "kostým",
+    "description": "Label for costume backpack item"
+  },
+  "gui.backpack.soundLabel": {
+    "message": "zvuk",
+    "description": "Label for sound backpack item"
+  },
+  "gui.backpack.scriptLabel": {
+    "message": "skript",
+    "description": "Label for script backpack item"
+  },
+  "gui.backpack.spriteLabel": {
+    "message": "postava",
+    "description": "Label for sprite backpack item"
+  },
+  "gui.backpack.header": {
+    "message": "Batoh",
+    "description": "Button to open the backpack"
+  },
+  "gui.backpack.errorBackpack": {
+    "message": "Chyba při načítání batohu",
+    "description": "Error backpack message"
+  },
+  "gui.backpack.loadingBackpack": {
+    "message": "Nahrávám..",
+    "description": "Loading backpack message"
+  },
+  "gui.backpack.more": {
+    "message": "Více",
+    "description": "Load more from backpack"
+  },
+  "gui.backpack.emptyBackpack": {
+    "message": "Batoh je prázdný",
+    "description": "Empty backpack message"
+  },
+  "gui.unsupportedBrowser.label": {
+    "message": "Prohlížeč není podporován",
+    "description": ""
+  },
+  "gui.unsupportedBrowser.errorLabel": {
+    "message": "Došlo k chybě",
+    "description": "Heading shown when there is an unhandled exception in an unsupported browser"
+  },
+  "gui.unsupportedBrowser.notRecommended": {
+    "message": "Je nám velmi líto, ale zdá se, že používáš prohlížeč, který Scratch nepodporuje. Doporučujeme aktualizovaci na poslední verzi podporovaného prohlížeče, jako je Google Chrome, Mozilla Firefox, Microsoft Edge nebo Apple Safari.",
+    "description": "Error message when the browser does not meet our minimum requirements"
+  },
+  "gui.unsupportedBrowser.description": {
+    "message": "Je nám velmi líto, ale Scratch nepodporuje tento prohlížeč. Doporučujeme aktualizovaci na poslední verzi podporovaného prohlížeče, jako je Google Chrome, Mozilla Firefox, Microsoft Edge nebo Apple Safari.",
+    "description": "Error message when the browser does not work at all (IE)"
+  },
+  "gui.unsupportedBrowser.back": {
+    "message": "Zpět",
+    "description": "Button to go back in unsupported browser modal"
+  },
+  "gui.unsupportedBrowser.previewfaq": {
+    "message": "Pro další info jdi na {previewFaqLink}.",
+    "description": "Invitation to try 3.0 preview"
+  },
+  "gui.unsupportedBrowser.previewfaqlinktext": {
+    "message": "FAQ",
+    "description": "link to Scratch 3.0 FAQ page"
+  },
+  "gui.cards.all-tutorials": {
+    "message": "Návody",
+    "description": "Title for button to return to tutorials library"
+  },
+  "gui.cards.shrink": {
+    "message": "Zmenši",
+    "description": "Title for button to shrink how-to card"
+  },
+  "gui.cards.expand": {
+    "message": "Zvětši",
+    "description": "Title for button to expand how-to card"
+  },
+  "gui.cards.close": {
+    "message": "Zavřít",
+    "description": "Title for button to close how-to card"
+  },
+  "gui.cards.more-things-to-try": {
+    "message": "Více věcí na vyzkoušení!",
+    "description": "Title card with more things to try"
+  },
+  "gui.cards.see-more": {
+    "message": "Další informace",
+    "description": "Title for button to see more in how-to library"
+  },
+  "gui.comingSoon.message1": {
+    "message": "Neboj, pracujeme na tom {emoji}",
+    "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+  },
+  "gui.comingSoon.message2": {
+    "message": "Již brzy...",
+    "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+  },
+  "gui.comingSoon.message3": {
+    "message": "Pracujeme na tom {emoji}",
+    "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+  },
+  "gui.connection.auto-scanning.noPeripheralsFound": {
+    "message": "Nenalezena žádná zařízení",
+    "description": "Text shown when no devices could be found"
+  },
+  "gui.connection.auto-scanning.prescan": {
+    "message": "Umísti své zařízení na dosah, pak začni vyhledávat.",
+    "description": "Prompt for beginning the search"
+  },
+  "gui.connection.auto-scanning.pressbutton": {
+    "message": "Stiskni tlačítko na svém zařízení.",
+    "description": "Prompt for pushing the button on the device"
+  },
+  "gui.connection.auto-scanning.start-search": {
+    "message": "Start vyhledávání",
+    "description": "Button in prompt for starting a search"
+  },
+  "gui.connection.connecting-searchbutton": {
+    "message": "Vyhledávám...",
+    "description": "Label indicating that search is in progress"
+  },
+  "gui.connection.auto-scanning.try-again": {
+    "message": "Zkus znovu",
+    "description": "Button in prompt for trying a device search again"
+  },
+  "gui.connection.auto-scanning.updatePeripheralButton": {
+    "message": "Aktualizovat moje zařízení",
+    "description": "Button to enter the peripheral update mode"
+  },
+  "gui.connection.connected": {
+    "message": "Propojeno",
+    "description": "Message indicating that a device was connected"
+  },
+  "gui.connection.disconnect": {
+    "message": "Odpojit",
+    "description": "Button to disconnect the device"
+  },
+  "gui.connection.go-to-editor": {
+    "message": "Jít do editoru",
+    "description": "Button to return to the editor"
+  },
+  "gui.connection.connecting-cancelbutton": {
+    "message": "Propojování...",
+    "description": "Label indicating that connection is in progress"
+  },
+  "gui.connection.error.errorMessage": {
+    "message": "Běda, zdá se, že se něco pokazilo.",
+    "description": "The device connection process has encountered an error."
+  },
+  "gui.connection.error.tryagainbutton": {
+    "message": "Zkus znovu",
+    "description": "Button to initiate trying the device connection again after an error"
+  },
+  "gui.connection.error.helpbutton": {
+    "message": "Pomoc",
+    "description": "Button to view help content"
+  },
+  "gui.connection.peripheral-name-label": {
+    "message": "Název zařízení",
+    "description": "Label for field showing the device name"
+  },
+  "gui.connection.connect": {
+    "message": "Propojit",
+    "description": "Button to start connecting to a specific device"
+  },
+  "gui.connection.scanning.lookingforperipherals": {
+    "message": "Hledám zařízení",
+    "description": "Text shown while scanning for devices"
+  },
+  "gui.connection.scanning.noPeripheralsFound": {
+    "message": "Nenalezena žádná zařízení",
+    "description": "Text shown when no devices could be found"
+  },
+  "gui.connection.scanning.instructions": {
+    "message": "Vyber své zařízení ze seznamu výše.",
+    "description": "Prompt for choosing a device to connect to"
+  },
+  "gui.connection.search": {
+    "message": "Aktualizovat",
+    "description": "Button in prompt for starting a search"
+  },
+  "gui.connection.scanning.updatePeripheralButton": {
+    "message": "Aktualizovat moje zařízení",
+    "description": "Button to enter the peripheral update mode"
+  },
+  "gui.connection.unavailable.installscratchlink": {
+    "message": "Ujisti se, že máš Scratch Link nainstalovaný a spuštěný",
+    "description": "Message for getting Scratch Link installed"
+  },
+  "gui.connection.unavailable.enablebluetooth": {
+    "message": "Zkontroluj, zda máš zapnuté Bluetooth",
+    "description": "Message for making sure Bluetooth is enabled"
+  },
+  "gui.connection.unavailable.tryagainbutton": {
+    "message": "Zkus znovu",
+    "description": "Button to initiate trying the device connection again after an error"
+  },
+  "gui.connection.unavailable.helpbutton": {
+    "message": "Pomoc",
+    "description": "Button to view help content"
+  },
+  "gui.connection.updatePeripheral.microBitConnect": {
+    "message": "Připoj svůj {extensionName} k tomuto zařízení USB kabelem.",
+    "description": "Instructions to connect the micro:bit to the computer for the update process"
+  },
+  "gui.connection.updatePeripheral.pressUpdate": {
+    "message": "Stiskni \"Provést aktualizaci\" a povol dokončení aktualizace.",
+    "description": "Instructions to press the button to begin the update process"
+  },
+  "gui.connection.updatePeripheral.progress": {
+    "message": "Aktualizováno {progressPercentage}%",
+    "description": "Progress message while updating the peripheral"
+  },
+  "gui.connection.updatePeripheral.updateSuccessful": {
+    "message": "Aktualizace proběhla úspěšně!",
+    "description": "Message to indicate that the peripheral update was successful"
+  },
+  "gui.connection.updatePeripheral.updateFailed": {
+    "message": "Aktualizace selhala.",
+    "description": "Message to indicate that the peripheral update failed"
+  },
+  "gui.connection.updatePeripheral.goBackButton": {
+    "message": "Jít zpět",
+    "description": "Button to leave the peripheral update process"
+  },
+  "gui.connection.updatePeripheral.updateNowButton": {
+    "message": "Provést aktualizaci",
+    "description": "Button to start the peripheral update"
+  },
+  "gui.connection.updatePeripheral.updateAgainButton": {
+    "message": "Zkusit znovu",
+    "description": "Button to try the peripheral update again"
+  },
+  "gui.controls.go": {
+    "message": "Spustit",
+    "description": "Green flag button title"
+  },
+  "gui.controls.stop": {
+    "message": "Zastavit",
+    "description": "Stop button title"
+  },
+  "gui.crashMessage.label": {
+    "message": "Jejda! Něco se pokazilo.",
+    "description": "Crash Message title"
+  },
+  "gui.crashMessage.description": {
+    "message": "Je nám líto, ale zdá se, že Scratch spadl. Tato chyba byla automaticky nahlášena týmu Scratch. Prosím, obnov stránku pro další pokus.",
+    "description": "Message to inform the user that page has crashed."
+  },
+  "gui.crashMessage.errorNumber": {
+    "message": "Tvá chyba byla evidována s id {errorId}",
+    "description": "Message to inform the user that page has crashed."
+  },
+  "gui.crashMessage.reload": {
+    "message": "Znovu načíst",
+    "description": "Button to reload the page when page crashes"
+  },
+  "gui.customProcedures.myblockModalTitle": {
+    "message": "Vytvořit blok",
+    "description": "Title for the modal where you create a custom block."
+  },
+  "gui.customProcedures.addAnInputNumberText": {
+    "message": "Přidej parametr",
+    "description": "Label for button to add a number/text input"
+  },
+  "gui.customProcedures.numberTextType": {
+    "message": "číslo nebo text",
+    "description": "Description of the number/text input type"
+  },
+  "gui.customProcedures.addAnInputBoolean": {
+    "message": "Přidat vstup",
+    "description": "Label for button to add a boolean input"
+  },
+  "gui.customProcedures.booleanType": {
+    "message": "logický",
+    "description": "Description of the boolean input type"
+  },
+  "gui.customProcedures.addALabel": {
+    "message": "Přidej popisek",
+    "description": "Label for button to add a label"
+  },
+  "gui.customProcedures.runWithoutScreenRefresh": {
+    "message": "Spustit bez obnovy obrazovky",
+    "description": "Label for checkbox to run without screen refresh"
+  },
+  "gui.customProcedures.cancel": {
+    "message": "Zrušit",
+    "description": "Label for button to cancel custom procedure edits"
+  },
+  "gui.customProcedures.ok": {
+    "message": "OK",
+    "description": "Label for button to save new custom procedure"
+  },
+  "gui.SpriteInfo.direction": {
+    "message": "Směr",
+    "description": "Sprite info direction label"
+  },
+  "gui.directionPicker.rotationStyles.allAround": {
+    "message": "Dokola",
+    "description": "Button to change to the all around rotation style"
+  },
+  "gui.directionPicker.rotationStyles.leftRight": {
+    "message": "Vlevo/vpravo",
+    "description": "Button to change to the left-right rotation style"
+  },
+  "gui.directionPicker.rotationStyles.dontRotate": {
+    "message": "Neotáčet",
+    "description": "Button to change to the dont rotate rotation style"
+  },
+  "gui.gui.addExtension": {
+    "message": "Přidej rozšíření",
+    "description": "Button to add an extension in the target pane"
+  },
+  "gui.gui.codeTab": {
+    "message": "Scénáře",
+    "description": "Button to get to the code panel"
+  },
+  "gui.gui.backdropsTab": {
+    "message": "Pozadí",
+    "description": "Button to get to the backdrops panel"
+  },
+  "gui.gui.costumesTab": {
+    "message": "Kostýmy",
+    "description": "Button to get to the costumes panel"
+  },
+  "gui.gui.soundsTab": {
+    "message": "Zvuky",
+    "description": "Button to get to the sounds panel"
+  },
+  "gui.extensionLibrary.comingSoon": {
+    "message": "Již brzy",
+    "description": "Label for extensions that are not yet implemented"
+  },
+  "gui.extensionLibrary.requires": {
+    "message": "Vyžaduje",
+    "description": "Label for extension hardware requirements"
+  },
+  "gui.extensionLibrary.collaboration": {
+    "message": "Spolupráce s",
+    "description": "Label for extension collaboration"
+  },
+  "gui.library.filterPlaceholder": {
+    "message": "Hledat",
+    "description": "Placeholder text for library search field"
+  },
+  "gui.library.allTag": {
+    "message": "Všechno",
+    "description": "Label for library tag to revert to all items after filtering by tag."
+  },
+  "gui.loader.message1": {
+    "message": "Vytvářím bloky ...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message2": {
+    "message": "Načítám postavy ...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message3": {
+    "message": "Načítání zvuků...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message4": {
+    "message": "Načítám rozšíření ...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message5": {
+    "message": "Kočkování koček...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message6": {
+    "message": "Přenáším ...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message7": {
+    "message": "Nafukování planet...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.message8": {
+    "message": "Připravuji smajlíky ...",
+    "description": "One of the loading messages"
+  },
+  "gui.loader.headline": {
+    "message": "Nahrávám projekt...",
+    "description": "Main loading message"
+  },
+  "gui.loader.creating": {
+    "message": "Vytváření projektu",
+    "description": "Main creating message"
+  },
+  "gui.accountMenu.profile": {
+    "message": "Profil",
+    "description": "Text to link to my user profile, in the account navigation menu"
+  },
+  "gui.accountMenu.myStuff": {
+    "message": "Moje věci",
+    "description": "Text to link to list of my projects, in the account navigation menu"
+  },
+  "gui.accountMenu.myClasses": {
+    "message": "Moje třídy",
+    "description": "Text to link to my classes (if I am a teacher), in the account navigation menu"
+  },
+  "gui.accountMenu.myClass": {
+    "message": "Moje třída",
+    "description": "Text to link to my class (if I am a student), in the account navigation menu"
+  },
+  "gui.accountMenu.accountSettings": {
+    "message": "Nastavení účtu",
+    "description": "Text to link to my account settings, in the account navigation menu"
+  },
+  "gui.accountMenu.signOut": {
+    "message": "Odhlášení",
+    "description": "Text to link to sign out, in the account navigation menu"
+  },
+  "gui.authorInfo.byUser": {
+    "message": "od uživatele {username}",
+    "description": "Shows that a project was created by this user"
+  },
+  "gui.menuBar.seeProjectPage": {
+    "message": "Shlédni stránku projektu",
+    "description": "Label for see project page button"
+  },
+  "gui.menuBar.language": {
+    "message": "Jazyk",
+    "description": "Language sub-menu"
+  },
+  "general.username": {
+    "message": "Jméno uživatele",
+    "description": "Label for login username input"
+  },
+  "general.password": {
+    "message": "Heslo",
+    "description": "Label for login password input"
+  },
+  "general.signIn": {
+    "message": "Přihlášení",
+    "description": "Button text for user to sign in"
+  },
+  "login.needHelp": {
+    "message": "Potřebujete pomoc?",
+    "description": "Button text for user to indicate that they need help"
+  },
+  "form.validationRequired": {
+    "message": "Povinné pole",
+    "description": "Message to tell user they must enter text in a form field"
+  },
+  "gui.menuBar.tutorialsLibrary": {
+    "message": "Návody",
+    "description": "accessibility text for the tutorials button"
+  },
+  "gui.menuBar.restoreSprite": {
+    "message": "Obnovit postavu",
+    "description": "Menu bar item for restoring the last deleted sprite."
+  },
+  "gui.menuBar.restoreSound": {
+    "message": "Obnovit zvuk",
+    "description": "Menu bar item for restoring the last deleted sound."
+  },
+  "gui.menuBar.restoreCostume": {
+    "message": "Obnovit kostým",
+    "description": "Menu bar item for restoring the last deleted costume."
+  },
+  "gui.menuBar.restore": {
+    "message": "Obnovit",
+    "description": "Menu bar item for restoring the last deleted item in its disabled state."
+  },
+  "gui.menuBar.saveNow": {
+    "message": "Uložit aktuální stav",
+    "description": "Menu bar item for saving now"
+  },
+  "gui.menuBar.saveAsCopy": {
+    "message": "Uložit jako kopii",
+    "description": "Menu bar item for saving as a copy"
+  },
+  "gui.menuBar.remix": {
+    "message": "Vytvoř si kopii",
+    "description": "Menu bar item for remixing"
+  },
+  "gui.menuBar.new": {
+    "message": "Nový",
+    "description": "Menu bar item for creating a new project"
+  },
+  "gui.menuBar.file": {
+    "message": "Soubor",
+    "description": "Text for file dropdown menu"
+  },
+  "gui.menuBar.downloadToComputer": {
+    "message": "Ulož do svého počítače",
+    "description": "Menu bar item for downloading a project to your computer"
+  },
+  "gui.menuBar.edit": {
+    "message": "Upravit",
+    "description": "Text for edit dropdown menu"
+  },
+  "gui.menuBar.turboModeOff": {
+    "message": "Vypni turbo režim",
+    "description": "Menu bar item for turning off turbo mode"
+  },
+  "gui.menuBar.turboModeOn": {
+    "message": "Zapni turbo režim",
+    "description": "Menu bar item for turning on turbo mode"
+  },
+  "gui.menuBar.modeMenu": {
+    "message": "Styl",
+    "description": "Mode menu item in the menu bar"
+  },
+  "gui.menuBar.normalMode": {
+    "message": "Normální styl",
+    "description": "April fools: resets editor to not have any pranks"
+  },
+  "gui.menuBar.caturdayMode": {
+    "message": "Kočičí styl",
+    "description": "April fools: Cat blocks mode"
+  },
+  "gui.menuBar.joinScratch": {
+    "message": "Připojit se ke Scratchi",
+    "description": "Link for creating a Scratch account"
+  },
+  "gui.menuBar.signIn": {
+    "message": "Přihlášení",
+    "description": "Link for signing in to your Scratch account"
+  },
+  "gui.gui.projectTitlePlaceholder": {
+    "message": "Název projektu",
+    "description": "Placeholder for project title when blank"
+  },
+  "gui.menuBar.saveNowLink": {
+    "message": "Uložit teď",
+    "description": "Title bar link for saving now"
+  },
+  "gui.menuBar.settings": {
+    "message": "Nastavení",
+    "description": "Settings menu"
+  },
+  "gui.menuBar.isShared": {
+    "message": "Sdílené",
+    "description": "Label for shared project"
+  },
+  "gui.menuBar.share": {
+    "message": "Sdílet",
+    "description": "Label for project share button"
+  },
+  "gui.menuBar.colorMode": {
+    "message": "Barevný režim",
+    "description": "Color mode sub-menu"
+  },
+  "gui.modal.help": {
+    "message": "Pomoc",
+    "description": "Help button in modal"
+  },
+  "gui.modal.back": {
+    "message": "Zpět",
+    "description": "Back button in modal"
+  },
+  "gui.monitor.listMonitor.empty": {
+    "message": "(prázdný)",
+    "description": "Text shown on a list monitor when a list is empty"
+  },
+  "gui.monitor.listMonitor.listLength": {
+    "message": "délka {length}",
+    "description": "Length label on list monitors. DO NOT translate {length} (with brackets)."
+  },
+  "gui.monitor.contextMenu.default": {
+    "message": "normální zobrazení",
+    "description": "Menu item to switch to the default monitor"
+  },
+  "gui.monitor.contextMenu.large": {
+    "message": "zvětšené zobrazení",
+    "description": "Menu item to switch to the large monitor"
+  },
+  "gui.monitor.contextMenu.slider": {
+    "message": "posuvník",
+    "description": "Menu item to switch to the slider monitor"
+  },
+  "gui.monitor.contextMenu.sliderRange": {
+    "message": "změnit rozsah posuvníku",
+    "description": "Menu item to change the slider range"
+  },
+  "gui.monitor.contextMenu.import": {
+    "message": "import",
+    "description": "Menu item to import into list monitors"
+  },
+  "gui.monitor.contextMenu.export": {
+    "message": "export",
+    "description": "Menu item to export from list monitors"
+  },
+  "gui.monitor.contextMenu.hide": {
+    "message": "skryj se",
+    "description": "Menu item to hide the monitor"
+  },
+  "gui.playButton.play": {
+    "message": "Hraj",
+    "description": "Title of the button to start playing the sound"
+  },
+  "gui.playButton.stop": {
+    "message": "Zastav",
+    "description": "Title of the button to stop the sound"
+  },
+  "gui.gui.variableScopeOptionAllSprites": {
+    "message": "Pro všechny postavy",
+    "description": "Option message when creating a variable for making it available to all sprites"
+  },
+  "gui.gui.variableScopeOptionSpriteOnly": {
+    "message": "Jen pro tuto postavu",
+    "description": "Option message when creating a varaible for making it only available to the current sprite"
+  },
+  "gui.gui.cloudVariableOption": {
+    "message": "cloudová proměnná (uložená na serveru)",
+    "description": "Option message when creating a variable for making it a cloud variable, a variable that is stored on the server"
+  },
+  "gui.gui.variablePromptAllSpritesMessage": {
+    "message": "Tato proměnná bude dostupná všem postavám.",
+    "description": "A message that displays in a variable modal when the stage is selected indicating that the variable being created will available to all sprites."
+  },
+  "gui.gui.listPromptAllSpritesMessage": {
+    "message": "Tento seznam bude dostupný pro všechny postavy.",
+    "description": "A message that displays in a list modal when the stage is selected indicating that the list being created will available to all sprites."
+  },
+  "gui.prompt.cancel": {
+    "message": "Zrušit",
+    "description": "Button in prompt for cancelling the dialog"
+  },
+  "gui.prompt.ok": {
+    "message": "OK",
+    "description": "Button in prompt for confirming the dialog"
+  },
+  "gui.playbackStep.stopMsg": {
+    "message": "Zastavit",
+    "description": "Stop/Play button in recording playback"
+  },
+  "gui.playbackStep.playMsg": {
+    "message": "Přehrát",
+    "description": "Stop/Play button in recording playback"
+  },
+  "gui.playbackStep.loadingMsg": {
+    "message": "Nahrávám..",
+    "description": "Loading/Save button in recording playback"
+  },
+  "gui.playbackStep.saveMsg": {
+    "message": "Uložit",
+    "description": "Loading/Save button in recording playback"
+  },
+  "gui.playbackStep.reRecordMsg": {
+    "message": "Znovu nahrát",
+    "description": "Button to re-record sound in recording playback"
+  },
+  "gui.recordModal.title": {
+    "message": "Nahrát zvuk",
+    "description": "Recording modal title"
+  },
+  "gui.recordingStep.beginRecord": {
+    "message": "Začni natáčet kliknutím na tlačítko níže",
+    "description": "Message for recording sound modal"
+  },
+  "gui.recordingStep.permission": {
+    "message": "{arrow}Potřebujeme povolení k používání tvého mikrofonu",
+    "description": "Permission required notice in recording sound modal. Do not translate {arrow}"
+  },
+  "gui.recordingStep.stop": {
+    "message": "Zastavit natáčení",
+    "description": "Stop recording button label"
+  },
+  "gui.recordingStep.record": {
+    "message": "Nahraj",
+    "description": "Record button label"
+  },
+  "gui.sliderModal.min": {
+    "message": "Nejmenší hodnota",
+    "description": "Label of slider modal"
+  },
+  "gui.sliderModal.max": {
+    "message": "Největší hodnota",
+    "description": "Label of slider modal"
+  },
+  "gui.sliderModal.title": {
+    "message": "Změnit rozsah posuvníku",
+    "description": "Title of slider modal"
+  },
+  "gui.sliderPrompt.cancel": {
+    "message": "Zrušit",
+    "description": "Button in prompt for cancelling the dialog"
+  },
+  "gui.sliderPrompt.ok": {
+    "message": "OK",
+    "description": "Button in prompt for confirming the dialog"
+  },
+  "gui.soundEditor.sound": {
+    "message": "Zvuk",
+    "description": "Label for the name of the sound"
+  },
+  "gui.soundEditor.play": {
+    "message": "Hraj",
+    "description": "Title of the button to start playing the sound"
+  },
+  "gui.soundEditor.stop": {
+    "message": "Zastavit",
+    "description": "Title of the button to stop the sound"
+  },
+  "gui.soundEditor.copy": {
+    "message": "Zkopírovat",
+    "description": "Title of the button to copy the sound"
+  },
+  "gui.soundEditor.paste": {
+    "message": "Vložit",
+    "description": "Title of the button to paste the sound"
+  },
+  "gui.soundEditor.copyToNew": {
+    "message": "Zkopírovat do nového",
+    "description": "Title of the button to copy the selection into a new sound"
+  },
+  "gui.soundEditor.delete": {
+    "message": "Odstranit",
+    "description": "Title of the button to delete the sound"
+  },
+  "gui.soundEditor.save": {
+    "message": "Uložit",
+    "description": "Title of the button to save trimmed sound"
+  },
+  "gui.soundEditor.undo": {
+    "message": "Zpět",
+    "description": "Title of the button to undo"
+  },
+  "gui.soundEditor.redo": {
+    "message": "Znovu",
+    "description": "Title of the button to redo"
+  },
+  "gui.soundEditor.faster": {
+    "message": "Rychleji",
+    "description": "Title of the button to apply the faster effect"
+  },
+  "gui.soundEditor.slower": {
+    "message": "Pomaleji",
+    "description": "Title of the button to apply the slower effect"
+  },
+  "gui.soundEditor.echo": {
+    "message": "Ozvěna",
+    "description": "Title of the button to apply the echo effect"
+  },
+  "gui.soundEditor.robot": {
+    "message": "Robot",
+    "description": "Title of the button to apply the robot effect"
+  },
+  "gui.soundEditor.louder": {
+    "message": "Zesílit",
+    "description": "Title of the button to apply the louder effect"
+  },
+  "gui.soundEditor.softer": {
+    "message": "Zeslabit",
+    "description": "Title of the button to apply thr.softer effect"
+  },
+  "gui.soundEditor.reverse": {
+    "message": "Pozpátku",
+    "description": "Title of the button to apply the reverse effect"
+  },
+  "gui.soundEditor.fadeOut": {
+    "message": "Postupné ztišení",
+    "description": "Title of the button to apply the fade out effect"
+  },
+  "gui.soundEditor.fadeIn": {
+    "message": "Postupný náběh",
+    "description": "Title of the button to apply the fade in effect"
+  },
+  "gui.soundEditor.mute": {
+    "message": "Ztišit",
+    "description": "Title of the button to apply the mute effect"
+  },
+  "gui.SpriteInfo.spritePlaceholder": {
+    "message": "Název",
+    "description": "Placeholder text for sprite name"
+  },
+  "gui.SpriteInfo.showSpriteAction": {
+    "message": "Ukaž postavu",
+    "description": "Tooltip for show sprite button"
+  },
+  "gui.SpriteInfo.hideSpriteAction": {
+    "message": "Skryj postavu",
+    "description": "Tooltip for hide sprite button"
+  },
+  "gui.SpriteInfo.sprite": {
+    "message": "Postava",
+    "description": "Sprite info label"
+  },
+  "gui.SpriteInfo.show": {
+    "message": "Ukázat",
+    "description": "Sprite info show label"
+  },
+  "gui.SpriteInfo.size": {
+    "message": "Velikost",
+    "description": "Sprite info size label"
+  },
+  "gui.spriteSelectorItem.contextMenuDuplicate": {
+    "message": "zkopíruj",
+    "description": "Menu item to duplicate in the right click menu"
+  },
+  "gui.spriteSelectorItem.contextMenuExport": {
+    "message": "export",
+    "description": "Menu item to export the selected item"
+  },
+  "gui.spriteSelectorItem.contextMenuDelete": {
+    "message": "smazat",
+    "description": "Menu item to delete in the right click menu"
+  },
+  "gui.spriteSelector.addSpriteFromLibrary": {
+    "message": "Vyber postavu",
+    "description": "Button to add a sprite in the target pane from library"
+  },
+  "gui.spriteSelector.addSpriteFromPaint": {
+    "message": "Kreslit",
+    "description": "Button to add a sprite in the target pane from paint"
+  },
+  "gui.spriteSelector.addSpriteFromSurprise": {
+    "message": "Překvapení",
+    "description": "Button to add a random sprite in the target pane"
+  },
+  "gui.spriteSelector.addSpriteFromFile": {
+    "message": "Nahrát postavu",
+    "description": "Button to add a sprite in the target pane from file"
+  },
+  "gui.stageHeader.stageSizeLarge": {
+    "message": "Přepni na velkou scénu",
+    "description": "Button to change stage size to large"
+  },
+  "gui.stageHeader.stageSizeSmall": {
+    "message": "Přepni na malou scénu",
+    "description": "Button to change stage size to small"
+  },
+  "gui.stageHeader.stageSizeFull": {
+    "message": "Vstup do režimu celé obrazovky",
+    "description": "Button to change stage size to full screen"
+  },
+  "gui.stageHeader.stageSizeUnFull": {
+    "message": "Ukončit režim celé obrazovky",
+    "description": "Button to get out of full screen mode"
+  },
+  "gui.stageHeader.fullscreenControl": {
+    "message": "Ovládání celé obrazovky",
+    "description": "Button to enter/exit full screen mode"
+  },
+  "gui.spriteSelector.addBackdropFromLibrary": {
+    "message": "Vybrat pozadí",
+    "description": "Button to add a stage in the target pane from library"
+  },
+  "gui.stageSelector.addBackdropFromPaint": {
+    "message": "Kresli",
+    "description": "Button to add a stage in the target pane from paint"
+  },
+  "gui.stageSelector.addBackdropFromSurprise": {
+    "message": "Překvapení",
+    "description": "Button to add a random stage in the target pane"
+  },
+  "gui.stageSelector.addBackdropFromFile": {
+    "message": "Nahrát pozadí",
+    "description": "Button to add a stage in the target pane from file"
+  },
+  "gui.stageSelector.stage": {
+    "message": "Scéna",
+    "description": "Label for the stage in the stage selector"
+  },
+  "gui.stageSelector.backdrops": {
+    "message": "Pozadí",
+    "description": "Label for the backdrops in the stage selector"
+  },
+  "gui.telemetryOptIn.label": {
+    "message": "Hlášení statistik kvůli vylepšení Scratch",
+    "description": "Scratch 3.0 telemetry modal label - for accessibility"
+  },
+  "gui.telemetryOptIn.body1": {
+    "message": "Tým Scratch se neustále snaží o lepší pochopení toho, jak je Scratch ve světě užíván. Pro podporu tohoto úsilí můžeš povolit programu Scratch,\n aby zasílal automaticky informace o používání do týmu Scratch.",
+    "description": "First paragraph of body text for telemetry opt-in modal"
+  },
+  "gui.telemetryOptIn.body2": {
+    "message": "Sbírané informace obsahují volbu jazyka, použití bloků a některé události, jako ukládání, stahování a nahrávání projektu. NESBÍRÁME žádné osobní informace. Prosím navštiv naši stránku {privacyPolicyLink} pro další informace.",
+    "description": "First paragraph of body text for telemetry opt-in modal"
+  },
+  "gui.telemetryOptIn.privacyPolicyLink": {
+    "message": "Zásady ochrany osobních údajů",
+    "description": "Link to the Scratch privacy policy"
+  },
+  "gui.telemetryOptIn.optInText": {
+    "message": "Sdílet moje údaje o používání s týmem Scratch",
+    "description": "Text for telemetry modal opt-in button"
+  },
+  "gui.telemetryOptIn.optInTooltip": {
+    "message": "Povolit telemetrii",
+    "description": "Tooltip for telemetry modal opt-in button"
+  },
+  "gui.telemetryOptIn.optOutText": {
+    "message": "Nesdílet moje údaje o používání s týmem Scratch",
+    "description": "Text for telemetry modal opt-in button"
+  },
+  "gui.telemetryOptIn.optOutTooltip": {
+    "message": "Vypnout telemetrii",
+    "description": "Tooltip for telemetry modal opt-out button"
+  },
+  "gui.telemetryOptIn.settingWasUpdated": {
+    "message": "Tvoje nastavení bylo aktualizováno",
+    "description": "Message indicating that the telemetry setting was updated and saved"
+  },
+  "gui.telemetryOptIn.buttonClose": {
+    "message": "Zavřít",
+    "description": "Text for the button which closes the telemetry modal dialog"
+  },
+  "gui.turboMode.active": {
+    "message": "Turbo režim",
+    "description": "Label indicating turbo mode is active"
+  },
+  "gui.webglModal.label": {
+    "message": "Tvůj prohlížeč nepodporuje WebGL",
+    "description": "WebGL missing title"
+  },
+  "gui.webglModal.description": {
+    "message": "Bohužel to vypadá, že tvůj prohlížeč nebo počítač  {webGlLink}. Scratch 3.0 tuto technologii potřebuje, aby šel spustit.",
+    "description": "WebGL missing message"
+  },
+  "gui.webglModal.webgllink": {
+    "message": "nepodporuje WebGL",
+    "description": "link part of your browser does not support WebGL message"
+  },
+  "gui.webglModal.back": {
+    "message": "Zpět",
+    "description": "Label for button go back when browser is unsupported"
+  },
+  "gui.webglModal.previewfaq": {
+    "message": "Pro další info jdi na {previewFaqLink}.",
+    "description": "Scratch 3.0 FAQ description"
+  },
+  "gui.webglModal.previewfaqlinktext": {
+    "message": "FAQ",
+    "description": "link to Scratch 3.0 FAQ page"
+  },
+  "gui.costumeLibrary.chooseABackdrop": {
+    "message": "Vybrat pozadí",
+    "description": "Heading for the backdrop library"
+  },
+  "gui.costumeLibrary.chooseACostume": {
+    "message": "Vyber kostým",
+    "description": "Heading for the costume library"
+  },
+  "gui.costumeTab.addBackdropFromLibrary": {
+    "message": "Vybrat pozadí",
+    "description": "Button to add a backdrop in the editor tab"
+  },
+  "gui.costumeTab.addCostumeFromLibrary": {
+    "message": "Vyber kostým",
+    "description": "Button to add a costume in the editor tab"
+  },
+  "gui.costumeTab.addBlankCostume": {
+    "message": "Kreslit",
+    "description": "Button to add a blank costume in the editor tab"
+  },
+  "gui.costumeTab.addSurpriseCostume": {
+    "message": "Překvapení",
+    "description": "Button to add a surprise costume in the editor tab"
+  },
+  "gui.costumeTab.addFileBackdrop": {
+    "message": "Nahrát pozadí",
+    "description": "Button to add a backdrop by uploading a file in the editor tab"
+  },
+  "gui.costumeTab.addFileCostume": {
+    "message": "Nahrát kostým",
+    "description": "Button to add a costume by uploading a file in the editor tab"
+  },
+  "gui.extensionLibrary.chooseAnExtension": {
+    "message": "Vyber rozšíření",
+    "description": "Heading for the extension library"
+  },
+  "gui.extensionLibrary.extensionUrl": {
+    "message": "Zadej URL rozšíření",
+    "description": "Prompt for unoffical extension url"
+  },
+  "gui.monitors.importListColumnPrompt": {
+    "message": "Který sloupec se má použít (1-{numberOfColumns})?",
+    "description": "Prompt for which column should be used"
+  },
+  "gui.recordingStep.alertMsg": {
+    "message": "Nemohu začít nahrávat",
+    "description": "Alert for recording error"
+  },
+  "gui.soundLibrary.chooseASound": {
+    "message": "Vybrat zvuk",
+    "description": "Heading for the sound library"
+  },
+  "gui.soundTab.fileUploadSound": {
+    "message": "Nahrát zvuk",
+    "description": "Button to upload sound from file in the editor tab"
+  },
+  "gui.soundTab.surpriseSound": {
+    "message": "Překvapení",
+    "description": "Button to get a random sound in the editor tab"
+  },
+  "gui.soundTab.recordSound": {
+    "message": "Nahraj",
+    "description": "Button to record a sound in the editor tab"
+  },
+  "gui.soundTab.addSoundFromLibrary": {
+    "message": "Vyber zvuk.",
+    "description": "Button to add a sound in the editor tab"
+  },
+  "gui.spriteLibrary.chooseASprite": {
+    "message": "Vyber si postavu",
+    "description": "Heading for the sprite library"
+  },
+  "gui.tipsLibrary.tutorials": {
+    "message": "Vyber si návod",
+    "description": "Heading for the help/tutorials library"
+  },
+  "gui.alerts.createsuccess": {
+    "message": "Vytvořen nový projekt.",
+    "description": "Message indicating that project was successfully created"
+  },
+  "gui.alerts.createcopysuccess": {
+    "message": "Projekt uložen jako kopie.",
+    "description": "Message indicating that project was successfully created"
+  },
+  "gui.alerts.createremixsuccess": {
+    "message": "Projekt uložen jako remix.",
+    "description": "Message indicating that project was successfully created"
+  },
+  "gui.alerts.creating": {
+    "message": "Vytvářím nový...",
+    "description": "Message indicating that project is in process of creating"
+  },
+  "gui.alerts.creatingCopy": {
+    "message": "Kopíruji projekt...",
+    "description": "Message indicating that project is in process of copying"
+  },
+  "gui.alerts.creatingRemix": {
+    "message": "Remixuji projekt...",
+    "description": "Message indicating that project is in process of remixing"
+  },
+  "gui.alerts.creatingError": {
+    "message": "Nelze vytvořit projekt. Zkuste to znovu!",
+    "description": "Message indicating that project could not be created"
+  },
+  "gui.alerts.savingError": {
+    "message": "Projekt nemohl být uložen.",
+    "description": "Message indicating that project could not be saved"
+  },
+  "gui.alerts.savesuccess": {
+    "message": "Projekt uložen.",
+    "description": "Message indicating that project was successfully saved"
+  },
+  "gui.alerts.saving": {
+    "message": "Ukládám projekt...",
+    "description": "Message indicating that project is in process of saving"
+  },
+  "gui.alerts.cloudInfo": {
+    "message": "Všimni si, prosím, že cloudové proměnné podporují jen čísla, ne písmena nebo symboly. {learnMoreLink}",
+    "description": "Info about cloud variable limitations"
+  },
+  "gui.alerts.cloudInfoLearnMore": {
+    "message": "Další poučení.",
+    "description": "Link text to cloud var faq"
+  },
+  "gui.alerts.importing": {
+    "message": "Importování...",
+    "description": "Message indicating that project is in process of importing"
+  },
+  "gui.defaultProject.meow": {
+    "message": "Mňau",
+    "description": "Name for the meow sound"
+  },
+  "gui.defaultProject.variable": {
+    "message": "moje proměnná",
+    "description": "Name for the default variable"
+  },
+  "gui.howtos.intro-move-sayhello-hat.name": {
+    "message": "Začínáme",
+    "description": "Name for the 'Getting Started' how-to"
+  },
+  "gui.howtos.intro-move.step_stepMove": {
+    "message": "Přidej blok pohybu",
+    "description": "Step name for 'Add a move block' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepSay": {
+    "message": "Přidej blok bublina",
+    "description": "Step name for 'Add A Say Block' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepGreenFlag": {
+    "message": "Klikni na zelenou vlajku pro spuštění",
+    "description": "Step name for 'Add A Green Flag' step"
+  },
+  "gui.howtos.intro-getting-started-ASL.name": {
+    "message": "Začínáme - ASL",
+    "description": "Name for the 'Getting Started ASL (American Sign Language)' how-to"
+  },
+  "gui.howtos.animate-a-name.name": {
+    "message": "Animuj jméno",
+    "description": "Name for the 'Animate a Name' how-to"
+  },
+  "gui.howtos.animate-a-name.step_AnimatePickLetter": {
+    "message": "Vyber si písmeno",
+    "description": "Step name for 'Pick a Letter Sprite' step"
+  },
+  "gui.howtos.animate-a-name.step_AnimatePlaySound": {
+    "message": "Zahraj zvuk po kliknutí",
+    "description": "Step name for 'Play a Sound When Clicked' step"
+  },
+  "gui.howtos.animate-a-name.step_AnimatePickLetter2": {
+    "message": "Vyber si další písmeno",
+    "description": "Step name for 'Pick Another Letter Sprite"
+  },
+  "gui.howtos.animate-a-name.step_AnimateChangeColor": {
+    "message": "Změn barvu",
+    "description": "Step name for 'Change color' step"
+  },
+  "gui.howtos.animate-a-name.step_AnimateSpin": {
+    "message": "Vyber si další písmeno a přinuť ho k otáčení",
+    "description": "Step name for 'Pick Another Letter Sprite & Make It Spin' step"
+  },
+  "gui.howtos.animate-a-name.step_AnimateGrow": {
+    "message": "Vyber si další písmeno a přinuť ho se zvětšovat",
+    "description": "Step name for 'Pick Another Letter Sprite & Make It Grow!' step"
+  },
+  "gui.howtos.imagine": {
+    "message": "Vymysli si svět",
+    "description": "Name for the 'Imagine a World' how-to"
+  },
+  "gui.howtos.imagine.step_imagineTypeWhatYouWant": {
+    "message": "Napiš, co chceš říct",
+    "description": "Step name for 'Type What You Want to Say' step"
+  },
+  "gui.howtos.imagine.step_imagineClickGreenFlag": {
+    "message": "Klikni na zelený  praporek pro spuštění",
+    "description": "Step name for 'Click the Green Flag to Start' step"
+  },
+  "gui.howtos.imagine.step_imagineChooseBackdrop": {
+    "message": "Vyber nějaké pozadí",
+    "description": "Step name for 'Choose Any Backdrop' step"
+  },
+  "gui.howtos.imagine.step_imagineChooseSprite": {
+    "message": "Vyber nějakou postavu",
+    "description": "Step name for 'Choose Any Sprite' step"
+  },
+  "gui.howtos.imagine.step_imagineFlyAround": {
+    "message": "Stiskni mezerník pro klouzání",
+    "description": "Step name for 'Press the Space Key to Glide' step"
+  },
+  "gui.howtos.imagine.step_imagineChooseAnotherSprite": {
+    "message": "Vyber jinou postavu",
+    "description": "Step name for 'Choose Another Sprite' step"
+  },
+  "gui.howtos.imagine.step_imagineLeftRight": {
+    "message": "Pohyb vlevo-vpravo",
+    "description": "Step name for 'Move Left-Right' step"
+  },
+  "gui.howtos.imagine.step_imagineUpDown": {
+    "message": "Pohyb nahoru-dolů",
+    "description": "Step name for 'Move Up-Down' step"
+  },
+  "gui.howtos.imagine.step_imagineChangeCostumes": {
+    "message": "Změň kostýmy",
+    "description": "Step name for 'Change Costumes' step"
+  },
+  "gui.howtos.imagine.step_imagineGlideToPoint": {
+    "message": "Klouzej na místo",
+    "description": "Step name for 'Glide to a Point' step"
+  },
+  "gui.howtos.imagine.step_imagineGrowShrink": {
+    "message": "Zvětšuj a zmenšuj",
+    "description": "Step name for 'Grow and Shrink' step"
+  },
+  "gui.howtos.imagine.step_imagineChooseAnotherBackdrop": {
+    "message": "Vyber jiné pozadí",
+    "description": "Step name for 'Choose Another Backdrop' step"
+  },
+  "gui.howtos.imagine.step_imagineSwitchBackdrops": {
+    "message": "Přepni pozadí",
+    "description": "Step name for 'Switch Backdrops' step"
+  },
+  "gui.howtos.imagine.step_imagineRecordASound": {
+    "message": "Přidej zvuk",
+    "description": "Step name for 'Add a Sound' step"
+  },
+  "gui.howtos.imagine.step_imagineChooseSound": {
+    "message": "Vyber si svůj zvuk",
+    "description": "Step name for 'Choose Your Sound' step"
+  },
+  "gui.howtos.make-music.name": {
+    "message": "Vytvoř hudbu",
+    "description": "Name for the 'Make Music' how-to"
+  },
+  "gui.howtos.Make-Music.step_PickInstrument": {
+    "message": "Zvol si postavu nástroje",
+    "description": "Step name for 'Pick an Instrument Sprite' step"
+  },
+  "gui.howtos.Make-Music.step_PlaySoundClick": {
+    "message": "Zahraj zvuk po kliknutí",
+    "description": "Step name for 'Play Sound When Clicked' step"
+  },
+  "gui.howtos.Make-Music.step_MakeSong": {
+    "message": "Vytvoř písničku",
+    "description": "Step name for 'Create a Song' step"
+  },
+  "gui.howtos.make-music.step_MakeBeat": {
+    "message": "Vyber si buben a udělej takt",
+    "description": "Step name for 'Choose a Drum & Make a Beat' step"
+  },
+  "gui.howtos.make-music.step_MakeBeatBox": {
+    "message": "Vyber si postavy Mikrofon a Překvapující Beatbox",
+    "description": "Step name for 'Choose the Microphone Sprite & Surprise Beatbox' step"
+  },
+  "gui.howtos.story.name": {
+    "message": "Vytvoř si příběh",
+    "description": "Name for the 'Create A Story' how-to"
+  },
+  "gui.howtos.story.step_addbg": {
+    "message": "Přidej pozadí",
+    "description": "Step name for 'Add a Backdrop' step"
+  },
+  "gui.howtos.story.step_addsprite": {
+    "message": "Přidej postavu",
+    "description": "Step name for 'Add a Character' step"
+  },
+  "gui.howtos.story.step_saysomething": {
+    "message": "Řekni něco",
+    "description": "Step name for 'Say Something' step"
+  },
+  "gui.howtos.story.step_addanothersprite": {
+    "message": "Přidej další postavu",
+    "description": "Step name for 'Add Another Character' step"
+  },
+  "gui.howtos.story.step_flip": {
+    "message": "Přepni  směr",
+    "description": "Flip Direction' step"
+  },
+  "gui.howtos.story.step_conversation": {
+    "message": "Rozmlouvej",
+    "description": "Step name for 'Have A Conversation' step"
+  },
+  "gui.howtos.story.addanotherbg": {
+    "message": "Přidej další pozadí",
+    "description": "Step name for 'Add Another Backdrop' step"
+  },
+  "gui.howtos.story.step_swithbg": {
+    "message": "Přepni pozadí",
+    "description": "Step name for 'Switch Backdrops' step"
+  },
+  "gui.howtos.story.step_hidewizard": {
+    "message": "Skryj postavu",
+    "description": "Step name for 'Hide the Wizard' step"
+  },
+  "gui.howtos.story.step_showwizard": {
+    "message": "Ukaž postavu",
+    "description": "Step name for 'Show the Wizard' step"
+  },
+  "gui.howtos.make-a-chase-game.name": {
+    "message": "Udělej si honičku",
+    "description": "Name for the 'Make a Chase Game' how-to"
+  },
+  "gui.howtos.Chase-Game.step_BG": {
+    "message": "Přidej pozadí",
+    "description": "Step name for 'Add a Backdrop' step"
+  },
+  "gui.howtos.chase-game.step_AddOcto": {
+    "message": " Přidej postavu",
+    "description": "Step name for 'Add a Sprite' step"
+  },
+  "gui.howtos.make-music.step_LeftRight": {
+    "message": "Pohybuj se doprava a doleva s pomocí šipek",
+    "description": "Step name for 'Move Right & Left With Arrow Keys' step"
+  },
+  "gui.howtos.Chase-Game.step_UpDown": {
+    "message": "Pohybuj se nahoru a dolů s pomocí šipek",
+    "description": "Step name for 'Move Up & Down With Arrow Keys' step"
+  },
+  "gui.howtos.Chase-Game.step_AddStar": {
+    "message": "Přidej jinou postavu",
+    "description": "Step name for 'Add Another Sprite' step"
+  },
+  "gui.howtos.Chase-Game.step_MoveRandom": {
+    "message": "Pohybuj se náhodně",
+    "description": "Step name for 'Move Randomly' step"
+  },
+  "gui.howtos.Chase-Game.step_WhenTouch": {
+    "message": "V postavě Chobotnice, při doteku přehraj zvuk",
+    "description": "Step name for 'In Octopus Sprite, When Touching Play Sound' step"
+  },
+  "gui.howtos.Chase-Game.step_ScoreVariable": {
+    "message": "Vytvoř proměnnou skóre",
+    "description": "Step name for 'Create Score Variable"
+  },
+  "gui.howtos.Chase-Game.ScoreWhenTouch": {
+    "message": "V postavě Chobotnice, při doteku přidej skóre",
+    "description": "Step name for 'In Octopus Sprite, When Touching Add Score step"
+  },
+  "gui.howtos.animate-char.name": {
+    "message": "Animuj postavu",
+    "description": "Name for the 'Animate A Character' how-to"
+  },
+  "gui.howtos.animate-char.step_addbg": {
+    "message": "Přidej pozadí",
+    "description": "Step name for 'Add a Backdrop' step"
+  },
+  "gui.howtos.animate-char.step_addsprite": {
+    "message": " Přidej postavu",
+    "description": "Step name for 'Add a Sprite' step"
+  },
+  "gui.howtos.animate-char.step_saysomething": {
+    "message": "Řekni něco",
+    "description": "Step name for 'Say Something' step"
+  },
+  "gui.howtos.animate-char.step_addsound": {
+    "message": "Přidej zvuk",
+    "description": "Step name for 'Add Sound' step"
+  },
+  "gui.howtos.animate-char.step_animatetalking": {
+    "message": "Animuj mluvení",
+    "description": "Step name for 'Animate Talking' step"
+  },
+  "gui.howtos.animate-char.step_arrowkeys": {
+    "message": "Hýbání pomocí šipek",
+    "description": "Step name for 'Move Using Arrow Keys' step"
+  },
+  "gui.howtos.animate-char.step_jump": {
+    "message": "Skok",
+    "description": "Step name for 'Jump' step"
+  },
+  "gui.howtos.animate-char.step_changecolor": {
+    "message": "Změna barvy",
+    "description": "Step name for 'Change Color' step"
+  },
+  "gui.howtos.make-a-game.name": {
+    "message": "Udělej hru kliker",
+    "description": "Name for the 'Make a Clicker Game' how-to"
+  },
+  "gui.howtos.Make-A-Game.step_GamePickSprite": {
+    "message": "Vyber si postavu",
+    "description": "Step name for 'Pick A Sprite' step"
+  },
+  "gui.howtos.make-a-game.step_GamePlaySound": {
+    "message": "Zahraj zvuk po kliknutí",
+    "description": "Play Sound When Clicked' step"
+  },
+  "gui.howtos.make-a-game.step_GameAddScore": {
+    "message": "Vytvoř proměnnou skóre",
+    "description": "Step name for 'Create Score Variable' step"
+  },
+  "gui.howtos.make-a-game.step_GameChangeScore": {
+    "message": "Při kliknutí navyš skóre",
+    "description": "Step name for 'When Clicked Increase Score' step"
+  },
+  "gui.howtos.make-a-game.step_Random": {
+    "message": "Skoč na náhodnou pozici",
+    "description": "Step name for 'Go to a random position' step"
+  },
+  "gui.howtos.make-music.step_GameChangeColor": {
+    "message": "Změna barvy",
+    "description": "Step name for 'Change Color' step"
+  },
+  "gui.howtos.make-music.step_ResetScore": {
+    "message": "Vynuluj skóre",
+    "description": "Step name for 'Reset Score' step"
+  },
+  "gui.howtos.make-it-fly.name": {
+    "message": "Nauč létat",
+    "description": "Name for the 'Make it Fly' Make it Fly"
+  },
+  "gui.howtos.fly.step_stepflyChooseBackdrop": {
+    "message": "Zvol pozadí oblohy",
+    "description": "Step name for 'Choose a Sky Background' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyChooseCharacter": {
+    "message": "Vyber si postavu",
+    "description": "Step name for 'Choose a Character' step"
+  },
+  "gui.howtos.fly.step_stepflySaySomething": {
+    "message": "Řekni něco",
+    "description": "Step name for 'Say Something' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyMoveArrows": {
+    "message": "Hýbání pomocí šipek",
+    "description": "Step name for 'Move With Arrow Keys' step"
+  },
+  "gui.howtos.fly.step_stepflyChooseObject": {
+    "message": "Vyber objekt ke sbírání",
+    "description": "Step name for 'Choose an Object to Collect' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyFlyingObject": {
+    "message": "Rozpohybuj objekt",
+    "description": "Step name for 'Make the Object Move' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflySelectFlyingSprite": {
+    "message": "Zvol si svoji postavu",
+    "description": "Step name for 'Select Your Character' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyAddScore": {
+    "message": "Přidej skóre",
+    "description": "Step name for 'Add a Score' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyKeepScore": {
+    "message": "Udržuj skóre",
+    "description": "Step name for 'Keep Score' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyAddScenery": {
+    "message": "Přidej scénu",
+    "description": "Step name for 'Add Scenery' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflyMoveScenery": {
+    "message": "Pohybuj scénou",
+    "description": "Step name for 'Move the Scenery' step"
+  },
+  "gui.howtos.add-a-move-block.step_stepflySwitchLooks": {
+    "message": "Další kostým",
+    "description": "Step name for 'Change the Scenery' step"
+  },
+  "gui.howtos.pong": {
+    "message": "Hra Ping pong",
+    "description": "Name for the 'Pong Game' how-to"
+  },
+  "gui.howtos.pong.step_pongAddBackdrop": {
+    "message": "Přidej pozadí",
+    "description": "Step name for 'Add a Backdrop' step"
+  },
+  "gui.howtos.pong.step_pongAddBallSprite": {
+    "message": " Přidej postavu míče",
+    "description": "Step name for 'Add a Ball Sprite' step"
+  },
+  "gui.howtos.pong.step_pongBounceAround": {
+    "message": "Odrážení dokola",
+    "description": "Step name for 'Bounce Around' step"
+  },
+  "gui.howtos.pong.step_pongAddPaddle": {
+    "message": "Přidej pálku",
+    "description": "Step name for 'Add a Paddle' step"
+  },
+  "gui.howtos.pong.step_pongMoveThePaddle": {
+    "message": "Pohybuj pálkou",
+    "description": "Step name for 'Move the Paddle' step"
+  },
+  "gui.howtos.pong.step_pongSelectBallSprite": {
+    "message": " Zvol postavu míče",
+    "description": "Step name for 'Select the Ball Sprite' step"
+  },
+  "gui.howtos.pong.step_pongAddMoreCodeToBall": {
+    "message": "Přidej kód pro odraz míče pálkou",
+    "description": "Step name for 'Add Code to Bounce the Ball Off the Paddle' step"
+  },
+  "gui.howtos.pong.step_pongAddAScore": {
+    "message": "Přidej skóre",
+    "description": "Step name for 'Add a Score' step"
+  },
+  "gui.howtos.pong.step_pongChooseScoreFromMenu": {
+    "message": "Vyber 'Score' z menu",
+    "description": "Step name for 'Choose 'Score' from the Menu' step"
+  },
+  "gui.howtos.pong.step_pongInsertChangeScoreBlock": {
+    "message": "Vlož blok 'Změň Score'",
+    "description": "Step name for 'Insert the 'Change Score' Block' step"
+  },
+  "gui.howtos.pong.step_pongResetScore": {
+    "message": "Vynuluj skóre",
+    "description": "Step name for 'Reset Score' step"
+  },
+  "gui.howtos.pong.step_pongAddLineSprite": {
+    "message": " Přidej postavu čáry",
+    "description": "Step name for 'Add the Line Sprite' step"
+  },
+  "gui.howtos.pong.step_pongGameOver": {
+    "message": "Hra skončila",
+    "description": "Step name for 'Game Over' step"
+  },
+  "gui.howtos.code-cartoon": {
+    "message": "Naprogramuj komiks",
+    "description": "Name for the 'Code a Cartoon' how-to"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonSaySomething": {
+    "message": "Řekni něco, když klikneš na zelený praporek",
+    "description": "Step name for 'Say Something When You Click the Green Flag' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonAnimate": {
+    "message": "Animuj postavu, když na ni klikneš",
+    "description": "Step name for 'Animate a Character When You Click It' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonSelectDifferentCharacter": {
+    "message": "Zvol si jinou postavu",
+    "description": "Step name for 'Select a Different Character' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonUseMinusSign": {
+    "message": "Použij znaménko mínus ke zmenšení",
+    "description": "Step name for 'Use a Minus Sign to Get Smaller' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonGrowShrink": {
+    "message": "Přinuť postavu růst i zmenšovat",
+    "description": "Step name for 'Make a Character Grow and Shrink' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonSelectDifferentCharacter2": {
+    "message": "Zvol si jinou postavu",
+    "description": "Step name for 'Select a Different Character' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonJump": {
+    "message": "Skákej nahoru a dolů",
+    "description": "Step name for 'Jump Up and Down' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonChangeScenes": {
+    "message": "Klikni na postavu, aby se měnily scény",
+    "description": "Step name for 'Click a Character to Change Scenes' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonGlideAround": {
+    "message": "Klouzej okolo",
+    "description": "Step name for 'Glide Around' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonChangeCostumes": {
+    "message": "Změň kostýmy",
+    "description": "Step name for 'Change Costumes' step"
+  },
+  "gui.howtos.code-cartoon.step_codeCartoonChooseMoreCharacters": {
+    "message": "Vyber si více postav pro přidání do tvého komiksu",
+    "description": "Step name for 'Choose More Characters to Add to Your Cartoon' step"
+  },
+  "gui.howtos.cartoon-network": {
+    "message": "Animuj dobrodružnou hru",
+    "description": "Animate an Adventure Game' how-to"
+  },
+  "gui.howtos.cartoon-network.step_CNcharacter": {
+    "message": "Vyber postavu do show",
+    "description": "Step name for 'Choose a Character to Show' step"
+  },
+  "gui.howtos.cartoon-network.step_CNsay": {
+    "message": "Řekni něco",
+    "description": "Step name for 'Say Something' step"
+  },
+  "gui.howtos.cartoon-network.step_CNglide": {
+    "message": "Klouzej okolo",
+    "description": "Step name for 'Glide Around' step"
+  },
+  "gui.howtos.cartoon-network.step_CNpicksprite": {
+    "message": "Vyber objekt k následování",
+    "description": "Step name for 'Choose an Object to Chase' step"
+  },
+  "gui.howtos.cartoon-network.step_CNcollect": {
+    "message": "Sesbírej objekty",
+    "description": "Step name for 'Collect Objects' step"
+  },
+  "gui.howtos.cartoon-network.step_CNvariable": {
+    "message": "Udělej proměnnou Skóre",
+    "description": "Step name for 'Make a Score Variable' step"
+  },
+  "gui.howtos.cartoon-network.step_CNscore": {
+    "message": "Udržuj skóre",
+    "description": "Step name for 'Keep Score' step"
+  },
+  "gui.howtos.cartoon-network.step_CNbackdrop": {
+    "message": "Další úroveň: Změň pozadí",
+    "description": "Step name for 'Level Up: Change Backdrop' step"
+  },
+  "gui.howtos.videosens.name": {
+    "message": "Vnímání videa",
+    "description": "Name for the 'Video Sensing' how-to"
+  },
+  "gui.howtos.videosens.step_addextension": {
+    "message": "Přidej rozšíření",
+    "description": "Step name for 'Add Extension' step"
+  },
+  "gui.howtos.videosens.step_pet": {
+    "message": "Pohlaď kočku",
+    "description": "Step name for 'Pet the Cat' step"
+  },
+  "gui.howtos.videosens.step_animate": {
+    "message": "Animuj",
+    "description": "Step name for 'Animate' step"
+  },
+  "gui.howtos.videosens.step_pop": {
+    "message": "Praskni balon",
+    "description": "Step name for 'Pop a Balloon' step"
+  },
+  "gui.howtos.say-it-out-loud": {
+    "message": "Vytvoř animace, které mluví",
+    "description": "Name for the 'Create Animations That Talk' how-to"
+  },
+  "gui.howtos.say-it-out-loud.step_AddTXTextension": {
+    "message": "Přidej bloky Text na hlas",
+    "description": "Step name for 'Add the Text to Speech blocks' step"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTSpeech": {
+    "message": "Řekni něco",
+    "description": "Step name for 'Say Something' step"
+  },
+  "gui.howtos.say-it-out-loud_TXTSetVoice": {
+    "message": "Nastav hlas",
+    "description": "Step name for 'Set a Voice"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTMove": {
+    "message": "Pohybuj",
+    "description": "Step name for 'Move Around' step"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTBackdrop": {
+    "message": "Přidej pozadí",
+    "description": "Step name for 'Add a Backdrop' step"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTAddSprite": {
+    "message": "Přidej další postavu",
+    "description": "Step name for 'Add Another Character' step"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTSong": {
+    "message": "Zazpívej písničku",
+    "description": "Step name for 'Perform a Song' step"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTColor": {
+    "message": "Změna barvy",
+    "description": "Step name for 'Change Color' step"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTSpin": {
+    "message": "Otoč se dokola",
+    "description": "Step name for 'Spin Around"
+  },
+  "gui.howtos.say-it-out-loud.step_TXTGrow": {
+    "message": "Zvětšuj a zmenšuj",
+    "description": "Step name for 'Grow and Shrink' step"
+  },
+  "gui.howtos.talking": {
+    "message": "Vyprávění příběhů",
+    "description": "Name for the 'Talking Tales' how-to"
+  },
+  "gui.howtos.talking.step_talesAddExtension": {
+    "message": "Klikni pro přidání bloků Text-na-hlas",
+    "description": "Step name for 'Click to Add the Text-to-Speech Blocks' step"
+  },
+  "gui.howtos.talking.step_talesChooseSprite": {
+    "message": "Vyber si postavu",
+    "description": "Step name for 'Choose a Sprite' step"
+  },
+  "gui.howtos.talking.step_talesSaySomething": {
+    "message": "Nauč postavu mluvit",
+    "description": "Step name for 'Make a Character Speak' step"
+  },
+  "gui.howtos.talking.step_talesChooseBackdrop": {
+    "message": "Vybrat pozadí",
+    "description": "Step name for 'Choose a Backdrop' step"
+  },
+  "gui.howtos.talking.step_talesSwitchBackdrop": {
+    "message": "Klikni na postavu pro přechod na další pozadí",
+    "description": "Step name for 'Click a Character to Go to the Next Backdrop' step"
+  },
+  "gui.howtos.talking.step_talesChooseAnotherSprite": {
+    "message": "Vyber jinou postavu",
+    "description": "Step name for 'Choose Another Sprite' step"
+  },
+  "gui.howtos.talking.step_talesMoveAround": {
+    "message": "Pohybuj",
+    "description": "Step name for 'Move Around' step"
+  },
+  "gui.howtos.talking.step_talesChooseAnotherBackdrop": {
+    "message": "Vyber jiné pozadí",
+    "description": "Step name for 'Choose Another Backdrop' step"
+  },
+  "gui.howtos.talking.step_talesAnimateTalking": {
+    "message": "Animuj mluvení",
+    "description": "Step name for 'Animate Talking' step"
+  },
+  "gui.howtos.talking.step_talesChooseThirdBackdrop": {
+    "message": "Vyber jiné pozadí",
+    "description": "Step name for 'Choose Another Backdrop' step"
+  },
+  "gui.howtos.talking.step_talesChooseSound": {
+    "message": "Vyber si písničku k tanci",
+    "description": "Step name for 'Choose a Song to Dance To' step"
+  },
+  "gui.howtos.talking.step_talesDanceMoves": {
+    "message": "Taneční pohyby",
+    "description": "Step name for 'Dance Moves' step"
+  },
+  "gui.howtos.talking.step_talesAskAnswer": {
+    "message": "Vezmi si bloky Otázka a Odpověď z kategorie Vnímání",
+    "description": "Step name for 'Get the Ask and Answer Blocks from the Sensing Category' step"
+  },
+  "gui.howtos.add-sprite.name": {
+    "message": " Přidej postavu",
+    "description": "Name for the 'Add a Sprite' how-to"
+  },
+  "gui.howtos.add-sprite.step_addSprite": {
+    "message": " Přidej postavu",
+    "description": "Step name for 'Add a new sprite' step"
+  },
+  "gui.howtos.add-a-backdrop.name": {
+    "message": "Přidej pozadí",
+    "description": "Name for the 'Add a Backdrop' how-to"
+  },
+  "gui.howtos.add-a-backdrop.step_addBackdrop": {
+    "message": "Přidej pozadí",
+    "description": "Step name for 'Add a Backdrop' step"
+  },
+  "gui.howtos.change-size.name": {
+    "message": "Změň velikost",
+    "description": "Name for the 'Change Size' how-to"
+  },
+  "gui.howtos.change-size.step_changeSize": {
+    "message": "Změň velikost",
+    "description": "Step name for 'Change Size' step"
+  },
+  "gui.howtos.glide-around.name": {
+    "message": "Klouzej okolo",
+    "description": "Name for the 'Glide Around' how-to"
+  },
+  "gui.howtos.change-size.step_glideAroundBackAndForth": {
+    "message": "Klouzej okolo",
+    "description": "Step name for 'Glide Around' step"
+  },
+  "gui.howtos.change-size.step_glideAroundPoint": {
+    "message": "Klouzej na místo",
+    "description": "Step name for 'Glide to a Point' step"
+  },
+  "gui.howtos.record-a-sound.name": {
+    "message": "Nahraj zvuk",
+    "description": "Record A Sound' how-to"
+  },
+  "gui.howtos.change-size.step_recordASoundSoundsTab": {
+    "message": "Klikni na záložku 'Zvuky'",
+    "description": "Step name for 'Click on the Sounds Tab' step"
+  },
+  "gui.howtos.change-size.step_recordASoundClickRecord": {
+    "message": "Klikni na 'Nahraj'",
+    "description": "Step name for 'Click Record' step"
+  },
+  "gui.howtos.change-size.step_recordASoundPressRecordButton": {
+    "message": "Stiskni tlačítko Nahraj",
+    "description": "Step name for 'Press the Record Button' step"
+  },
+  "gui.howtos.change-size.step_recordASoundChooseSound": {
+    "message": "Vyber si svůj zvuk.",
+    "description": "Step name for 'Choose Your Sound' step"
+  },
+  "gui.howtos.change-size.step_recordASoundPlayYourSound": {
+    "message": "Zahraj svůj zvuk",
+    "description": "Step name for 'Play Your Sound' step"
+  },
+  "gui.howtos.spin-video.name": {
+    "message": "Roztoč to ",
+    "description": "Name for the 'Make It Spin' how-to"
+  },
+  "gui.howtos.change-size.step_spinTurn": {
+    "message": "Otoč",
+    "description": "Step name for 'Turn' step"
+  },
+  "gui.howtos.change-size.step_spinPointInDirection": {
+    "message": "Nastav směr",
+    "description": "Step name for 'Set Direction' step"
+  },
+  "gui.howtos.hide-and-show.name": {
+    "message": "Schovej se a ukaž se",
+    "description": "Name for the 'Hide and Show' how-to"
+  },
+  "gui.howtos.change-size.step_hideAndShow": {
+    "message": "Schovej se a ukaž se",
+    "description": "Step name for 'Hide and Show' step"
+  },
+  "gui.howtos.switch-costume.name": {
+    "message": "Animuj postavu",
+    "description": "Name for the 'Animate a Sprite' how-to"
+  },
+  "gui.howtos.change-size.step_switchCostumes": {
+    "message": "Animuj postavu",
+    "description": "Step name for 'Animate a Sprite' step"
+  },
+  "gui.howtos.move-around-with-arrow-keys.name": {
+    "message": "Použití šipkových kláves",
+    "description": "Name for the 'Use Arrow Keys' how-to"
+  },
+  "gui.howtos.add-a-backdrop.step_moveArrowKeysLeftRight": {
+    "message": "Pohybuj se vlevo a vpravo",
+    "description": "Step name for 'Move Left and Right' step"
+  },
+  "gui.howtos.add-a-backdrop.step_moveArrowKeysUpDown": {
+    "message": "Pohybuj se nahoru a dolů",
+    "description": "Step name for 'Move Up and Down' step"
+  },
+  "gui.howtos.add-effects.name": {
+    "message": "Přidej Efekty",
+    "description": "Name for the 'Add Effects' how-to"
+  },
+  "gui.howtos.videosens.step_addEffects": {
+    "message": "Přidej efekty",
+    "description": "Step name for 'Add Effects' step"
+  },
+  "gui.extension.music.name": {
+    "message": "Hudba",
+    "description": "Name for the 'Music' extension"
+  },
+  "gui.extension.music.description": {
+    "message": "Hraní na nástroje a bicí.",
+    "description": "Description for the 'Music' extension"
+  },
+  "gui.extension.pen.name": {
+    "message": "Pero",
+    "description": "Name for the 'Pen' extension"
+  },
+  "gui.extension.pen.description": {
+    "message": "Kreslení s tvými postavami.",
+    "description": "Description for the 'Pen' extension"
+  },
+  "gui.extension.videosensing.name": {
+    "message": "Vnímání videa",
+    "description": "Name for the 'Video Sensing' extension"
+  },
+  "gui.extension.videosensing.description": {
+    "message": "Zjišťování pohybu kamerou.",
+    "description": "Description for the 'Video Sensing' extension"
+  },
+  "gui.extension.text2speech.name": {
+    "message": "Text na hlas",
+    "description": "Name for the Text to Speech extension"
+  },
+  "gui.extension.text2speech.description": {
+    "message": "Nech svůj projekt mluvit.",
+    "description": "Description for the Text to speech extension"
+  },
+  "gui.extension.translate.name": {
+    "message": "Překlad",
+    "description": "Name for the Translate extension"
+  },
+  "gui.extension.translate.description": {
+    "message": "Překládání textu do mnoha jazyků.",
+    "description": "Description for the Translate extension"
+  },
+  "gui.extension.makeymakey.description": {
+    "message": "Udělej vše do klíče.",
+    "description": "Description for the 'Makey Makey' extension"
+  },
+  "gui.extension.microbit.description": {
+    "message": "Propojení tvých projektů se světem.",
+    "description": "Description for the 'micro:bit' extension"
+  },
+  "gui.extension.microbit.connectingMessage": {
+    "message": "Propojování",
+    "description": "Message to help people connect to their micro:bit."
+  },
+  "gui.extension.ev3.description": {
+    "message": "Stavění interaktivních robotů a mnoho dalšího.",
+    "description": "Description for the 'LEGO MINDSTORMS EV3' extension"
+  },
+  "gui.extension.ev3.connectingMessage": {
+    "message": "Propojuje se. Ujisti, se že PIN na svém EV3 máš nastavený na 1234.",
+    "description": "Message to help people connect to their EV3. Must note the PIN should be 1234."
+  },
+  "gui.extension.boost.description": {
+    "message": "Oživit robotická stvoření.",
+    "description": "Description for the 'LEGO BOOST' extension"
+  },
+  "gui.extension.boost.connectingMessage": {
+    "message": "Propojování",
+    "description": "Message to help people connect to their BOOST."
+  },
+  "gui.extension.wedo2.description": {
+    "message": "Stavění s motory a čidly.",
+    "description": "Description for the 'LEGO WeDo 2.0' extension"
+  },
+  "gui.extension.wedo2.connectingMessage": {
+    "message": "Propojování",
+    "description": "Message to help people connect to their WeDo."
+  },
+  "gui.extension.gdxfor.description": {
+    "message": "Vnímá strkání, tažení, pohyb a točení.",
+    "description": "Description for the Vernier Go Direct Force and Acceleration sensor extension"
+  },
+  "gui.extension.gdxfor.connectingMessage": {
+    "message": "Propojování",
+    "description": "Message to help people connect to their force and acceleration sensor."
+  },
+  "gui.libraryTags.all": {
+    "message": "Všechno",
+    "description": "Tag for filtering a library for everything"
+  },
+  "gui.libraryTags.animals": {
+    "message": "Zvířata",
+    "description": "Tag for filtering a library for animals"
+  },
+  "gui.libraryTags.dance": {
+    "message": "Tanec",
+    "description": "Tag for filtering a library for dance"
+  },
+  "gui.libraryTags.effects": {
+    "message": "Efekty",
+    "description": "Tag for filtering a library for effects"
+  },
+  "gui.libraryTags.fantasy": {
+    "message": "Fantazie",
+    "description": "Tag for filtering a library for fantasy"
+  },
+  "gui.libraryTags.fashion": {
+    "message": "Móda",
+    "description": "Tag for filtering a library for fashion"
+  },
+  "gui.libraryTags.food": {
+    "message": "Jídlo",
+    "description": "Tag for filtering a library for food"
+  },
+  "gui.libraryTags.indoors": {
+    "message": "Uvnitř",
+    "description": "Tag for filtering a library for indoors"
+  },
+  "gui.libraryTags.loops": {
+    "message": "Smyčky",
+    "description": "Tag for filtering a library for loops"
+  },
+  "gui.libraryTags.music": {
+    "message": "Hudba",
+    "description": "Tag for filtering a library for music"
+  },
+  "gui.libraryTags.notes": {
+    "message": "Noty",
+    "description": "Tag for filtering a library for notes"
+  },
+  "gui.libraryTags.outdoors": {
+    "message": "Vnější",
+    "description": "Tag for filtering a library for outdoors"
+  },
+  "gui.libraryTags.patterns": {
+    "message": "Vzory",
+    "description": "Tag for filtering a library for patterns"
+  },
+  "gui.libraryTags.people": {
+    "message": "Lidé",
+    "description": "Tag for filtering a library for people"
+  },
+  "gui.libraryTags.percussion": {
+    "message": "Bicí",
+    "description": "Tag for filtering a library for percussion"
+  },
+  "gui.libraryTags.space": {
+    "message": "Vesmír",
+    "description": "Tag for filtering a library for space"
+  },
+  "gui.libraryTags.sports": {
+    "message": "Sporty",
+    "description": "Tag for filtering a library for sports"
+  },
+  "gui.libraryTags.underwater": {
+    "message": "Podvodní",
+    "description": "Tag for filtering a library for underwater"
+  },
+  "gui.libraryTags.voice": {
+    "message": "Hlasy",
+    "description": "Tag for filtering a library for voice"
+  },
+  "gui.libraryTags.wacky": {
+    "message": "Divné",
+    "description": "Tag for filtering a library for wacky"
+  },
+  "gui.libraryTags.animation": {
+    "message": "Animace",
+    "description": "Tag for filtering a library for animation"
+  },
+  "gui.libraryTags.art": {
+    "message": "Umění",
+    "description": "Tag for filtering a library for art"
+  },
+  "gui.libraryTags.games": {
+    "message": "Hry",
+    "description": "Tag for filtering a library for games"
+  },
+  "gui.libraryTags.stories": {
+    "message": "Příběhy",
+    "description": "Tag for filtering a library for stories"
+  },
+  "gui.libraryTags.letters": {
+    "message": "Písmena",
+    "description": "Tag for filtering a library for letters"
+  },
+  "gui.opcodeLabels.direction": {
+    "message": "směr",
+    "description": "Label for the direction monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.xposition": {
+    "message": "x",
+    "description": "Label for the x position monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.yposition": {
+    "message": "y",
+    "description": "Label for the y position monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.size": {
+    "message": "velikost",
+    "description": "Label for the size monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.costumename": {
+    "message": "název kostýmu",
+    "description": "Label for the costume name monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.costumenumber": {
+    "message": "číslo kostýmu",
+    "description": "Label for the costume number monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.backdropname": {
+    "message": "název pozadí",
+    "description": "Label for the backdrop name monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.backdropnumber": {
+    "message": "číslo pozadí",
+    "description": "Label for the backdrop number monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.volume": {
+    "message": "hlasitost",
+    "description": "Label for the volume monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.tempo": {
+    "message": "tempo",
+    "description": "Label for the tempo monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.answer": {
+    "message": "odpověď",
+    "description": "Label for the answer monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.loudness": {
+    "message": "hlasitost",
+    "description": "Label for the loudness monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.username": {
+    "message": "jméno uživatele",
+    "description": "Label for the username monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.year": {
+    "message": "rok",
+    "description": "Label for the current year monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.month": {
+    "message": "měsíc",
+    "description": "Label for the current month monitor when shown on the stage."
+  },
+  "gui.opcodeLabels.date": {
+    "message": "den v měsíci",
+    "description": "Label for the current date monitor when shown on the stage. Shows the current day of the month"
+  },
+  "gui.opcodeLabels.dayofweek": {
+    "message": "den týdne",
+    "description": "Label for the current day of week monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.hour": {
+    "message": "hodina",
+    "description": "Label for the current hour monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.minute": {
+    "message": "minuta",
+    "description": "Label for the current minute monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.second": {
+    "message": "sekunda",
+    "description": "Label for the current second monitor when shown on the stage"
+  },
+  "gui.opcodeLabels.timer": {
+    "message": "stopky",
+    "description": "Label for the timer monitor when shown on the stage"
+  },
+  "gui.projectLoader.loadError": {
+    "message": "Zvolený soubor projektu se nepodařilo nahrát.",
+    "description": "An error that displays when a local project file fails to load."
+  },
+  "gui.sharedMessages.backdrop": {
+    "message": "pozadí{index}",
+    "description": "Default name for a new backdrop, scratch will automatically adjust the number if necessary"
+  },
+  "gui.sharedMessages.costume": {
+    "message": "kostým{index}",
+    "description": "Default name for a new costume, scratch will automatically adjust the number if necessary"
+  },
+  "gui.sharedMessages.sprite": {
+    "message": "Postava{index}",
+    "description": "Default name for a new sprite, scratch will automatically adjust the number if necessary"
+  },
+  "gui.sharedMessages.pop": {
+    "message": "prask",
+    "description": "Name of the pop sound, the default sound added to a sprite"
+  },
+  "gui.sharedMessages.replaceProjectWarning": {
+    "message": "Nahradit obsah aktuálního projektu?",
+    "description": "Confirmation that user wants to overwrite the current project contents"
+  },
+  "gui.sharedMessages.loadFromComputerTitle": {
+    "message": "Načti z tvého počítače",
+    "description": "Title for uploading a project from your computer"
+  },
+  "gui.theme.default": {
+    "message": "Originál",
+    "description": "label for original theme"
+  },
+  "gui.theme.dark": {
+    "message": "Tmavý",
+    "description": "label for dark mode theme"
+  },
+  "gui.theme.highContrast": {
+    "message": "Vysoký kontrast",
+    "description": "label for high theme"
+  },
+  "gui.gui.defaultProjectTitle": {
+    "message": "Můj projekt",
+    "description": "Default title for project"
+  }
+}

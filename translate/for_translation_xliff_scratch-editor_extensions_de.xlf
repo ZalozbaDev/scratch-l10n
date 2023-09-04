@@ -1,0 +1,858 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="extensions" source-language="en" datatype="CHROME" target-language="de">
+    <body>
+      <trans-unit id="1" resname="4cb878d75e2c4f9fca7277b315dccb48">
+        <source>any color</source>
+        <target>Irgendeine Farbe</target>
+      </trans-unit>
+      <trans-unit id="2" resname="99aa31b364e93b757c9911dff092011a">
+        <source>black</source>
+        <target>Schwarz</target>
+      </trans-unit>
+      <trans-unit id="3" resname="cf3754e12a4a63cef974a22a38aaf57e">
+        <source>blue</source>
+        <target>Blau</target>
+      </trans-unit>
+      <trans-unit id="4" resname="b507bb6b960fc0280f1fac8c39b9610a">
+        <source>green</source>
+        <target>Grün</target>
+      </trans-unit>
+      <trans-unit id="5" resname="3bde43ca25348193d159e06ce030de20">
+        <source>red</source>
+        <target>Rot</target>
+      </trans-unit>
+      <trans-unit id="6" resname="ed1ff35425ee69977d23e3da14973fb7">
+        <source>white</source>
+        <target>Weiss</target>
+      </trans-unit>
+      <trans-unit id="7" resname="fe2017c72d1fbb0bca54dbe808d243ce">
+        <source>yellow</source>
+        <target>Gelb</target>
+      </trans-unit>
+      <trans-unit id="8" resname="769db27f4c44773e012f239feef2a289">
+        <source>motor [MOTOR_REPORTER_ID] position</source>
+        <target>Position des Motors [MOTOR_REPORTER_ID]</target>
+      </trans-unit>
+      <trans-unit id="9" resname="d39ee3bbc02c321c65cdfc674946ffc8">
+        <source>tilt angle [TILT_DIRECTION]</source>
+        <target>Neigungswinkel [TILT_DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="10" resname="209888996e1c64b73dfca0d4a2ad6095">
+        <source>that way</source>
+        <target>linksherum</target>
+      </trans-unit>
+      <trans-unit id="11" resname="81e369a7f7125cc3eb5bc1e20e8092fa">
+        <source>this way</source>
+        <target>rechtsherum</target>
+      </trans-unit>
+      <trans-unit id="12" resname="e8aba7636591976ad4d87eabd309238b">
+        <source>reverse</source>
+        <target>andersherum</target>
+      </trans-unit>
+      <trans-unit id="13" resname="89815040aba346c7a7455f4edfd61d59">
+        <source>turn motor [MOTOR_ID] off</source>
+        <target>Schalte Motor [MOTOR_ID] aus</target>
+      </trans-unit>
+      <trans-unit id="14" resname="9ee4aeaa1f8dae35545ee9537de7b2eb">
+        <source>turn motor [MOTOR_ID] on</source>
+        <target>Schalte Motor [MOTOR_ID] ein</target>
+      </trans-unit>
+      <trans-unit id="15" resname="019b06577c49b6618e58e208c6b1b735">
+        <source>turn motor [MOTOR_ID] for [DURATION] seconds</source>
+        <target>Schalte Motor [MOTOR_ID] für [DURATION] Sekunden ein</target>
+      </trans-unit>
+      <trans-unit id="16" resname="d4cbe8940d95c75aeb790208d4681f06">
+        <source>turn motor [MOTOR_ID] for [ROTATION] rotations</source>
+        <target>Schalte Motor [MOTOR_ID] für [ROTATION] Umdrehungen ein</target>
+      </trans-unit>
+      <trans-unit id="17" resname="914428f915eb8673ea9545826dea5fc5">
+        <source>seeing [COLOR] brick?</source>
+        <target>Sehe Farbe [COLOR]?</target>
+      </trans-unit>
+      <trans-unit id="18" resname="27b48ddae2a66c221474b2335f10436a">
+        <source>set light color to [HUE]</source>
+        <target>setze Lichtfarbe auf [HUE]</target>
+      </trans-unit>
+      <trans-unit id="19" resname="9729a67590f07af5bc616985ba64d2b2">
+        <source>set motor [MOTOR_ID] direction [MOTOR_DIRECTION]</source>
+        <target>Setze Richtung von Motor [MOTOR_ID] auf [MOTOR_DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="20" resname="029403ccedeb2677b533d7253119063e">
+        <source>set motor [MOTOR_ID] speed to [POWER] %</source>
+        <target>Setze von Motor [MOTOR_ID] die Geschwindigkeit auf [POWER]%</target>
+      </trans-unit>
+      <trans-unit id="21" resname="35720e13dbdfa89ed20b8608ac95e291">
+        <source>any</source>
+        <target>irgendwohin</target>
+      </trans-unit>
+      <trans-unit id="22" resname="87ccc14e7bd576f655777f11bd62c16c">
+        <source>down</source>
+        <target>nach unten</target>
+      </trans-unit>
+      <trans-unit id="23" resname="702269ec195829adb3ab445430534d8c">
+        <source>left</source>
+        <target>nach links</target>
+      </trans-unit>
+      <trans-unit id="24" resname="54810b90225fe9c87dbeff81baf34a9d">
+        <source>right</source>
+        <target>nach rechts</target>
+      </trans-unit>
+      <trans-unit id="25" resname="148673d116128ec4635595db416e14c9">
+        <source>up</source>
+        <target>nach oben</target>
+      </trans-unit>
+      <trans-unit id="26" resname="f231e8b2910ea56dc47df004f2777f30">
+        <source>when [COLOR] brick seen</source>
+        <target>Wenn [COLOR] gesehen wird</target>
+      </trans-unit>
+      <trans-unit id="27" resname="62fe9ff110b540cf9ce520fcede491c1">
+        <source>when tilted [TILT_DIRECTION_ANY]</source>
+        <target>Wenn [TILT_DIRECTION_ANY] geneigt</target>
+      </trans-unit>
+      <trans-unit id="28" resname="6ca63c9ac08c12a7964f61ffc6a7af07">
+        <source>beep note [NOTE] for [TIME] secs</source>
+        <target>piepse Note [NOTE] für [TIME] Sek.</target>
+      </trans-unit>
+      <trans-unit id="29" resname="4743de45244c567ddfbfc91830bcd91d">
+        <source>button [PORT] pressed?</source>
+        <target>Knopf [PORT] gedrückt?</target>
+      </trans-unit>
+      <trans-unit id="30" resname="fce01c0c462a146342ce75c162ba16c0">
+        <source>brightness</source>
+        <target>Helligkeit</target>
+      </trans-unit>
+      <trans-unit id="31" resname="ca82952448b3e852b8150340da14acd6">
+        <source>distance</source>
+        <target>Abstand</target>
+      </trans-unit>
+      <trans-unit id="32" resname="c7c746d3d5955e701000597d76028eb2">
+        <source>motor [PORT] position</source>
+        <target>Position von Motor [PORT]</target>
+      </trans-unit>
+      <trans-unit id="33" resname="88fde1dc26e807024b42380758110d1a">
+        <source>motor [PORT] set power [POWER] %</source>
+        <target>setze Leistung von Motor [PORT] auf [POWER]%</target>
+      </trans-unit>
+      <trans-unit id="34" resname="00b6950386dd4cbe35629e7d4975898a">
+        <source>motor [PORT] turn this way for [TIME] seconds</source>
+        <target>drehe Motor [PORT] für [TIME]Sekunden rechtsherum</target>
+      </trans-unit>
+      <trans-unit id="35" resname="7b4a9ee1944b6c47b5de5901771de9af">
+        <source>motor [PORT] turn that way for [TIME] seconds</source>
+        <target>drehe Motor [PORT]für [TIME]Sekunden linksherum</target>
+      </trans-unit>
+      <trans-unit id="36" resname="2bc17d7460aac3bddce92b605a61598f">
+        <source>when brightness &lt; [DISTANCE]</source>
+        <target>Wenn Helligkeit &lt; [DISTANCE]</target>
+      </trans-unit>
+      <trans-unit id="37" resname="9d543d12943fd4816df0db5cbd4a4d64">
+        <source>when button [PORT] pressed</source>
+        <target>Wenn der Knopf [PORT] gedrückt wird</target>
+      </trans-unit>
+      <trans-unit id="38" resname="acd9a50d66e93a169b1dd3cb275d5811">
+        <source>when distance &lt; [DISTANCE]</source>
+        <target>Wenn Abstand &lt; [DISTANCE]</target>
+      </trans-unit>
+      <trans-unit id="39" resname="591a9cdb4cf220316476898803486591">
+        <source>acceleration [DIRECTION]</source>
+        <target>Beschleunigung [DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="40" resname="d4f5b5924c064fa4fbdedddfdd322678">
+        <source>force</source>
+        <target>Kraft</target>
+      </trans-unit>
+      <trans-unit id="41" resname="cc41eae7f444c4c202f277898c1391ee">
+        <source>spin speed [DIRECTION]</source>
+        <target>Rotationsgeschwindigkeit [DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="42" resname="f2df7fa0689f1c8903d3672796c3347f">
+        <source>tilt angle [TILT]</source>
+        <target>Neigungswinkel [TILT]</target>
+      </trans-unit>
+      <trans-unit id="43" resname="5ca909a7152769014ecbb6ba940f69eb">
+        <source>falling?</source>
+        <target>fallend?</target>
+      </trans-unit>
+      <trans-unit id="44" resname="5f37267564c3be2ee689e9d5d930077f">
+        <source>tilted [TILT]?</source>
+        <target>geneigt [TILT]?</target>
+      </trans-unit>
+      <trans-unit id="45" resname="533a4eef193056df055be564d4849bd6">
+        <source>pulled</source>
+        <target>gezogen</target>
+      </trans-unit>
+      <trans-unit id="46" resname="b54370e65dd8343dc6e176f6d7a38461">
+        <source>pushed</source>
+        <target>gedrückt</target>
+      </trans-unit>
+      <trans-unit id="47" resname="652818fadbc92e9fe5b5243149782b0b">
+        <source>shaken</source>
+        <target>geschüttelt</target>
+      </trans-unit>
+      <trans-unit id="48" resname="178772877a047e844b5a84c6498887a0">
+        <source>started falling</source>
+        <target>begonnen zu fallen</target>
+      </trans-unit>
+      <trans-unit id="49" resname="5d07df66adb08e99a44c28a35e0c0f32">
+        <source>any</source>
+        <target>irgendwohin</target>
+      </trans-unit>
+      <trans-unit id="50" resname="eb8b5b4b39f06de83267b6104a7714c5">
+        <source>back</source>
+        <target>nach hinten</target>
+      </trans-unit>
+      <trans-unit id="51" resname="29a84340bbebd65933c8e50aa1bc3aa8">
+        <source>front</source>
+        <target>nach vorne</target>
+      </trans-unit>
+      <trans-unit id="52" resname="e2be84637ae4e62b480bf634e4b2fe94">
+        <source>left</source>
+        <target>nach links</target>
+      </trans-unit>
+      <trans-unit id="53" resname="9dbc23d0df5e6c3de8aabf83ee393baf">
+        <source>right</source>
+        <target>nach rechts</target>
+      </trans-unit>
+      <trans-unit id="54" resname="0b9fbcdb9e35e65f9098abd2aa2f07bb">
+        <source>turned face down</source>
+        <target>nach unten gerichtet</target>
+      </trans-unit>
+      <trans-unit id="55" resname="4806cd5ccf53108428994f1b79d7b8f5">
+        <source>turned face up</source>
+        <target>nach oben gerichtet</target>
+      </trans-unit>
+      <trans-unit id="56" resname="3378adeada5546fb6e2f4b3299a58f39">
+        <source>when force sensor [PUSH_PULL]</source>
+        <target>Wenn Kraftsensor [PUSH_PULL]</target>
+      </trans-unit>
+      <trans-unit id="57" resname="b9c17a88a5362e7f4ee4d6cf58b742be">
+        <source>when [GESTURE]</source>
+        <target>Wenn [GESTURE]</target>
+      </trans-unit>
+      <trans-unit id="58" resname="283b1fb32aa7bff8b10c388fe6f4f576">
+        <source>when tilted [TILT]</source>
+        <target>Wenn geneigt [TILT]</target>
+      </trans-unit>
+      <trans-unit id="59" resname="c75f205255376ba64d12ab2bd8929248">
+        <source>down arrow</source>
+        <target>Pfeil nach unten</target>
+      </trans-unit>
+      <trans-unit id="60" resname="6a8c3a5eb1cd607f5138f8ec40227ce4">
+        <source>down</source>
+        <target>nach unten</target>
+      </trans-unit>
+      <trans-unit id="61" resname="22659f80474f1aaac1faeca3a8fdd103">
+        <source>left arrow</source>
+        <target>Pfeil nach links</target>
+      </trans-unit>
+      <trans-unit id="62" resname="5f7f0446bb5a3689ab12acf9613b92f9">
+        <source>left</source>
+        <target>nach links</target>
+      </trans-unit>
+      <trans-unit id="63" resname="62cb2747225bf40c21e6036df7aa4e9b">
+        <source>right arrow</source>
+        <target>Pfeil nach rechts</target>
+      </trans-unit>
+      <trans-unit id="64" resname="61bfb37e881643a9c8e2eed4f35dd7b5">
+        <source>right</source>
+        <target>nach rechts</target>
+      </trans-unit>
+      <trans-unit id="65" resname="80e1c951a6f2ea2c125f2bd3e3f8eb43">
+        <source>space</source>
+        <target>Leertaste</target>
+      </trans-unit>
+      <trans-unit id="66" resname="c649d6ffdeaacfdee98a1b5a2e059ea3">
+        <source>up arrow</source>
+        <target>Pfeil nach oben</target>
+      </trans-unit>
+      <trans-unit id="67" resname="5240a00460d90d4759d4063999269bc1">
+        <source>up</source>
+        <target>nach oben</target>
+      </trans-unit>
+      <trans-unit id="68" resname="ac2c7f37f3f2193a823a702c4d0ff571">
+        <source>when [KEY] key pressed</source>
+        <target>Wenn Taste [KEY] gedrückt</target>
+      </trans-unit>
+      <trans-unit id="69" resname="91ac534bc55cdcee1fc1a56ad605b613">
+        <source>when [SEQUENCE] pressed in order</source>
+        <target>Wenn [SEQUENCE] der Reihe nach gedrückt</target>
+      </trans-unit>
+      <trans-unit id="70" resname="1868ac617fb8bb71916b915ebae1ae31">
+        <source>any</source>
+        <target>beliebiger</target>
+      </trans-unit>
+      <trans-unit id="71" resname="f0b15ad32f4e238b9675ed1292974ff8">
+        <source>clear display</source>
+        <target>zeige nichts an</target>
+      </trans-unit>
+      <trans-unit id="72" resname="7709022c73614919062a1fc6621d74d6">
+        <source>Hello!</source>
+        <target>Hallo!</target>
+      </trans-unit>
+      <trans-unit id="73" resname="23d3d4c5324b4ff95adb269c996edcde">
+        <source>display [MATRIX]</source>
+        <target>zeige [MATRIX] an</target>
+      </trans-unit>
+      <trans-unit id="74" resname="8f43771413ed2f186893cb2cf1bbe3b5">
+        <source>display text [TEXT]</source>
+        <target>zeige Text [TEXT] an</target>
+      </trans-unit>
+      <trans-unit id="75" resname="ff206709efe398625a4b3b9e3c1ba504">
+        <source>jumped</source>
+        <target>hochgehüpft</target>
+      </trans-unit>
+      <trans-unit id="76" resname="9ebe7e564ac682abceaf3233a0fd4905">
+        <source>moved</source>
+        <target>bewegt</target>
+      </trans-unit>
+      <trans-unit id="77" resname="760812d781b8ef7669696d658ca61cf7">
+        <source>shaken</source>
+        <target>geschüttelt</target>
+      </trans-unit>
+      <trans-unit id="78" resname="2db2f8f499700320f308f99a2b9b18e9">
+        <source>[BTN] button pressed?</source>
+        <target>Knopf [BTN] gedrückt? </target>
+      </trans-unit>
+      <trans-unit id="79" resname="cade8711348941848817e71d0703d728">
+        <source>tilted [DIRECTION]?</source>
+        <target>[DIRECTION] geneigt?</target>
+      </trans-unit>
+      <trans-unit id="80" resname="11acc9a8d7d3d82ad4e1e7691f040870">
+        <source>off</source>
+        <target>aus</target>
+      </trans-unit>
+      <trans-unit id="81" resname="e39b2270d84a26bbd42bac54476a8cae">
+        <source>on</source>
+        <target>an</target>
+      </trans-unit>
+      <trans-unit id="82" resname="7a8685bb988ebf18ae967f144ebbface">
+        <source>tilt angle [DIRECTION]</source>
+        <target>Neigungswinkel [DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="83" resname="f357027118958c3e68d9bbad6b4bfa56">
+        <source>any</source>
+        <target>beliebig</target>
+      </trans-unit>
+      <trans-unit id="84" resname="2f21c9d7c36a8bc01d22f48422f9d2ec">
+        <source>back</source>
+        <target>nach hinten</target>
+      </trans-unit>
+      <trans-unit id="85" resname="405ad367d55c975aee55e1a710709764">
+        <source>front</source>
+        <target>nach vorne</target>
+      </trans-unit>
+      <trans-unit id="86" resname="8a9fe86edd33da479c6ec02242f0acf2">
+        <source>left</source>
+        <target>nach links</target>
+      </trans-unit>
+      <trans-unit id="87" resname="b44ecda86abf1a12a8fa52fbcb0d0237">
+        <source>right</source>
+        <target>nach rechts</target>
+      </trans-unit>
+      <trans-unit id="88" resname="ed5ff15308c3c63c91d3c3924f180faf">
+        <source>when [BTN] button pressed</source>
+        <target>Wenn Knopf [BTN]gedrückt wird</target>
+      </trans-unit>
+      <trans-unit id="89" resname="6f1ca4f130661693978f690983261b00">
+        <source>when [GESTURE]</source>
+        <target>Wenn [GESTURE]</target>
+      </trans-unit>
+      <trans-unit id="90" resname="294301e457a7ab445c4488d5e23a82b8">
+        <source>when pin [PIN] connected</source>
+        <target>Wenn Pin [PIN] angeschlossen ist</target>
+      </trans-unit>
+      <trans-unit id="91" resname="8ca5e6e3f96459111c7c53135956242d">
+        <source>when tilted [DIRECTION]</source>
+        <target>Wenn [DIRECTION] geneigt</target>
+      </trans-unit>
+      <trans-unit id="92" resname="fa2340ce38bd90302a378a15599bf6a1">
+        <source>Music</source>
+        <target>Musik</target>
+      </trans-unit>
+      <trans-unit id="93" resname="c4e4ccf343d7ae73e6f089c3ec8bee11">
+        <source>change tempo by [TEMPO]</source>
+        <target>ändere Tempo um [TEMPO]</target>
+      </trans-unit>
+      <trans-unit id="94" resname="2c32f6c8f12f8c2e3013b8c32e5ede91">
+        <source>(2) Bass Drum</source>
+        <target>(2) Basstrommel</target>
+      </trans-unit>
+      <trans-unit id="95" resname="1d4fe50e03891fa9799aec987bebc99e">
+        <source>(13) Bongo</source>
+        <target>(13) Bongo</target>
+      </trans-unit>
+      <trans-unit id="96" resname="127816a800156f608b6c81f4f34f8a7e">
+        <source>(15) Cabasa</source>
+        <target>(15) Cabasa</target>
+      </trans-unit>
+      <trans-unit id="97" resname="fd6db0c5ea6600b6a0464fd34782f9df">
+        <source>(9) Claves</source>
+        <target>(9) Klangstäbe</target>
+      </trans-unit>
+      <trans-unit id="98" resname="a092fdf19af99c3c1fbc205416011e26">
+        <source>(6) Closed Hi-Hat</source>
+        <target>(6) Geschlossene Hi-Hat</target>
+      </trans-unit>
+      <trans-unit id="99" resname="85f3906d78176d893ec6c552e93047ce">
+        <source>(14) Conga</source>
+        <target>(14) Konga</target>
+      </trans-unit>
+      <trans-unit id="100" resname="462e0ebbde39eeaa76105b1a4fe6e3e2">
+        <source>(11) Cowbell</source>
+        <target>(11) Kuhglocke</target>
+      </trans-unit>
+      <trans-unit id="101" resname="f0e5d89bf1476f3e85f1e270ccaa03ec">
+        <source>(4) Crash Cymbal</source>
+        <target>(4) Crash-Becken</target>
+      </trans-unit>
+      <trans-unit id="102" resname="be8872eca728a62e058df6acdd0ff824">
+        <source>(18) Cuica</source>
+        <target>(18) Cuíca</target>
+      </trans-unit>
+      <trans-unit id="103" resname="7b42ab7783e14196d2fd317eede812c5">
+        <source>(16) Guiro</source>
+        <target>(16) Güiro</target>
+      </trans-unit>
+      <trans-unit id="104" resname="070ffd081aceaa3a0df7dcf923ee30a2">
+        <source>(8) Hand Clap</source>
+        <target>(8) Klatschen</target>
+      </trans-unit>
+      <trans-unit id="105" resname="19b702f9dbdae9ba74c497aa2787a5ee">
+        <source>(5) Open Hi-Hat</source>
+        <target>(5) Offene Hi-Hat</target>
+      </trans-unit>
+      <trans-unit id="106" resname="e1201b52e75356b532730c33beb20df7">
+        <source>(3) Side Stick</source>
+        <target>(3) Side-Stick</target>
+      </trans-unit>
+      <trans-unit id="107" resname="415b134b4d1da7a5f02f58d2fb685eba">
+        <source>(1) Snare Drum</source>
+        <target>(1) Snare-Drum</target>
+      </trans-unit>
+      <trans-unit id="108" resname="ac5eecf489bed414a24dabf9464b7a13">
+        <source>(7) Tambourine</source>
+        <target>(7) Tamburin</target>
+      </trans-unit>
+      <trans-unit id="109" resname="597173f5e05b1ab066b6f7df18da5306">
+        <source>(12) Triangle</source>
+        <target>(12) Triangel</target>
+      </trans-unit>
+      <trans-unit id="110" resname="35c9b35ff840ae6eadfa3358b2a1c165">
+        <source>(17) Vibraslap</source>
+        <target>(17) Vibraslap</target>
+      </trans-unit>
+      <trans-unit id="111" resname="dcaa763aa0617141a1e982f1e07e59b7">
+        <source>(10) Wood Block</source>
+        <target>(10) Holzblock</target>
+      </trans-unit>
+      <trans-unit id="112" resname="13fcc9d05dd3189c53be5cd9a028560c">
+        <source>tempo</source>
+        <target>Tempo</target>
+      </trans-unit>
+      <trans-unit id="113" resname="6ca90ef6849cdf066d4f75a1a3198909">
+        <source>(6) Bass</source>
+        <target>(6) Bass-Gitarre</target>
+      </trans-unit>
+      <trans-unit id="114" resname="7c999a391a5e196d2953ce4d1d215896">
+        <source>(14) Bassoon</source>
+        <target>(14) Fagott</target>
+      </trans-unit>
+      <trans-unit id="115" resname="2ccae20a16b03bb17643fb6735803ba7">
+        <source>(8) Cello</source>
+        <target>(8) Cello</target>
+      </trans-unit>
+      <trans-unit id="116" resname="31c9eca6c65dc03882bd2d5759fcfeec">
+        <source>(15) Choir</source>
+        <target>(15) Chor</target>
+      </trans-unit>
+      <trans-unit id="117" resname="6e320d72870241f8f3a0dbe4b2d0fa85">
+        <source>(10) Clarinet</source>
+        <target>(10) Klarinette</target>
+      </trans-unit>
+      <trans-unit id="118" resname="ee1a7857a3c50043e0380e8d9f74c451">
+        <source>(5) Electric Guitar</source>
+        <target>(5) E-Gitarre</target>
+      </trans-unit>
+      <trans-unit id="119" resname="e9295d33ca3e6ff08329efbe72597fb3">
+        <source>(2) Electric Piano</source>
+        <target>(2) E-Piano</target>
+      </trans-unit>
+      <trans-unit id="120" resname="7fbf5e43ba06023b49108deaa49aad13">
+        <source>(12) Flute</source>
+        <target>(12) Querflöte</target>
+      </trans-unit>
+      <trans-unit id="121" resname="9b2bce01130b6adf1cd37ba04ea8d22e">
+        <source>(4) Guitar</source>
+        <target>(4) Gitarre</target>
+      </trans-unit>
+      <trans-unit id="122" resname="afb6c65f103bbca06d94345871755c92">
+        <source>(19) Marimba</source>
+        <target>(19) Marimba</target>
+      </trans-unit>
+      <trans-unit id="123" resname="b0d24b197f1d0eab90b5bd8887f8bcb0">
+        <source>(17) Music Box</source>
+        <target>(17) Musikbox</target>
+      </trans-unit>
+      <trans-unit id="124" resname="b643282ac18a3999f4bd27e328077853">
+        <source>(3) Organ</source>
+        <target>(3) Orgel</target>
+      </trans-unit>
+      <trans-unit id="125" resname="d06e39edd31c420b4f03e9dcede81a46">
+        <source>(1) Piano</source>
+        <target>(1) Klavier</target>
+      </trans-unit>
+      <trans-unit id="126" resname="39d2973347fbc6f9a4460a2c64337073">
+        <source>(7) Pizzicato</source>
+        <target>(7) Pizzicato</target>
+      </trans-unit>
+      <trans-unit id="127" resname="6a3382678a6d2bb3831ab4c548195a1e">
+        <source>(11) Saxophone</source>
+        <target>(11) Saxophon</target>
+      </trans-unit>
+      <trans-unit id="128" resname="72194e68b7b773db2c1f74a925f70235">
+        <source>(18) Steel Drum</source>
+        <target>(18) Steel-Drum</target>
+      </trans-unit>
+      <trans-unit id="129" resname="e0aa3c0e2fe7a635c8d597a5a60af73c">
+        <source>(20) Synth Lead</source>
+        <target>(20) Lead-Synthesizer</target>
+      </trans-unit>
+      <trans-unit id="130" resname="96ad09ef6d02c28edfc54d99712b483a">
+        <source>(21) Synth Pad</source>
+        <target>(21) Pad-Synthesizer</target>
+      </trans-unit>
+      <trans-unit id="131" resname="62f0eced3ec67adc4665ab87180b63c4">
+        <source>(9) Trombone</source>
+        <target>(9) Posaune</target>
+      </trans-unit>
+      <trans-unit id="132" resname="68cc9aca199f132f366a654aa1091071">
+        <source>(16) Vibraphone</source>
+        <target>(16) Vibraphon</target>
+      </trans-unit>
+      <trans-unit id="133" resname="3cf18dccc1dbeefa5438d21aae455150">
+        <source>(13) Wooden Flute</source>
+        <target>(13) Blockflöte</target>
+      </trans-unit>
+      <trans-unit id="134" resname="a350b6a32f5912c20f1687fa707879a5">
+        <source>play drum [DRUM] for [BEATS] beats</source>
+        <target>spiele Schlaginstrument [DRUM] für [BEATS] Schläge</target>
+      </trans-unit>
+      <trans-unit id="135" resname="6741f170caa4dd21e3549b103d1e46ee">
+        <source>set instrument to [INSTRUMENT]</source>
+        <target>setze Instrument auf [INSTRUMENT]</target>
+      </trans-unit>
+      <trans-unit id="136" resname="af407033992ea402ca3f7dcd44bfc281">
+        <source>play drum [DRUM] for [BEATS] beats</source>
+        <target>spiele Schlaginstrument [DRUM] für [BEATS] Schläge</target>
+      </trans-unit>
+      <trans-unit id="137" resname="f4fda6be9edf9a4d620fce92c1b13d80">
+        <source>play note [NOTE] for [BEATS] beats</source>
+        <target>spiele Ton [NOTE] für [BEATS] Schläge</target>
+      </trans-unit>
+      <trans-unit id="138" resname="57f1af6b4ffc8f862ae6934306505b19">
+        <source>rest for [BEATS] beats</source>
+        <target>pausiere [BEATS] Schläge</target>
+      </trans-unit>
+      <trans-unit id="139" resname="c86ab307d11751e47795dda01a3e7038">
+        <source>set instrument to [INSTRUMENT]</source>
+        <target>setze Instrument auf [INSTRUMENT]</target>
+      </trans-unit>
+      <trans-unit id="140" resname="e8bd892e0508922c7d39d99f925e1eeb">
+        <source>set tempo to [TEMPO]</source>
+        <target>setze Tempo auf [TEMPO]</target>
+      </trans-unit>
+      <trans-unit id="141" resname="5066864347b5978e58d2f849d38ea630">
+        <source>Pen</source>
+        <target>Malstift</target>
+      </trans-unit>
+      <trans-unit id="142" resname="a4824131a5a91587a97a6042c546aaef">
+        <source>change pen [COLOR_PARAM] by [VALUE]</source>
+        <target>ändere Stift [COLOR_PARAM] um [VALUE]</target>
+      </trans-unit>
+      <trans-unit id="143" resname="2dea7d325b4a9573c364b9bac1c4a9ad">
+        <source>change pen color by [HUE]</source>
+        <target>ändere Stiftfarbe um [HUE]</target>
+      </trans-unit>
+      <trans-unit id="144" resname="e80b97690d5d7f9fd24a52176530519f">
+        <source>change pen shade by [SHADE]</source>
+        <target>ändere Farbstärke um [SHADE]</target>
+      </trans-unit>
+      <trans-unit id="145" resname="8a5a0bf9d122d903e3ec22d164bc4dba">
+        <source>change pen size by [SIZE]</source>
+        <target>ändere Stiftdicke um [SIZE]</target>
+      </trans-unit>
+      <trans-unit id="146" resname="6de8a82a64b086addf14dcbe998976c9">
+        <source>erase all</source>
+        <target>lösche alles</target>
+      </trans-unit>
+      <trans-unit id="147" resname="260cdcaf9b3988b67cecdd910e9c7dd6">
+        <source>brightness</source>
+        <target>Helligkeit</target>
+      </trans-unit>
+      <trans-unit id="148" resname="85c0423a59b3f65cc4bd47c583779c4c">
+        <source>color</source>
+        <target>Farbe</target>
+      </trans-unit>
+      <trans-unit id="149" resname="c5027d823cd9d5dbe2a9c39d58047e23">
+        <source>saturation</source>
+        <target>Sättigung</target>
+      </trans-unit>
+      <trans-unit id="150" resname="9a1405ed5fc769c0774a293f0f15dc8f">
+        <source>transparency</source>
+        <target>Transparenz</target>
+      </trans-unit>
+      <trans-unit id="151" resname="c1712b5a8c723baf284e413a5e56e311">
+        <source>pen down</source>
+        <target>schalte Stift ein</target>
+      </trans-unit>
+      <trans-unit id="152" resname="c43da0c024b2f2f5dc7c78f4d3ad0cf7">
+        <source>pen up</source>
+        <target>schalte Stift aus</target>
+      </trans-unit>
+      <trans-unit id="153" resname="08f2cbd4b17ef3eeafffd56ea4de1d18">
+        <source>set pen color to [COLOR]</source>
+        <target>setze Stiftfarbe auf [COLOR]</target>
+      </trans-unit>
+      <trans-unit id="154" resname="111288a0746e97694f861255cc7f611f">
+        <source>set pen [COLOR_PARAM] to [VALUE]</source>
+        <target>setze Stift [COLOR_PARAM] auf [VALUE]</target>
+      </trans-unit>
+      <trans-unit id="155" resname="7892ae9827e08e44fb05d89e0c9fb7ce">
+        <source>set pen color to [HUE]</source>
+        <target>setze Stiftfarbe auf [HUE]</target>
+      </trans-unit>
+      <trans-unit id="156" resname="7f3e9f42f16590eed8a2c9d66313924d">
+        <source>set pen shade to [SHADE]</source>
+        <target>setze Farbstärke auf [SHADE]</target>
+      </trans-unit>
+      <trans-unit id="157" resname="29415b6fd528d6ea807d2e03ad0f79f8">
+        <source>set pen size to [SIZE]</source>
+        <target>setze Stiftdicke auf [SIZE]</target>
+      </trans-unit>
+      <trans-unit id="158" resname="3821bf104eb40a8c9c63cabaccf20216">
+        <source>stamp</source>
+        <target>hinterlasse Abdruck</target>
+      </trans-unit>
+      <trans-unit id="159" resname="a93a7c5fb57baa82f2f5cc7d821a5aab">
+        <source>let''s go</source>
+        <target>los geht's</target>
+      </trans-unit>
+      <trans-unit id="160" resname="d9009d5379777afcc1a3622bba266977">
+        <source>Speech to Text</source>
+        <target>Sprache zu Text</target>
+      </trans-unit>
+      <trans-unit id="161" resname="a006caca711bae516ad0ec04c9176df2">
+        <source>listen and wait</source>
+        <target>hör zu und warte</target>
+      </trans-unit>
+      <trans-unit id="162" resname="86a5b41a0c3fdea0a843e3f79732a37d">
+        <source>speech</source>
+        <target>Gesprochenes</target>
+      </trans-unit>
+      <trans-unit id="163" resname="83dc2a07a25dd0abcbe954053109f90c">
+        <source>when I hear [PHRASE]</source>
+        <target>Wenn ich [PHRASE]höre</target>
+      </trans-unit>
+      <trans-unit id="164" resname="8068e5fb9905723bc255c61b64ab4fc5">
+        <source>alto</source>
+        <target>Alt</target>
+      </trans-unit>
+      <trans-unit id="165" resname="fa87f3ee5c02e0ae61a442b61c237530">
+        <source>Text to Speech</source>
+        <target>Text zu Sprache</target>
+      </trans-unit>
+      <trans-unit id="166" resname="676203fc30bb6967a07b8d5c5066be34">
+        <source>hello</source>
+        <target>Hallo</target>
+      </trans-unit>
+      <trans-unit id="167" resname="b810ac95520022c3c380b6231ed7ed24">
+        <source>giant</source>
+        <target>Riese</target>
+      </trans-unit>
+      <trans-unit id="168" resname="6263de7726709fc6aa9b121c34f99fde">
+        <source>kitten</source>
+        <target>Kätzchen</target>
+      </trans-unit>
+      <trans-unit id="169" resname="71ac6d4420669e9cea8d6b311bfe73d6">
+        <source>set language to [LANGUAGE]</source>
+        <target>setze Sprache auf [LANGUAGE]</target>
+      </trans-unit>
+      <trans-unit id="170" resname="28ee9a9d25e52cd3cb6d796398d998ca">
+        <source>set voice to [VOICE]</source>
+        <target>ändere die Stimme zu [VOICE]</target>
+      </trans-unit>
+      <trans-unit id="171" resname="59ebff81a327852bbedfa59b3265daa2">
+        <source>speak [WORDS]</source>
+        <target>sage [WORDS]</target>
+      </trans-unit>
+      <trans-unit id="172" resname="8e41943312d969cbe93299ecfae432ba">
+        <source>squeak</source>
+        <target>Quietschen</target>
+      </trans-unit>
+      <trans-unit id="173" resname="8a7e2a08f933a2fb122e28e5fe7c12c7">
+        <source>tenor</source>
+        <target>Tenor</target>
+      </trans-unit>
+      <trans-unit id="174" resname="185abffc59f082a248245110fbd90f26">
+        <source>Translate</source>
+        <target>Übersetzung</target>
+      </trans-unit>
+      <trans-unit id="175" resname="78134cebd69e106dce38758a979715ea">
+        <source>hello</source>
+        <target>Hallo</target>
+      </trans-unit>
+      <trans-unit id="176" resname="431e4265c7b724acb89bd0e9a9dc522e">
+        <source>translate [WORDS] to [LANGUAGE]</source>
+        <target>übersetze [WORDS] nach [LANGUAGE]</target>
+      </trans-unit>
+      <trans-unit id="177" resname="7e75f400647d05c36660baa584630de2">
+        <source>language</source>
+        <target>Sprache</target>
+      </trans-unit>
+      <trans-unit id="178" resname="eac94ddbd1890910a0f158425aaff52b">
+        <source>Video Sensing</source>
+        <target>Video-Erfassung</target>
+      </trans-unit>
+      <trans-unit id="179" resname="dee6b2b402823b6669908f35afb3920c">
+        <source>direction</source>
+        <target>Richtung</target>
+      </trans-unit>
+      <trans-unit id="180" resname="c38c204b90709bd2c87c89a2ee14db3a">
+        <source>motion</source>
+        <target>Bewegung</target>
+      </trans-unit>
+      <trans-unit id="181" resname="f0ecb5d22977c219f82f7b476e6eec13">
+        <source>off</source>
+        <target>aus</target>
+      </trans-unit>
+      <trans-unit id="182" resname="93988d267bed5cf88bd8dc7cc721eb73">
+        <source>on</source>
+        <target>an</target>
+      </trans-unit>
+      <trans-unit id="183" resname="4a5a691accb4c6899db1479081b3c190">
+        <source>on flipped</source>
+        <target>auf gespiegelt</target>
+      </trans-unit>
+      <trans-unit id="184" resname="07fd34d38e800f594266104debf57293">
+        <source>set video transparency to [TRANSPARENCY]</source>
+        <target>setze Video-Transparenz auf [TRANSPARENCY]</target>
+      </trans-unit>
+      <trans-unit id="185" resname="55d92bdc260cbf9c759d04d4c8346650">
+        <source>sprite</source>
+        <target>Figur</target>
+      </trans-unit>
+      <trans-unit id="186" resname="2483c7fa906f4298799a17a1b4c14819">
+        <source>stage</source>
+        <target>Bühne</target>
+      </trans-unit>
+      <trans-unit id="187" resname="b8b2c37a7f8467c2d4285789b7085c81">
+        <source>video [ATTRIBUTE] on [SUBJECT]</source>
+        <target>Video-[ATTRIBUTE] von [SUBJECT]</target>
+      </trans-unit>
+      <trans-unit id="188" resname="28d0ecb3c90713c91fb9a46006ada771">
+        <source>turn video [VIDEO_STATE]</source>
+        <target>schalte Video [VIDEO_STATE]</target>
+      </trans-unit>
+      <trans-unit id="189" resname="a5a9941173eac182f4af93e419f3b1bc">
+        <source>when video motion &gt; [REFERENCE]</source>
+        <target>Wenn Video-Bewegung &gt; [REFERENCE]</target>
+      </trans-unit>
+      <trans-unit id="190" resname="a955b8663e56be86a35a9f711e0ca261">
+        <source>distance</source>
+        <target>Abstand</target>
+      </trans-unit>
+      <trans-unit id="191" resname="4e358d533615e9af76a8fb6cff69884d">
+        <source>tilt angle [TILT_DIRECTION]</source>
+        <target>Neigungswinkel [TILT_DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="192" resname="a19749b349418afa3739ad62030a6e42">
+        <source>tilted [TILT_DIRECTION_ANY]?</source>
+        <target>[TILT_DIRECTION_ANY] geneigt?</target>
+      </trans-unit>
+      <trans-unit id="193" resname="d6d1fcb8a53131b4eb9d7faf2e7583f4">
+        <source>that way</source>
+        <target>linksherum</target>
+      </trans-unit>
+      <trans-unit id="194" resname="bb7f634b5ccfd2d8bdd872283aca0c01">
+        <source>this way</source>
+        <target>rechtsherum</target>
+      </trans-unit>
+      <trans-unit id="195" resname="7ecaa12f80f806c992a7c51d1056b553">
+        <source>reverse</source>
+        <target>andersherum</target>
+      </trans-unit>
+      <trans-unit id="196" resname="28f1cbaffc1844a58afd952b51aa4a5d">
+        <source>motor A</source>
+        <target>Motor A</target>
+      </trans-unit>
+      <trans-unit id="197" resname="7014c5a962c805f3e5c26763a2f88462">
+        <source>all motors</source>
+        <target>alle Motoren</target>
+      </trans-unit>
+      <trans-unit id="198" resname="337dbbe325120b74c69ce41707e60750">
+        <source>motor B</source>
+        <target>Motor B</target>
+      </trans-unit>
+      <trans-unit id="199" resname="e23e8733c7e9d4628f3201b9d57424c2">
+        <source>motor</source>
+        <target>Motor</target>
+      </trans-unit>
+      <trans-unit id="200" resname="d3852fee4cf64b94cadcd51a98cfb866">
+        <source>turn [MOTOR_ID] off</source>
+        <target>schalte [MOTOR_ID] aus</target>
+      </trans-unit>
+      <trans-unit id="201" resname="14ce159335b4399da43aaaf16fe8a873">
+        <source>turn [MOTOR_ID] on</source>
+        <target>schalte [MOTOR_ID] an</target>
+      </trans-unit>
+      <trans-unit id="202" resname="b6224d3557ed634e2a67e5f5191e13ff">
+        <source>turn [MOTOR_ID] on for [DURATION] seconds</source>
+        <target>schalte [MOTOR_ID] für [DURATION] Sekunden an</target>
+      </trans-unit>
+      <trans-unit id="203" resname="0ca6a7c5cbcf7b47a8875025f1165be8">
+        <source>play note [NOTE] for [DURATION] seconds</source>
+        <target>spiele Note [NOTE] für [DURATION] Sekunden</target>
+      </trans-unit>
+      <trans-unit id="204" resname="e994a2388798e71ce3e918ac92387368">
+        <source>set light color to [HUE]</source>
+        <target>setze Lichtfarbe auf [HUE]</target>
+      </trans-unit>
+      <trans-unit id="205" resname="3f5ab98d58bfb7678b118f621f283c97">
+        <source>set [MOTOR_ID] direction to [MOTOR_DIRECTION]</source>
+        <target>setze Richtung von [MOTOR_ID] auf [MOTOR_DIRECTION]</target>
+      </trans-unit>
+      <trans-unit id="206" resname="72a01f640354bf954a2a9156a488a6d1">
+        <source>set [MOTOR_ID] power to [POWER]</source>
+        <target>setze Leistung von [MOTOR_ID] auf [POWER]</target>
+      </trans-unit>
+      <trans-unit id="207" resname="7ac11e207cc3418bb748171bc2b61af3">
+        <source>any</source>
+        <target>beliebig</target>
+      </trans-unit>
+      <trans-unit id="208" resname="dd4583e27cbb34c4c245af88aeef4f03">
+        <source>down</source>
+        <target>nach unten</target>
+      </trans-unit>
+      <trans-unit id="209" resname="d2a8f75516b6d3525387c39c4a342c58">
+        <source>left</source>
+        <target>nach links</target>
+      </trans-unit>
+      <trans-unit id="210" resname="5c633f8aba728f169b02eda1ac2731dd">
+        <source>right</source>
+        <target>nach rechts</target>
+      </trans-unit>
+      <trans-unit id="211" resname="5ea2bb6413227030cc6638c27382a60d">
+        <source>up</source>
+        <target>nach oben</target>
+      </trans-unit>
+      <trans-unit id="212" resname="33a8bf79bf4f99451e42855482d53d67">
+        <source>when distance [OP] [REFERENCE]</source>
+        <target>Wenn Abstand [OP] [REFERENCE]</target>
+      </trans-unit>
+      <trans-unit id="213" resname="86306659dbff17922d776ef58c4f4caf">
+        <source>when tilted [TILT_DIRECTION_ANY]</source>
+        <target>Wenn [TILT_DIRECTION_ANY] geneigt</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
