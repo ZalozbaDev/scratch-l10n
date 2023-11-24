@@ -3,251 +3,251 @@
     <body>
       <trans-unit id="1" resname="e78b7e30e3b565cdd7d56f94d186b3a4">
         <source>forever</source>
-        <target>wiederhole fortlaufend</target>
+        <target>wospjetuj trajnje</target>
       </trans-unit>
       <trans-unit id="2" resname="aea3a2b4ac1ea29e8ed494b2f7da2e84">
         <source>repeat %1</source>
-        <target>wiederhole %1 mal</target>
+        <target>wospjetuj %1 razow</target>
       </trans-unit>
       <trans-unit id="3" resname="9c3d690a4af728374bccc46e6da64444">
         <source>if %1 then</source>
-        <target>falls %1, dann</target>
+        <target>hdyž %1, potom</target>
       </trans-unit>
       <trans-unit id="4" resname="5d0a7ed19ef5bace32c9557bcebe3914">
         <source>else</source>
-        <target>sonst</target>
+        <target>hewak/abo</target>
       </trans-unit>
       <trans-unit id="5" resname="3a165397f4f2d31188c397742cd023ed">
         <source>stop</source>
-        <target>stoppe</target>
+        <target>stop</target>
       </trans-unit>
       <trans-unit id="6" resname="c5a7db05a66d3e31269ecf06c6248513">
         <source>all</source>
-        <target>alles</target>
+        <target>wšitko</target>
       </trans-unit>
       <trans-unit id="7" resname="50b71842417d9f3ab33bba4a4805c33e">
         <source>this script</source>
-        <target>dieses Skript</target>
+        <target>tutón skript</target>
       </trans-unit>
       <trans-unit id="8" resname="c95443e662073829d82b7de40c331ca0">
         <source>other scripts in sprite</source>
-        <target>andere Skripte der Figur</target>
+        <target>Druhe skripty w figury</target>
       </trans-unit>
       <trans-unit id="9" resname="ed4478fbf929daacfeeb44d7f229c4f3">
         <source>wait %1 seconds</source>
-        <target>warte %1 Sekunden</target>
+        <target>doćakaj %1 sekundow</target>
       </trans-unit>
       <trans-unit id="10" resname="30e1c5e84b13ea79d0dc78558d83ae13">
         <source>wait until %1</source>
-        <target>warte bis %1</target>
+        <target>doćakaj doniž/hač do %1</target>
       </trans-unit>
       <trans-unit id="11" resname="377374c546fa9f520e65fe08b539c4a7">
         <source>repeat until %1</source>
-        <target>wiederhole bis %1</target>
+        <target>wospjetuj doniž/hač do %1</target>
       </trans-unit>
       <trans-unit id="12" resname="581e8607844ae88d4eaddc9c254c371f">
         <source>while %1</source>
-        <target>wiederhole solange %1</target>
+        <target>wospjetuj dołhož %1</target>
       </trans-unit>
       <trans-unit id="13" resname="dc46e7dc0b0e62f66324fe6dd8eda9aa">
         <source>for each %1 in %2</source>
-        <target>wiederhole für jedes %1 in %2</target>
+        <target>wospjetuj za kóždy %1 w %2</target>
       </trans-unit>
       <trans-unit id="14" resname="b529045c9a764cea0f8a72b617c0c3e1">
         <source>when I start as a clone</source>
-        <target>Wenn ich als Klon entstehe</target>
+        <target>Hdyž jako klon započnu/nastanu</target>
       </trans-unit>
       <trans-unit id="15" resname="fdf5e801ae3ec1e0b595402fcabe4e38">
         <source>create clone of %1</source>
-        <target>erzeuge Klon von %1</target>
+        <target>kreěruj klon wot %1</target>
       </trans-unit>
       <trans-unit id="16" resname="b77f97dcdf7fbaa929c97da7c8a10a7f">
         <source>myself</source>
-        <target>mir selbst</target>
+        <target>mi samomu</target>
       </trans-unit>
       <trans-unit id="17" resname="e7b06c440912cb43a01ac8c3ba5aec90">
         <source>delete this clone</source>
-        <target>lösche diesen Klon</target>
+        <target>Wotstroń tuteho klona</target>
       </trans-unit>
       <trans-unit id="18" resname="91ee94e17cf5fc4cab0ea31a7964ae5b">
         <source>counter</source>
-        <target>Zähler</target>
+        <target>ličak</target>
       </trans-unit>
       <trans-unit id="19" resname="e2da1676223ec3bb17c3346e15d41099">
         <source>increment counter</source>
-        <target>erhöhe Zähler</target>
+        <target>zwyš ličaka</target>
       </trans-unit>
       <trans-unit id="20" resname="c47cce2e8d3bc50d4774a4bd6f4c9547">
         <source>clear counter</source>
-        <target>lösche Zähler</target>
+        <target>ličaka hašeć</target>
       </trans-unit>
       <trans-unit id="21" resname="4e824b43bb4e5184e753e7154c9000be">
         <source>all at once</source>
-        <target>Alle gleichzeitig</target>
+        <target>wšo naraz</target>
       </trans-unit>
       <trans-unit id="22" resname="d8ccd5163c4273d9efee715aacb79370">
         <source>set %1 to %2</source>
-        <target>setze %1 auf %2</target>
+        <target>sadź %1 na %2</target>
       </trans-unit>
       <trans-unit id="23" resname="899a53a0b4e4d00328c915d29664b092">
         <source>change %1 by %2</source>
-        <target>ändere %1 um %2</target>
+        <target>přeměń %1 wo %2</target>
       </trans-unit>
       <trans-unit id="24" resname="34d70fa9cf65218cd90ee68c19da955a">
         <source>show variable %1</source>
-        <target>zeige Variable %1</target>
+        <target>pokazaj wariablu %1</target>
       </trans-unit>
       <trans-unit id="25" resname="7c98e267ffa2a4dcc1c6d26cdee7a5be">
         <source>hide variable %1</source>
-        <target>verstecke Variable %1</target>
+        <target>schowaj wariablu %1</target>
       </trans-unit>
       <trans-unit id="26" resname="294ec567c064647fabc4afeef2a779d5">
         <source>add %1 to %2</source>
-        <target>füge %1 zu %2 hinzu</target>
+        <target>přidawaj %1 k %2</target>
       </trans-unit>
       <trans-unit id="27" resname="498a03f5b2bf0959604de776e7710e3f">
         <source>delete %1 of %2</source>
-        <target>lösche %1 aus %2</target>
+        <target>hašej %1 wot %2</target>
       </trans-unit>
       <trans-unit id="28" resname="316fcfd5b11e31db720f14b86229549d">
         <source>delete all of %1</source>
-        <target>lösche alles aus %1</target>
+        <target>hašej/wotstron wšitko z %1</target>
       </trans-unit>
       <trans-unit id="29" resname="2a106ce310c9bd4ca7775f7fac373622">
         <source>insert %1 at %2 of %3</source>
-        <target>füge %1 bei %2 in %3 ein</target>
+        <target>zasadź %1 při %2 w %3</target>
       </trans-unit>
       <trans-unit id="30" resname="9c3ed2471f34da53e9fb69b1d9f0f128">
         <source>replace item %1 of %2 with %3</source>
-        <target>ersetze Element %1 von %2 durch %3</target>
+        <target>narunaj element %1 wot %2 z %3</target>
       </trans-unit>
       <trans-unit id="31" resname="4f19f842ddf5fff9a1190531e6230cba">
         <source>item %1 of %2</source>
-        <target>Element %1 von %2</target>
+        <target>element %1 wot %2</target>
       </trans-unit>
       <trans-unit id="32" resname="88af1f7bab74981538041af09d9e41c7">
         <source>item # of %1 in %2</source>
-        <target>Nummer von %1 in %2</target>
+        <target>čisło # wot %1 do %2</target>
       </trans-unit>
       <trans-unit id="33" resname="716d39890b381957690b8a9f0c8febf0">
         <source>length of %1</source>
-        <target>Länge von %1</target>
+        <target>dołhosć wot %1</target>
       </trans-unit>
       <trans-unit id="34" resname="6c11d39d321b95f3889b62106e0442d8">
         <source>%1 contains %2?</source>
-        <target>%1 enthält %2?</target>
+        <target>%1 wobsahuje %2?</target>
       </trans-unit>
       <trans-unit id="35" resname="340e3ed5ed91747e1187e0dd1475ca18">
         <source>show list %1</source>
-        <target>zeige Liste %1</target>
+        <target>pokazaj lisćinu %1</target>
       </trans-unit>
       <trans-unit id="36" resname="dfb680f23e11705659156c8f809e16e7">
         <source>hide list %1</source>
-        <target>verstecke Liste %1</target>
+        <target>schowaj lisćinu %1</target>
       </trans-unit>
       <trans-unit id="37" resname="aef4d6678bd691b1cd5ad984bb7eb9af">
         <source>all</source>
-        <target>alles</target>
+        <target>wšo</target>
       </trans-unit>
       <trans-unit id="38" resname="8ecda972d4f0b8a2c35b8fcb30cfd885">
         <source>last</source>
-        <target>letztes</target>
+        <target>poslednje</target>
       </trans-unit>
       <trans-unit id="39" resname="72ed5eb92a521035cc86f6c0320fa40c">
         <source>random</source>
-        <target>zufälliges</target>
+        <target>připadnje</target>
       </trans-unit>
       <trans-unit id="40" resname="ae3a3f0a5117a613893a6452a806f16e">
         <source>when %1 clicked</source>
-        <target>Wenn %1 angeklickt wird</target>
+        <target>hdyž %1 nakliknjene</target>
       </trans-unit>
       <trans-unit id="41" resname="e6c0149eb38d1b9a1b8d6e5afb9fb5c8">
         <source>when this sprite clicked</source>
-        <target>Wenn diese Figur angeklickt wird</target>
+        <target>hdyž so tuta figura nakliknje</target>
       </trans-unit>
       <trans-unit id="42" resname="bb0feb15499a0cbb7f23395452926493">
         <source>when stage clicked</source>
-        <target>Wenn die Bühne angeklickt wird</target>
+        <target>hdyž so jewišćo nakliknje</target>
       </trans-unit>
       <trans-unit id="43" resname="1d0c2bc2511cc8e836eaef9251e570cd">
         <source>when this sprite touches %1</source>
-        <target>Wenn diese Figur %1 berührt</target>
+        <target>hdyž dótknje figura %1</target>
       </trans-unit>
       <trans-unit id="44" resname="7986a76f2dc38c97624049c5f4ee24ba">
         <source>when I receive %1</source>
-        <target>Wenn ich %1 empfange</target>
+        <target>hdyž přijimuju %1</target>
       </trans-unit>
       <trans-unit id="45" resname="fdccb1e005b09918d142a862694d1796">
         <source>when backdrop switches to %1</source>
-        <target>Wenn das Bühnenbild zu %1 wechselt</target>
+        <target>hdyž pozadk/jewišćowy wobraz so k %1 přeměni</target>
       </trans-unit>
       <trans-unit id="46" resname="188e533dcf4af0776dfdf109244f9c7d">
         <source>when %1 &gt; %2</source>
-        <target>Wenn %1 &gt; %2</target>
+        <target>hdyž %1 &gt; %2</target>
       </trans-unit>
       <trans-unit id="47" resname="7291845390524b0facb602d742f9b29d">
         <source>timer</source>
-        <target>Stoppuhr</target>
+        <target>stopowka</target>
       </trans-unit>
       <trans-unit id="48" resname="1f9050ecc471b77a1a2baa8561582a0f">
         <source>loudness</source>
-        <target>Lautstärke</target>
+        <target>sylnosć zwuka</target>
       </trans-unit>
       <trans-unit id="49" resname="9c84e5eb16cc8de8aa9f47662dae8e73">
         <source>broadcast %1</source>
-        <target>sende %1 an alle</target>
+        <target>přenjes %1</target>
       </trans-unit>
       <trans-unit id="50" resname="8a6afa8a61b284a3e6ace7f80a507fcb">
         <source>broadcast %1 and wait</source>
-        <target>sende %1 an alle und warte</target>
+        <target>přenjes %1 na wšěch a doćakaj</target>
       </trans-unit>
       <trans-unit id="51" resname="61a7313c0844db5b5436f7754b5d3728">
         <source>when %1 key pressed</source>
-        <target>Wenn Taste %1 gedrückt wird</target>
+        <target>hdyž so %1 tasta tłóči</target>
       </trans-unit>
       <trans-unit id="52" resname="4e1b525f632c5e4bbe81d771db9230cd">
         <source>space</source>
-        <target>Leertaste</target>
+        <target>mjezotowa tasta</target>
       </trans-unit>
       <trans-unit id="53" resname="8514fb94178494aee22989de966d009d">
         <source>left arrow</source>
-        <target>Pfeil nach links</target>
+        <target>lěwy kłok</target>
       </trans-unit>
       <trans-unit id="54" resname="e5f15c79fa31a6941a9153369393b1c7">
         <source>right arrow</source>
-        <target>Pfeil nach rechts</target>
+        <target>prawy kłok</target>
       </trans-unit>
       <trans-unit id="55" resname="dd5a91375b88d748354321833701b306">
         <source>down arrow</source>
-        <target>Pfeil nach unten</target>
+        <target>kłok dele</target>
       </trans-unit>
       <trans-unit id="56" resname="5cbed4f50079648666235ce59cb79ce7">
         <source>up arrow</source>
-        <target>Pfeil nach oben</target>
+        <target>kłok horje</target>
       </trans-unit>
       <trans-unit id="57" resname="90ce2938701b80cb347220b7a85f1045">
         <source>any</source>
-        <target>beliebiges</target>
+        <target>někajki</target>
       </trans-unit>
       <trans-unit id="58" resname="ba9c776e2870496e513481283b36e2f7">
         <source>say %1 for %2 seconds</source>
-        <target>sage %1 für %2 Sekunden</target>
+        <target>praj %1 za %2 sekundow</target>
       </trans-unit>
       <trans-unit id="59" resname="91fb6c0566b931ba14b217e6802ddd2e">
         <source>say %1</source>
-        <target>sage %1</target>
+        <target>praj/rěč %1</target>
       </trans-unit>
       <trans-unit id="60" resname="8999d578114f302491d60b4d7e48f509">
         <source>Hello!</source>
-        <target>Hallo!</target>
+        <target>halo!</target>
       </trans-unit>
       <trans-unit id="61" resname="dbc6ae2562a2df9659d188c88e3f396d">
         <source>think %1 for %2 seconds</source>
-        <target>denke %1 für %2 Sekunden</target>
+        <target>mysl %1 za %2 sekundow</target>
       </trans-unit>
       <trans-unit id="62" resname="ad1fd6625b97b963557a9e528805fdf5">
         <source>think %1</source>
-        <target>denke %1</target>
+        <target>myslić %1</target>
       </trans-unit>
       <trans-unit id="63" resname="8a52d08dee4360973ce76419b2b5ef23">
         <source>Hmm...</source>
@@ -255,299 +255,299 @@
       </trans-unit>
       <trans-unit id="64" resname="b06ad8351084479267e0ac8687c16218">
         <source>show</source>
-        <target>zeige dich</target>
+        <target>pokazaj</target>
       </trans-unit>
       <trans-unit id="65" resname="0e4af88b997197a87e98d5ed35be16eb">
         <source>hide</source>
-        <target>verstecke dich</target>
+        <target>schowaj so</target>
       </trans-unit>
       <trans-unit id="66" resname="93d0351fedfd2f4e86c86752f1edcd03">
         <source>hide all sprites</source>
-        <target>Alle Figuren verbergen</target>
+        <target>schowaj wšitke figury</target>
       </trans-unit>
       <trans-unit id="67" resname="f236cf3b7c42bb7ca5951edd2a38848f">
         <source>color</source>
-        <target>Farbe</target>
+        <target>barba</target>
       </trans-unit>
       <trans-unit id="68" resname="025a05441dd2d1b99621dde7daa42c9c">
         <source>fisheye</source>
-        <target>Fischauge</target>
+        <target>rybjace wóčko</target>
       </trans-unit>
       <trans-unit id="69" resname="e489df21c8e781ba233078cfa9008b74">
         <source>whirl</source>
-        <target>Wirbel</target>
+        <target>kužoł/wjerćeńca</target>
       </trans-unit>
       <trans-unit id="70" resname="46b7ec1c0dd4d1f1b5c856ef3170a102">
         <source>pixelate</source>
-        <target>Pixel</target>
+        <target>piksel</target>
       </trans-unit>
       <trans-unit id="71" resname="899c354c8bc6f924d707c6eb77cdb432">
         <source>mosaic</source>
-        <target>Mosaik</target>
+        <target>mosaik</target>
       </trans-unit>
       <trans-unit id="72" resname="6aecd7e1714a5353a716a94b696033ee">
         <source>brightness</source>
-        <target>Helligkeit</target>
+        <target>swětłosć</target>
       </trans-unit>
       <trans-unit id="73" resname="755c022a4082998933015947cfcf0e5b">
         <source>ghost</source>
-        <target>Durchsichtigkeit</target>
+        <target>přewidnosć</target>
       </trans-unit>
       <trans-unit id="74" resname="a66bdb43fa5765ece5d2cdc5acde4aed">
         <source>change %1 effect by %2</source>
-        <target>ändere Effekt %1 um %2</target>
+        <target>přeměn efekt %1 wo %2</target>
       </trans-unit>
       <trans-unit id="75" resname="20a522c1825b998f9883c25c1cb47a2b">
         <source>set %1 effect to %2</source>
-        <target>setze Effekt %1 auf %2</target>
+        <target>sadź efekt %1 na %2</target>
       </trans-unit>
       <trans-unit id="76" resname="ee0c5df8985f4f8fe389ae2c03ce78cb">
         <source>clear graphic effects</source>
-        <target>schalte Grafikeffekte aus</target>
+        <target>grafikowe efekty hasnyć</target>
       </trans-unit>
       <trans-unit id="77" resname="88cd2dff24b8ac6ba7c1519b34938a9d">
         <source>change size by %1</source>
-        <target>ändere Größe um %1</target>
+        <target>wulkosć měnić wo %1</target>
       </trans-unit>
       <trans-unit id="78" resname="5c3ed377dc5990a2bf23cb1afd5169a1">
         <source>set size to %1 %</source>
-        <target>setze Größe auf %1</target>
+        <target>sadź wulkosć na %1</target>
       </trans-unit>
       <trans-unit id="79" resname="735598a792eedf8f59295829c5b94f08">
         <source>size</source>
-        <target>Größe</target>
+        <target>wulkosć</target>
       </trans-unit>
       <trans-unit id="80" resname="10f2f8ceca586916318617a8ebcf10a1">
         <source>change stretch by %1</source>
-        <target>ändere Dehnung um %1</target>
+        <target>přeměn rozćahowanje wo %1</target>
       </trans-unit>
       <trans-unit id="81" resname="b1d7a03c46e1afcb9f08c6efc78d60da">
         <source>set stretch to %1 %</source>
-        <target>setze Dehnung auf %1 %</target>
+        <target>nastaj rozćahowanje na %1 %</target>
       </trans-unit>
       <trans-unit id="82" resname="1b427aee90c45203fb7b9ed32ab69ae1">
         <source>switch costume to %1</source>
-        <target>wechsle zu Kostüm %1</target>
+        <target>přezměn kostim na %1</target>
       </trans-unit>
       <trans-unit id="83" resname="5752c992bbc51b05774ca0c8ab1f935c">
         <source>next costume</source>
-        <target>wechsle zum nächsten Kostüm</target>
+        <target>přichodny kostim</target>
       </trans-unit>
       <trans-unit id="84" resname="f674205a37407f3ce991fd6bbde1f5d7">
         <source>switch backdrop to %1</source>
-        <target>wechsle zu Bühnenbild %1</target>
+        <target>pozadk měnić na %1</target>
       </trans-unit>
       <trans-unit id="85" resname="f6230700680431ed5737d434b8f9ea8f">
         <source>go to %1 layer</source>
-        <target>gehe zu %1 Ebene</target>
+        <target>wróćo na %1 runinu</target>
       </trans-unit>
       <trans-unit id="86" resname="5ae26fe5e1a877f26ba0ea3c69aca714">
         <source>front</source>
-        <target>vorderster</target>
+        <target>prědku</target>
       </trans-unit>
       <trans-unit id="87" resname="4ac1748298ba9bf3cb76d13a8216af99">
         <source>back</source>
-        <target>hinterster</target>
+        <target>zady</target>
       </trans-unit>
       <trans-unit id="88" resname="29ad786a960354ef71327478b6168749">
         <source>go %1 %2 layers</source>
-        <target>gehe %2 Ebenen %1</target>
+        <target>dźi %2 runinow %1</target>
       </trans-unit>
       <trans-unit id="89" resname="b0979eb99e847757db53f463af757a6c">
         <source>forward</source>
-        <target>nach vorne</target>
+        <target>doprědka</target>
       </trans-unit>
       <trans-unit id="90" resname="f05c9606504e42e43b25335869f40563">
         <source>backward</source>
-        <target>nach hinten</target>
+        <target>dozady</target>
       </trans-unit>
       <trans-unit id="91" resname="3449ff37cdedea5213e503941d3a9389">
         <source>backdrop %1</source>
-        <target>Bühnenbild %1</target>
+        <target>pozadk %1</target>
       </trans-unit>
       <trans-unit id="92" resname="98b923e68163da66c67c37ae8d22d72e">
         <source>costume %1</source>
-        <target>Kostüm %1</target>
+        <target>Kostim %1</target>
       </trans-unit>
       <trans-unit id="93" resname="43410e7b23dde8ed46352f17c75aa3f5">
         <source>number</source>
-        <target>Nummer</target>
+        <target>čisło</target>
       </trans-unit>
       <trans-unit id="94" resname="9287d4855e678b07b02b262d06b8203b">
         <source>name</source>
-        <target>Name</target>
+        <target>mjeno</target>
       </trans-unit>
       <trans-unit id="95" resname="33b4c95417f042671044a57b6f5720f7">
         <source>switch backdrop to %1 and wait</source>
-        <target>wechsle zu Bühnenbild %1 und warte</target>
+        <target>přezměn pozadk na %1 a dočakaj</target>
       </trans-unit>
       <trans-unit id="96" resname="4d0cfd6485be780051c118267b3938cb">
         <source>next backdrop</source>
-        <target>wechsle zum nächsten Bühnenbild</target>
+        <target>přichodny pozadk</target>
       </trans-unit>
       <trans-unit id="97" resname="7ab623ca0d3fef24fdf9864b1ba14cdd">
         <source>next backdrop</source>
-        <target>nächstes Bühnenbild</target>
+        <target>přichodny pozadk</target>
       </trans-unit>
       <trans-unit id="98" resname="f29498a62844d9b49336871574f64bea">
         <source>previous backdrop</source>
-        <target>vorheriges Bühnenbild</target>
+        <target>předchadźacy pozadk</target>
       </trans-unit>
       <trans-unit id="99" resname="5804c6a641b11482a55d1d32ea9fbdab">
         <source>random backdrop</source>
-        <target>zufälliges Bühnenbild</target>
+        <target>připadny pozadk</target>
       </trans-unit>
       <trans-unit id="100" resname="6e2d78a3a14bc856266d65602d7913c9">
         <source>move %1 steps</source>
-        <target>gehe %1 er Schritt</target>
+        <target>běž %1 kročelow</target>
       </trans-unit>
       <trans-unit id="101" resname="4d90d27b4fd389f2992c990836ca8648">
         <source>turn %1 %2 degrees</source>
-        <target>drehe dich %1 um %2 Grad</target>
+        <target>wobroć so %1 wo %2 stopnjow</target>
       </trans-unit>
       <trans-unit id="102" resname="1d4e8717b7490451553090009ec4f57d">
         <source>turn %1 %2 degrees</source>
-        <target>drehe dich %1 um %2 Grad</target>
+        <target>wobroć so %1 wo %2 stopnjow</target>
       </trans-unit>
       <trans-unit id="103" resname="4ce92d9793d882a269aff1556ce91d8a">
         <source>point in direction %1</source>
-        <target>setze Richtung auf %1 Grad</target>
+        <target>wusměr na %1 stopnjow</target>
       </trans-unit>
       <trans-unit id="104" resname="a7394385e01d9536cd4b749ce51def00">
         <source>point towards %1</source>
-        <target>drehe dich zu %1</target>
+        <target>na směr %1</target>
       </trans-unit>
       <trans-unit id="105" resname="3ad7468784f48a65a9b470de97a0f632">
         <source>mouse-pointer</source>
-        <target>Mauszeiger</target>
+        <target>myšpokazak</target>
       </trans-unit>
       <trans-unit id="106" resname="abbbd1bdf70bfc4994eb9163990e234f">
         <source>random direction</source>
-        <target>Zufallsrichtung</target>
+        <target>připadny směr</target>
       </trans-unit>
       <trans-unit id="107" resname="b4c840976713ce0c7026345341506584">
         <source>go to %1</source>
-        <target>gehe zu %1</target>
+        <target>dźi k %1</target>
       </trans-unit>
       <trans-unit id="108" resname="ebe76bc90da5e10ef30537ffe055c111">
         <source>mouse-pointer</source>
-        <target>Mauszeiger</target>
+        <target>myšpokazak</target>
       </trans-unit>
       <trans-unit id="109" resname="fc997fa232e3a5940f71cac830143263">
         <source>random position</source>
-        <target>Zufallsposition</target>
+        <target>připadna posicija</target>
       </trans-unit>
       <trans-unit id="110" resname="6f98ba0ea084aedceced130781bd9f79">
         <source>go to x: %1 y: %2</source>
-        <target>gehe zu x: %1 y: %2</target>
+        <target>dźi k x: %1 y: %2</target>
       </trans-unit>
       <trans-unit id="111" resname="493f7b41ed4b10b6f1def343b5025902">
         <source>glide %1 secs to x: %2 y: %3</source>
-        <target>gleite in %1 Sek. zu x:%2  y:%3</target>
+        <target>suwaj w %1 Sek. k x:%2  y:%3</target>
       </trans-unit>
       <trans-unit id="112" resname="734be784c31a2242b21b2d132c9672d7">
         <source>glide %1 secs to %2</source>
-        <target>gleite in %1 Sek. zu %2</target>
+        <target>suwaj w %1 Sek. k %2</target>
       </trans-unit>
       <trans-unit id="113" resname="14d58515e29b49c8c2144d460e201c42">
         <source>mouse-pointer</source>
-        <target>Mauszeiger</target>
+        <target>myšpokazak</target>
       </trans-unit>
       <trans-unit id="114" resname="2cfca961860f043ba55dd3138f6a1fc8">
         <source>random position</source>
-        <target>Zufallsposition</target>
+        <target>připadna pozicija</target>
       </trans-unit>
       <trans-unit id="115" resname="306d153a746653b37b8df4e1e4c4fd88">
         <source>change x by %1</source>
-        <target>ändere x um %1</target>
+        <target>přezměn x wo %1</target>
       </trans-unit>
       <trans-unit id="116" resname="5e1fca1463b9091d37bcb995de6ad44d">
         <source>set x to %1</source>
-        <target>setze x auf %1</target>
+        <target>nastaj x na %1</target>
       </trans-unit>
       <trans-unit id="117" resname="e6f39751f097d8ff644e979e1f4aba1a">
         <source>change y by %1</source>
-        <target>ändere y um %1</target>
+        <target>změnić y wo %1</target>
       </trans-unit>
       <trans-unit id="118" resname="daf5b826e792269e347b310806e646ba">
         <source>set y to %1</source>
-        <target>setze y auf %1</target>
+        <target>nastaj y na %1</target>
       </trans-unit>
       <trans-unit id="119" resname="ac984ffe5031965730f8032b1b0a66a7">
         <source>if on edge, bounce</source>
-        <target>pralle vom Rand ab</target>
+        <target>hdyž při kromy, skakać</target>
       </trans-unit>
       <trans-unit id="120" resname="e19b6b88be00789fd7b53cfd1f4a4ef2">
         <source>set rotation style %1</source>
-        <target>setze Drehtyp auf %1</target>
+        <target>wobwjertnjenje/rotaciju nastajić %1</target>
       </trans-unit>
       <trans-unit id="121" resname="669b4e7a077f25537dd229dd9e0c4959">
         <source>left-right</source>
-        <target>links-rechts</target>
+        <target>nalěwo-naprawo</target>
       </trans-unit>
       <trans-unit id="122" resname="8dc68775bf512a2c50620eef78f45f80">
         <source>don't rotate</source>
-        <target>nicht drehen</target>
+        <target>njewjerć</target>
       </trans-unit>
       <trans-unit id="123" resname="9f95aea8d534ef03f6a9822b2e7dbbd4">
         <source>all around</source>
-        <target>rundherum</target>
+        <target>dokoławokoło</target>
       </trans-unit>
       <trans-unit id="124" resname="41b7115d27c5fba20871cb0fb00785dc">
         <source>x position</source>
-        <target>x-Position</target>
+        <target>x-posicija</target>
       </trans-unit>
       <trans-unit id="125" resname="c688e480050792ed9cd94e33fb73fef3">
         <source>y position</source>
-        <target>y-Position</target>
+        <target>y-posicija</target>
       </trans-unit>
       <trans-unit id="126" resname="0435f3e386642c91a0d5d7e4fdcca4ef">
         <source>direction</source>
-        <target>Richtung</target>
+        <target>směr</target>
       </trans-unit>
       <trans-unit id="127" resname="071277a72c1b6b2f2c3da8a33a223a92">
         <source>scroll right %1</source>
-        <target>%1 nach rechts bewegen</target>
+        <target>%1 doprawa hibać</target>
       </trans-unit>
       <trans-unit id="128" resname="3c17f8661bae4d57cb78bfd5491bf5dc">
         <source>scroll up %1</source>
-        <target>%1 nach oben bewegen</target>
+        <target>%1 horje hibać</target>
       </trans-unit>
       <trans-unit id="129" resname="d51dde2c225236697ad72ac78a1f7912">
         <source>align scene %1</source>
-        <target>Szene ausrichten %1</target>
+        <target>Scenu wusměrić %1</target>
       </trans-unit>
       <trans-unit id="130" resname="94ad94ecf3a171a6fec3f88f727b3614">
         <source>bottom-left</source>
-        <target>unten links</target>
+        <target>deleka nalěwo</target>
       </trans-unit>
       <trans-unit id="131" resname="e560def6567aa1d2615e3cfd10e10b37">
         <source>bottom-right</source>
-        <target>unten rechts</target>
+        <target>deleka naprawo</target>
       </trans-unit>
       <trans-unit id="132" resname="5e2a235812976616a8325e1876eff2c4">
         <source>middle</source>
-        <target>Mitte</target>
+        <target>srjedźa</target>
       </trans-unit>
       <trans-unit id="133" resname="cc6d54191499d6301b6d08574d01a0a3">
         <source>top-left</source>
-        <target>oben links</target>
+        <target>horjeka nalěwo</target>
       </trans-unit>
       <trans-unit id="134" resname="dd7031caf8d4690d3be84c684cf3ab3d">
         <source>top-right</source>
-        <target>oben rechts</target>
+        <target>horjeka naprawo</target>
       </trans-unit>
       <trans-unit id="135" resname="b70a4098d161c7ef711c3e91e122f0eb">
         <source>x scroll</source>
-        <target>x-Bewegung</target>
+        <target>x-pohib</target>
       </trans-unit>
       <trans-unit id="136" resname="f9238f1ac7812576a8c436f3df8d94b9">
         <source>y scroll</source>
-        <target>y-Bewegung</target>
+        <target>y-pohib</target>
       </trans-unit>
       <trans-unit id="137" resname="ae0fc841e6e4b30f1c3e2f76cdcc5cb2">
         <source>Stage selected: no motion blocks</source>
-        <target>Bühne ausgewählt: keine Bewegungsblöcke</target>
+        <target>Jewišćo wuzwolene: njejsu pohibne bloki</target>
       </trans-unit>
       <trans-unit id="138" resname="de87b5fb257f26d69e01a6954ec25995">
         <source>%1 + %2</source>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="142" resname="3e9bb2ed76ac85c331c454fa43137495">
         <source>pick random %1 to %2</source>
-        <target>Zufallszahl von %1 bis %2</target>
+        <target>připadna ličba wot %1 do %2</target>
       </trans-unit>
       <trans-unit id="143" resname="889a1c4ea4b3fbe1a5c626b55f38a801">
         <source>%1 &gt; %2</source>
@@ -583,31 +583,31 @@
       </trans-unit>
       <trans-unit id="146" resname="17e898731522fdd4325a3d01c9f2eca7">
         <source>%1 and %2</source>
-        <target>%1 und %2</target>
+        <target>%1 a %2</target>
       </trans-unit>
       <trans-unit id="147" resname="7ed704a7bd820a51e50587ed86c2267e">
         <source>%1 or %2</source>
-        <target>%1 oder %2</target>
+        <target>%1 pak/abo %2</target>
       </trans-unit>
       <trans-unit id="148" resname="8657f1c8db94059f2140b0a4a11f0c6e">
         <source>not %1</source>
-        <target>nicht %1</target>
+        <target>nic %1</target>
       </trans-unit>
       <trans-unit id="149" resname="67e77a8be52efba1a8df8b5d6a329afe">
         <source>join %1 %2</source>
-        <target>verbinde %1 und %2</target>
+        <target>zwjazaj %1 a %2</target>
       </trans-unit>
       <trans-unit id="150" resname="5a930539a5cf1dcb43eace3801f12134">
         <source>apple</source>
-        <target>Apfel</target>
+        <target>jabłuko</target>
       </trans-unit>
       <trans-unit id="151" resname="d02c23e620312cb022c80ffe34b0081a">
         <source>banana</source>
-        <target>Banane</target>
+        <target>banana</target>
       </trans-unit>
       <trans-unit id="152" resname="aea2e488dc12acda122310c37c93cc12">
         <source>letter %1 of %2</source>
-        <target>Zeichen %1 von %2</target>
+        <target>pismik %1 wot %2</target>
       </trans-unit>
       <trans-unit id="153" resname="ef9d8aea70e4698a76c045caf62d22fe">
         <source>a</source>
@@ -615,11 +615,11 @@
       </trans-unit>
       <trans-unit id="154" resname="e8f97d607f9ef696c26c4b2fb4f041c3">
         <source>length of %1</source>
-        <target>Länge von %1</target>
+        <target>dołhosć wot %1</target>
       </trans-unit>
       <trans-unit id="155" resname="7df3b9b8a3a107f60edb14019f3cc027">
         <source>%1 contains %2?</source>
-        <target>%1 enthält %2?</target>
+        <target>%1 wobsahuje %2?</target>
       </trans-unit>
       <trans-unit id="156" resname="10e0fa9a152b51c677a126466ee18a2a">
         <source>%1 mod %2</source>
@@ -627,31 +627,31 @@
       </trans-unit>
       <trans-unit id="157" resname="0aadbd1e5174c9fa9596b8e60b17bd8a">
         <source>round %1</source>
-        <target>%1 gerundet</target>
+        <target>%1 někak/něhdźe/skulojćeny</target>
       </trans-unit>
       <trans-unit id="158" resname="51f56533d5d9421153c235e454b83c59">
         <source>%1 of %2</source>
-        <target>%1 von %2</target>
+        <target>%1 wot %2</target>
       </trans-unit>
       <trans-unit id="159" resname="afa2dc0ddf5d6d97aade6be3d905508a">
         <source>abs</source>
-        <target>Betrag</target>
+        <target>suma/podźěl</target>
       </trans-unit>
       <trans-unit id="160" resname="cad4e9d3771876ec1825b972660613fd">
         <source>floor</source>
-        <target>abrunden</target>
+        <target>wotkružić</target>
       </trans-unit>
       <trans-unit id="161" resname="d5c3cda722538ed6415d3a1ca7aecc72">
         <source>ceiling</source>
-        <target>aufrunden</target>
+        <target>nakružić</target>
       </trans-unit>
       <trans-unit id="162" resname="039c04428af60b5d85db2cb3da1ec1a4">
         <source>sqrt</source>
-        <target>Wurzel</target>
+        <target>korjeń</target>
       </trans-unit>
       <trans-unit id="163" resname="6f039cac0f42fcad8f11aacb8c23f655">
         <source>sin</source>
-        <target>sin</target>
+        <target>hrěch</target>
       </trans-unit>
       <trans-unit id="164" resname="65608cc2a8da1710e06bfbcb3ade8c56">
         <source>cos</source>
@@ -691,447 +691,447 @@
       </trans-unit>
       <trans-unit id="173" resname="ca46f776bc8c5abbd3f1bc50513634eb">
         <source>define %1</source>
-        <target>Definiere %1</target>
+        <target>Definěruj %1</target>
       </trans-unit>
       <trans-unit id="174" resname="875c771bab75bac9ef1f5b63b35923bf">
         <source>touching %1?</source>
-        <target>wird %1 berührt?</target>
+        <target>so %1 dótknyć?</target>
       </trans-unit>
       <trans-unit id="175" resname="6577c7920eb57c653cb3fbd0bd3aa77e">
         <source>mouse-pointer</source>
-        <target>Mauszeiger</target>
+        <target>myšpokazak</target>
       </trans-unit>
       <trans-unit id="176" resname="4441646c870854133a7b5d755e178f53">
         <source>edge</source>
-        <target>Rand</target>
+        <target>kroma</target>
       </trans-unit>
       <trans-unit id="177" resname="b95890d9618453cb4ee5e90c0cd3108e">
         <source>touching color %1?</source>
-        <target>wird Farbe %1 berührt?</target>
+        <target>dótknjenje barby %1?</target>
       </trans-unit>
       <trans-unit id="178" resname="288e905dfbf16dfda06fe1a0e0bc79c7">
         <source>color %1 is touching %2?</source>
-        <target>Farbe %1 berührt %2?</target>
+        <target>barba %1 so dótknje %2?</target>
       </trans-unit>
       <trans-unit id="179" resname="295da230f16ab2297b4c0c2ce814a77a">
         <source>distance to %1</source>
-        <target>Entfernung von %1</target>
+        <target>wotstawk k/na %1</target>
       </trans-unit>
       <trans-unit id="180" resname="94ea711f9ddf7f1984359f0a43036097">
         <source>mouse-pointer</source>
-        <target>Mauszeiger</target>
+        <target>myšpokazak</target>
       </trans-unit>
       <trans-unit id="181" resname="1865b99191507a639ae4c18f916bf2ea">
         <source>ask %1 and wait</source>
-        <target>frage %1 und warte</target>
+        <target>woprašaj so %1 a dočakaj</target>
       </trans-unit>
       <trans-unit id="182" resname="c35b0dcc08812c01e1e50591b1bbcff2">
         <source>What's your name?</source>
-        <target>Wie heißt du?</target>
+        <target>Kak rěkaš?</target>
       </trans-unit>
       <trans-unit id="183" resname="3902139504d87a5a9f8ee76e56ac4dd5">
         <source>answer</source>
-        <target>Antwort</target>
+        <target>wotmołwa</target>
       </trans-unit>
       <trans-unit id="184" resname="035a1956d7ecfa04864efb910c65b35f">
         <source>key %1 pressed?</source>
-        <target>Taste %1 gedrückt?</target>
+        <target>Tasta %1 tłóčena?</target>
       </trans-unit>
       <trans-unit id="185" resname="193f2ee0daedc041ce94f6e03ec47bbd">
         <source>mouse down?</source>
-        <target>Maustaste gedrückt?</target>
+        <target>Myška tłóčena?</target>
       </trans-unit>
       <trans-unit id="186" resname="9784cd83f2965578352863aa96289a11">
         <source>mouse x</source>
-        <target>Maus x-Position</target>
+        <target>Myška x-Pozicija</target>
       </trans-unit>
       <trans-unit id="187" resname="535502ee4807a24e79c23b28f66f1588">
         <source>mouse y</source>
-        <target>Maus y-Position</target>
+        <target>Myška y-pozicija</target>
       </trans-unit>
       <trans-unit id="188" resname="d526704a6957013afa0df44d89ebd9cc">
         <source>set drag mode %1</source>
-        <target>setze Ziehbarkeit auf %1</target>
+        <target>nastaj ćahawosć na %1</target>
       </trans-unit>
       <trans-unit id="189" resname="80870b92511581c6bfedc13840458eb0">
         <source>draggable</source>
-        <target>ziehbar</target>
+        <target>ćahawostne/ćahaty</target>
       </trans-unit>
       <trans-unit id="190" resname="e94779281c8004232a73892cdd6c2cb8">
         <source>not draggable</source>
-        <target>nicht ziehbar</target>
+        <target>njećahatne</target>
       </trans-unit>
       <trans-unit id="191" resname="6468b885c7640e59e650073f92f51e07">
         <source>loudness</source>
-        <target>Lautstärke</target>
+        <target>intensita zwuka</target>
       </trans-unit>
       <trans-unit id="192" resname="442a3cdb958e7541cbd3d3d9f4a4c68a">
         <source>loud?</source>
-        <target>laut?</target>
+        <target>wótře?</target>
       </trans-unit>
       <trans-unit id="193" resname="58e4e1f47ae4aee6071c98ad761598ae">
         <source>timer</source>
-        <target>Stoppuhr</target>
+        <target>stopowka</target>
       </trans-unit>
       <trans-unit id="194" resname="cc5cb26060e3834b4b9160f073027fe4">
         <source>reset timer</source>
-        <target>setze Stoppuhr zurück</target>
+        <target>stopowku hašeć</target>
       </trans-unit>
       <trans-unit id="195" resname="7c8d75b2244140a83cd9432ee20fdfee">
         <source>%1 of %2</source>
-        <target>%1 von %2</target>
+        <target>%1 wot %2</target>
       </trans-unit>
       <trans-unit id="196" resname="275f52f58ecefab6d1d856a13dece8f3">
         <source>x position</source>
-        <target>x-Position</target>
+        <target>x-pozicija</target>
       </trans-unit>
       <trans-unit id="197" resname="70ec36d72a663c4c18c95004865d433d">
         <source>y position</source>
-        <target>y-Position</target>
+        <target>y-pozicija</target>
       </trans-unit>
       <trans-unit id="198" resname="838d5bdbbf60c55b63b634c08e269fde">
         <source>direction</source>
-        <target>Richtung</target>
+        <target>směr</target>
       </trans-unit>
       <trans-unit id="199" resname="26dbedccebce35b5ec0c6ab625687a96">
         <source>costume #</source>
-        <target>Kostümnummer</target>
+        <target>kostimowe čisło</target>
       </trans-unit>
       <trans-unit id="200" resname="686143c413975e93dc7cddf99d1b9d44">
         <source>costume name</source>
-        <target>Kostümname</target>
+        <target>kostimowe mjeno</target>
       </trans-unit>
       <trans-unit id="201" resname="4f735f6489daf73e4292ec6a4bdc8db4">
         <source>size</source>
-        <target>Größe</target>
+        <target>wulkosć</target>
       </trans-unit>
       <trans-unit id="202" resname="e7acbbbc4693265692a5a411d8f0af5d">
         <source>volume</source>
-        <target>Lautstärke</target>
+        <target>wolumen/zwukowa sylnosć</target>
       </trans-unit>
       <trans-unit id="203" resname="9c40411cf9639a74502546a5c50580f0">
         <source>backdrop #</source>
-        <target>Bühnenbildnummer</target>
+        <target>pozadkowe čisło</target>
       </trans-unit>
       <trans-unit id="204" resname="6c453fb49b6582f5a9d7478e96dcec06">
         <source>backdrop name</source>
-        <target>Bühnenbildname</target>
+        <target>pozadkowe mjeno</target>
       </trans-unit>
       <trans-unit id="205" resname="87a4e722dbf2a78bd4b7de576aae7954">
         <source>Stage</source>
-        <target>Bühne</target>
+        <target>jewišćo</target>
       </trans-unit>
       <trans-unit id="206" resname="4b6c5a46a6607ac872149f3a5e378e85">
         <source>current %1</source>
-        <target>%1 im Moment</target>
+        <target>%1 tučasnje/aktuelnje</target>
       </trans-unit>
       <trans-unit id="207" resname="77b6cd6b2c8d202409ab290f24e94c39">
         <source>year</source>
-        <target>Jahr</target>
+        <target>lěto</target>
       </trans-unit>
       <trans-unit id="208" resname="aa13d1034ba38506bd522a8fc99b751f">
         <source>month</source>
-        <target>Monat</target>
+        <target>měsac</target>
       </trans-unit>
       <trans-unit id="209" resname="46ed36e4f7b16a5a664d4b2b95b9b06f">
         <source>date</source>
-        <target>Datum</target>
+        <target>datum</target>
       </trans-unit>
       <trans-unit id="210" resname="efdedfd23db08c61e7376fba6d722b83">
         <source>day of week</source>
-        <target>Wochentag</target>
+        <target>dźeń tydźeńja</target>
       </trans-unit>
       <trans-unit id="211" resname="9a5eaca4c38a1b7883c44fe1ff427170">
         <source>hour</source>
-        <target>Stunde</target>
+        <target>hodźina</target>
       </trans-unit>
       <trans-unit id="212" resname="98336f493348bccec266ef1e83bb9c41">
         <source>minute</source>
-        <target>Minute</target>
+        <target>mjeńšina</target>
       </trans-unit>
       <trans-unit id="213" resname="179a7ed1bb603ecb52f9dce6472c02e2">
         <source>second</source>
-        <target>Sekunde</target>
+        <target>Sekunda</target>
       </trans-unit>
       <trans-unit id="214" resname="ad1586fb5b41bb8135981bf495900e1e">
         <source>days since 2000</source>
-        <target>Tage seit 2000</target>
+        <target>dny wot lěta 2000</target>
       </trans-unit>
       <trans-unit id="215" resname="e5d172094b70373a56569127769f0cb0">
         <source>username</source>
-        <target>Benutzername</target>
+        <target>Wužiwarske mjeno</target>
       </trans-unit>
       <trans-unit id="216" resname="c72506065871a75a97f427cc7796683b">
         <source>user id</source>
-        <target>Benutzer-ID</target>
+        <target>wužiwarska-ID</target>
       </trans-unit>
       <trans-unit id="217" resname="c6f6be6126a52023584cca858b4f4a5f">
         <source>start sound %1</source>
-        <target>spiele Klang %1</target>
+        <target>startuj zwuk %1</target>
       </trans-unit>
       <trans-unit id="218" resname="8257e76d2c4d5e7cdf6833dd9367926e">
         <source>play sound %1 until done</source>
-        <target>spiele Klang %1 ganz</target>
+        <target>wothrawaj sound %1 hač do kónca</target>
       </trans-unit>
       <trans-unit id="219" resname="efb41442181fcc219d62a2e403da2ad6">
         <source>stop all sounds</source>
-        <target>stoppe alle Klänge</target>
+        <target>zakónć wšitke zynki/zwuki/sounds/spěwy</target>
       </trans-unit>
       <trans-unit id="220" resname="9a475144facded96548496c79d930db1">
         <source>set %1 effect to %2</source>
-        <target>setze Effekt %1 auf %2</target>
+        <target>nastaj efekt %1 na %2</target>
       </trans-unit>
       <trans-unit id="221" resname="43cc60e4c8edeb6d2d445ffdd846596a">
         <source>change %1 effect by %2</source>
-        <target>ändere Effekt %1 um %2</target>
+        <target>wuměn efekt %1 wo %2</target>
       </trans-unit>
       <trans-unit id="222" resname="b35878287ec99f346847ff27ba0708c9">
         <source>clear sound effects</source>
-        <target>schalte Klangeffekte aus</target>
+        <target>Zwukowe efekty hasnyć</target>
       </trans-unit>
       <trans-unit id="223" resname="887c9a71d77404e74cf2c597ac2ce2b7">
         <source>pitch</source>
-        <target>Höhe</target>
+        <target>wysokosće</target>
       </trans-unit>
       <trans-unit id="224" resname="1366fa3683feade4f04a120ebb6a68ea">
         <source>pan left/right</source>
-        <target>Aussteuern links/rechts</target>
+        <target>wodźić nalěwo/naprawo</target>
       </trans-unit>
       <trans-unit id="225" resname="cd76f56d967c4bf432d6626cadc439e8">
         <source>change volume by %1</source>
-        <target>ändere Lautstärke um %1</target>
+        <target>přeměn sylnosć zwuka wo %1</target>
       </trans-unit>
       <trans-unit id="226" resname="62056704624f795b2b8e03edb23e4b27">
         <source>set volume to %1%</source>
-        <target>setze Lautstärke auf %1%</target>
+        <target>sadź sylnosć zwuka na %1%</target>
       </trans-unit>
       <trans-unit id="227" resname="3dbaef1ab644bddea3073a3b3a3805f6">
         <source>volume</source>
-        <target>Lautstärke</target>
+        <target>zwukowa sylnosć</target>
       </trans-unit>
       <trans-unit id="228" resname="563a5471ea654c5a7285126a76c55393">
         <source>record...</source>
-        <target>zeichne auf...</target>
+        <target>natoč...</target>
       </trans-unit>
       <trans-unit id="229" resname="946988804bb19f6233fa857098709473">
         <source>Motion</source>
-        <target>Bewegung</target>
+        <target>pohib</target>
       </trans-unit>
       <trans-unit id="230" resname="051ceffcf89f24eb9b2519c4dab13fc9">
         <source>Looks</source>
-        <target>Aussehen</target>
+        <target>napohlad</target>
       </trans-unit>
       <trans-unit id="231" resname="06df7442d726c5b36489cfdd3c0a5243">
         <source>Sound</source>
-        <target>Klang</target>
+        <target>zynk/zwuk</target>
       </trans-unit>
       <trans-unit id="232" resname="87495ee4528a67e62fffcda9544dd2f9">
         <source>Events</source>
-        <target>Ereignisse</target>
+        <target>podawki/zarjadowanja</target>
       </trans-unit>
       <trans-unit id="233" resname="f33d40f7fc6050dbba5646e7c182cd0c">
         <source>Control</source>
-        <target>Steuerung</target>
+        <target>wodźenje</target>
       </trans-unit>
       <trans-unit id="234" resname="858eadf05ab69c75c7fc7ca21ec39399">
         <source>Sensing</source>
-        <target>Fühlen</target>
+        <target>čuć/pomasać</target>
       </trans-unit>
       <trans-unit id="235" resname="2e72435079dd97e6f4bbeb4aff717012">
         <source>Operators</source>
-        <target>Operatoren</target>
+        <target>Operatorojo</target>
       </trans-unit>
       <trans-unit id="236" resname="03dd899b79dda30dfa4df0b7f6ebbe2b">
         <source>Variables</source>
-        <target>Variablen</target>
+        <target>wariable</target>
       </trans-unit>
       <trans-unit id="237" resname="fdefe7742da81e2b302652e3c4df627b">
         <source>My Blocks</source>
-        <target>Meine Blöcke</target>
+        <target>Moje bloki</target>
       </trans-unit>
       <trans-unit id="238" resname="3c813733774d3a7058143dbff123692b">
         <source>Duplicate</source>
-        <target>Duplizieren</target>
+        <target>Duplicěrować</target>
       </trans-unit>
       <trans-unit id="239" resname="69e27cd6eff790dbbd4b6f65275ebaf7">
         <source>Delete</source>
-        <target>Löschen</target>
+        <target>wotstronić</target>
       </trans-unit>
       <trans-unit id="240" resname="e568e0d73b3141942586910d83a6b633">
         <source>Add Comment</source>
-        <target>Kommentar hinzufügen</target>
+        <target>Komentar připisać</target>
       </trans-unit>
       <trans-unit id="241" resname="1828eb7278b106fb281ab590783b1a69">
         <source>Remove Comment</source>
-        <target>Kommentar entfernen</target>
+        <target>Komentar wotstronić</target>
       </trans-unit>
       <trans-unit id="242" resname="f5df80b7bf9c913ced02e63009d8b8b6">
         <source>Delete Block</source>
-        <target>Lösche Block</target>
+        <target>blok wotstronić/hasnyć/</target>
       </trans-unit>
       <trans-unit id="243" resname="2ca8ea66c1a7b177164719ac81c9a7e2">
         <source>Delete %1 Blocks</source>
-        <target>Lösche %1 Blöcke</target>
+        <target>wotstron %1 blokow</target>
       </trans-unit>
       <trans-unit id="244" resname="3294bec2f24be85c7ed885cda2a4c6b4">
         <source>Delete all %1 blocks?</source>
-        <target>Alle %1 Blöcke löschen?</target>
+        <target>wšitke %1 bloki wotstronić?</target>
       </trans-unit>
       <trans-unit id="245" resname="0e685f44c75d7f34b7b3975193082782">
         <source>Clean up Blocks</source>
-        <target>Blöcke aufräumen</target>
+        <target>Bloki zrumować</target>
       </trans-unit>
       <trans-unit id="246" resname="feb41bab1fe4e2b92d425861a979ecde">
         <source>Help</source>
-        <target>Hilfe</target>
+        <target>pomoc</target>
       </trans-unit>
       <trans-unit id="247" resname="3fc62ac97afa00fa4c2bf69600ab5d03">
         <source>Undo</source>
-        <target>Rückgängig</target>
+        <target>wróćo/nječin</target>
       </trans-unit>
       <trans-unit id="248" resname="a4757e0084af3e9c742939b42e291739">
         <source>Redo</source>
-        <target>Wiederherstellen</target>
+        <target>znowa</target>
       </trans-unit>
       <trans-unit id="249" resname="754b2349a699ae3c63bd2a1b26a92cba">
         <source>Edit</source>
-        <target>Bearbeiten</target>
+        <target>wobdźěłać</target>
       </trans-unit>
       <trans-unit id="250" resname="f5ad5965b5f4498ce9c17794652542f2">
         <source>Go to definition</source>
-        <target>Gehe zur Definition</target>
+        <target>dźi k definiciji</target>
       </trans-unit>
       <trans-unit id="251" resname="4a3063604a95459acc024476558358ce">
         <source>Say something...</source>
-        <target>Sag etwas...</target>
+        <target>praj něšto...</target>
       </trans-unit>
       <trans-unit id="252" resname="29f9bc477243e7cd3840e1e76bd4d7a9">
         <source>Color</source>
-        <target>Farbe</target>
+        <target>barba</target>
       </trans-unit>
       <trans-unit id="253" resname="bfc214d8d73c8aa17aa0aa454fc3d83f">
         <source>Saturation</source>
-        <target>Sättigung</target>
+        <target>nasyćenje</target>
       </trans-unit>
       <trans-unit id="254" resname="5a43ef6c480d5cd95b087f9232594d9e">
         <source>Brightness</source>
-        <target>Helligkeit</target>
+        <target>swětłosć</target>
       </trans-unit>
       <trans-unit id="255" resname="0716d7427802fafa697e3fc5aea9e6d5">
         <source>Change value:</source>
-        <target>Ändere Wert</target>
+        <target>změń hódnotu</target>
       </trans-unit>
       <trans-unit id="256" resname="f44c96a83ee94a6d2d0348509ead9749">
         <source>Rename variable</source>
-        <target>Benenne die Variable um</target>
+        <target>přemjenuj wariablu</target>
       </trans-unit>
       <trans-unit id="257" resname="da546f687cac64d0712e04e8be9fad30">
         <source>Rename all &quot;%1&quot; variables to:</source>
-        <target>Benenne alle Variablen mit Namen &quot;%1&quot; um in:</target>
+        <target>přemjenuj wšěch wariablow z mjenom &quot;%1&quot; do:</target>
       </trans-unit>
       <trans-unit id="258" resname="2dfcc05beb341c42793afd3875756411">
         <source>Rename Variable</source>
-        <target>Variable umbenennen</target>
+        <target>wariablu přemjenować</target>
       </trans-unit>
       <trans-unit id="259" resname="c3490aaff6d5503547b8540940e100cf">
         <source>Make a Variable</source>
-        <target>Neue Variable</target>
+        <target>nowa wariabla</target>
       </trans-unit>
       <trans-unit id="260" resname="9a47c2c911a3baeb1aa26e9294534d68">
         <source>New variable name:</source>
-        <target>Neuer Variablenname:</target>
+        <target>Nowe mjeno wariable:</target>
       </trans-unit>
       <trans-unit id="261" resname="2ec0f0e74c76baa66cbacbf087c10583">
         <source>New Variable</source>
-        <target>Neue Variable</target>
+        <target>Nowa wariabla</target>
       </trans-unit>
       <trans-unit id="262" resname="c640bfdf064e37f2918ad3486c8bf162">
         <source>A variable named &quot;%1&quot; already exists.</source>
-        <target>Eine Variable mit dem Namen &quot;%1&quot; existiert bereits.</target>
+        <target>tak pomjenowana wariabla &quot;%1&quot; eksistuje hižo.</target>
       </trans-unit>
       <trans-unit id="263" resname="e66d33dc7473b0f1bc1f0a143bc57e27">
         <source>A variable named &quot;%1&quot; already exists for another variable of type &quot;%2&quot;.</source>
-        <target>Eine Variable mit dem Namen &quot;%1&quot; existiert bereits als Variable des Typs &quot;%2&quot;.</target>
+        <target>Wariabla z mjenom &quot;%1&quot; eksistuje hižo jako wariabla tuteho typa &quot;%2&quot;.</target>
       </trans-unit>
       <trans-unit id="264" resname="a4b425b2fff8f437616ef72826c2dc0c">
         <source>Delete %1 uses of the &quot;%2&quot; variable?</source>
-        <target>Entferne alle %1 Nutzungen der Variable &quot;%2&quot;?</target>
+        <target>Wotstroń %1 wužiwanjow wariable &quot;%2&quot;?</target>
       </trans-unit>
       <trans-unit id="265" resname="0dcab39d0d2d73e4989ecea12bdcf817">
         <source>Can't delete the variable &quot;%1&quot; because it's part of the definition of the function &quot;%2&quot;</source>
-        <target>Die Variable &quot;%1&quot; kann nicht gelöscht werden, weil sie Teil der Definition der Funktion &quot;%2&quot; ist.</target>
+        <target>Wariabla &quot;%1&quot; njehodźi so wotstronić, dokelž je dźěl definicije funkcijony &quot;%2&quot;.</target>
       </trans-unit>
       <trans-unit id="266" resname="804e9a08c218af024892c8e5bd95610b">
         <source>Delete the &quot;%1&quot; variable</source>
-        <target>Lösche die Variable &quot;%1&quot;</target>
+        <target>Wotstroń wariablu &quot;%1&quot;</target>
       </trans-unit>
       <trans-unit id="267" resname="0800daec8b389c5d81a14226df261980">
         <source>Make a Block</source>
-        <target>Neuer Block</target>
+        <target>nowy blok</target>
       </trans-unit>
       <trans-unit id="268" resname="9c3729e01892b43ae394ccf33403b4c5">
         <source>A procedure named &quot;%1&quot; already exists.</source>
-        <target>Eine Prozedur mit dem Namen &quot;%1&quot; existiert bereits.</target>
+        <target>Procedura z mjenom &quot;%1&quot; eksistuje hižo.</target>
       </trans-unit>
       <trans-unit id="269" resname="af49d5749007a4127f822d3b73814ad1">
         <source>block name</source>
-        <target>Blockname</target>
+        <target>mjeno bloka</target>
       </trans-unit>
       <trans-unit id="270" resname="504052d70d6ebeb0f4a462d47c05873a">
         <source>To delete a block definition, first remove all uses of the block</source>
-        <target>Bevor die Blockdefinition gelöscht werden kann, muss der Block zuerst aus allen Skripten entfernt werden, in denen er verwendet wird</target>
+        <target>Zo byšće blokowu definiciju wotstronili, wotstronće najprjedy wšitke wužiwanja bloka.</target>
       </trans-unit>
       <trans-unit id="271" resname="09193ded2dea2b3a328256de455cb6a0">
         <source>Make a List</source>
-        <target>Neue Liste</target>
+        <target>nowa lisćina</target>
       </trans-unit>
       <trans-unit id="272" resname="f19d1778797448a7e985e1d25bd11dad">
         <source>New list name:</source>
-        <target>Neuer Listenname:</target>
+        <target>Mjeno noweje lisćiny:</target>
       </trans-unit>
       <trans-unit id="273" resname="d20291d576d3754c22768787f36e92c7">
         <source>New List</source>
-        <target>Neue Liste</target>
+        <target>nowa lisćina</target>
       </trans-unit>
       <trans-unit id="274" resname="efdad518375137804d1215d16957c464">
         <source>A list named &quot;%1&quot; already exists.</source>
-        <target>Eine Liste mit dem Namen &quot;%1&quot; existiert bereits</target>
+        <target>Lisćina z tutym mjenom &quot;%1&quot; eksistuje hižo</target>
       </trans-unit>
       <trans-unit id="275" resname="05f359677700c2dab6b6590d7b7d7ed3">
         <source>Rename all &quot;%1&quot; lists to:</source>
-        <target>Benenne alle Listen mit Namen &quot;%1&quot; um in:</target>
+        <target>přemjenuj wšitke lisćiny z mjenom &quot;%1&quot; do:</target>
       </trans-unit>
       <trans-unit id="276" resname="6e5e627173e3e272a9320eab87f5f6c2">
         <source>Rename List</source>
-        <target>Liste umbenennen</target>
+        <target>Lisćinu přemjenować</target>
       </trans-unit>
       <trans-unit id="277" resname="151d67b2f6787d5f9e4c3b634589592c">
         <source>thing</source>
-        <target>Ding</target>
+        <target>wěc</target>
       </trans-unit>
       <trans-unit id="278" resname="00049bb97a013409bcedff3dd68283cb">
         <source>Delete the &quot;%1&quot; list</source>
-        <target>Lösche die Liste &quot;%1&quot;</target>
+        <target>Lisćinu wotstronić/ &quot;%1&quot;</target>
       </trans-unit>
       <trans-unit id="279" resname="ab45b84e1ac683fc34decc3d3cc18a22">
         <source>Rename list</source>
-        <target>Benenne die Liste um</target>
+        <target>Přemjenuj lisćinu</target>
       </trans-unit>
       <trans-unit id="280" resname="8a9643e012ef64583876fdee8aa19c41">
         <source>New message</source>
-        <target>Neue Nachricht</target>
+        <target>Nowa powěsć</target>
       </trans-unit>
       <trans-unit id="281" resname="111a1f414687ae1c1baa502c4901ae11">
         <source>New message name:</source>
-        <target>Neuer Nachrichtentext:</target>
+        <target>Nowy tekst powěsće:</target>
       </trans-unit>
       <trans-unit id="282" resname="85a9127ae9301bac47a8b075ed85b5ee">
         <source>New Message</source>
-        <target>Neue Nachricht</target>
+        <target>nowa powěsć</target>
       </trans-unit>
       <trans-unit id="283" resname="0d052496a6b981c215fa789cebfa55db">
         <source>message1</source>
-        <target>Nachricht1</target>
+        <target>Powěsć1</target>
       </trans-unit>
     </body>
   </file>

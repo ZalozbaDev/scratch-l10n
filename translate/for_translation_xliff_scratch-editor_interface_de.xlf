@@ -3,27 +3,27 @@
     <body>
       <trans-unit id="1" resname="8eea1e655c876cd1524d4c6b4342aa92">
         <source>Scratch lost connection to {extensionName}.</source>
-        <target>Scratch hat die Verbindung zu{extensionName} verloren.</target>
+        <target>Scratch zhubješe zwisk k {extensionName}.</target>
       </trans-unit>
       <trans-unit id="2" resname="15a03aa307d8e4a4ced2943f3155fc10">
         <source>Try Again</source>
-        <target>Erneut versuchen</target>
+        <target>znowa spytać/spytaj znowa</target>
       </trans-unit>
       <trans-unit id="3" resname="06aa6fe77b41a1df02569f6830edd883">
         <source>Download</source>
-        <target>Herunterladen</target>
+        <target>Downloadować</target>
       </trans-unit>
       <trans-unit id="4" resname="2bb2308f1dab915f2abb7daf05320f13">
         <source>Reconnect</source>
-        <target>Erneut verbinden</target>
+        <target>znowa zwjazać</target>
       </trans-unit>
       <trans-unit id="5" resname="c16dcd173ed5ba0f72b6d8ec852050f8">
         <source>costume</source>
-        <target>Kostüm</target>
+        <target>Kostim</target>
       </trans-unit>
       <trans-unit id="6" resname="6c2c3a242d39f01d2a30e766fdd487ed">
         <source>sound</source>
-        <target>Klang</target>
+        <target>zwuk</target>
       </trans-unit>
       <trans-unit id="7" resname="c65b1c3c6f727479cb98961955b4ce1c">
         <source>script</source>
@@ -31,279 +31,279 @@
       </trans-unit>
       <trans-unit id="8" resname="1d640abfab5b0e2a4bbaca804695e7d4">
         <source>sprite</source>
-        <target>Figur</target>
+        <target>figura/postawa</target>
       </trans-unit>
       <trans-unit id="9" resname="d3d7e1870ef1bc815e0ab75c4c6fb167">
         <source>Backpack</source>
-        <target>Lager</target>
+        <target>skład/nachribjetnik</target>
       </trans-unit>
       <trans-unit id="10" resname="7ed107554b2371a9877c113526d3b47a">
         <source>Error loading backpack</source>
-        <target>Fehler beim Laden des Lagers</target>
+        <target>Zmylk při loadowanju składa</target>
       </trans-unit>
       <trans-unit id="11" resname="df10b0d422e508b35c62623a5580c520">
         <source>Loading...</source>
-        <target>Wird geladen ...</target>
+        <target>nó dočakaj...</target>
       </trans-unit>
       <trans-unit id="12" resname="4079697f924c742b3484633087455451">
         <source>More</source>
-        <target>Mehr</target>
+        <target>wjace</target>
       </trans-unit>
       <trans-unit id="13" resname="dc7af0dcda7ce221f634111c4f71316b">
         <source>Backpack is empty</source>
-        <target>Das Lager ist leer</target>
+        <target>skład je prózdny</target>
       </trans-unit>
       <trans-unit id="14" resname="ebf57a32320ceaf4b295bed94715b972">
         <source>Browser is not supported</source>
-        <target>Browser wird nicht unterstützt</target>
+        <target>Browser so njepodpěruje</target>
       </trans-unit>
       <trans-unit id="15" resname="ac7fb50bf0005a0661885a533680c802">
         <source>An Error Occurred</source>
-        <target>Ein Fehler ist aufgetreten.</target>
+        <target>Zmylk so jewješe.</target>
       </trans-unit>
       <trans-unit id="16" resname="e1b7b15066b9093ff63a721be46845a1">
         <source>We are very sorry, but it looks like you are using a browser version that Scratch does not support. We recommend updating to the latest version of a supported browser such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari.</source>
-        <target>Es tut uns sehr leid, aber du benutzt offenbar eine Browserversion, die Scratch nicht unterstützt. Wir empfehlen, auf die neueste Version eines unterstützten Browsers wie Google Chrome, Mozilla Firefox, Microsoft Edge, oder Apple Safari zu aktualisieren.</target>
+        <target>Je nam žel/Wodaj nam, ale snadź wužiješ Browser-wersiju, kotruž Scratch njepodpěruje. Doporučimy, na najnowšu wersiju podpěrowaceho browsera kaž Google Chrome, Mozilla Firefox, Microsoft Edge, abo Apple Safari aktualizěrować.</target>
       </trans-unit>
       <trans-unit id="17" resname="08a9dee820dcfa98538e2876775c8217">
         <source>We are very sorry, but Scratch does not support this browser. We recommend updating to the latest version of a supported browser such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari.</source>
-        <target>Es tut uns sehr leid, aber Scratch unterstützt diesen Browser nicht. Wir empfehlen, auf die neueste Version eines unterstützten Browsers wie Google Chrome, Mozilla Firefox, Microsoft Edge, oder Apple Safari zu aktualisieren.</target>
+        <target>Je nam jara žel, ale Scratch njepodpěruje tutón browser. Doporučimy, na najnowšu wersiju podpěrowaceho browsera kaž Google Chrome, Mozilla Firefox, Microsoft Edge, abo Apple Safari aktualizěrować.</target>
       </trans-unit>
       <trans-unit id="18" resname="050ddd2da6a156d6d2c6fe6b8395bbe4">
         <source>Back</source>
-        <target>Zurück</target>
+        <target>wróćo</target>
       </trans-unit>
       <trans-unit id="19" resname="64915c65d5a77d27e1081d0d38410221">
         <source>To learn more, go to the {previewFaqLink}.</source>
-        <target>Besuche die {previewFaqLink}, um mehr zu erfahren.</target>
+        <target>Wopytaj {previewFaqLink}, zo by wjace nazohnił.</target>
       </trans-unit>
       <trans-unit id="20" resname="0a550e9c90831789c22c6162709784eb">
         <source>FAQ</source>
-        <target>Häufig gestellte Fragen</target>
+        <target>Husto stajene prašenja</target>
       </trans-unit>
       <trans-unit id="21" resname="2ddbe89de015617799b5d7de40718126">
         <source>Tutorials</source>
-        <target>Tutorials</target>
+        <target>zawod/zawjedowanje/Tutorijals</target>
       </trans-unit>
       <trans-unit id="22" resname="91add72c1db9ed9b3f01cb55789f6b28">
         <source>Shrink</source>
-        <target>Zuklappen</target>
+        <target>???pomjeńšić</target>
       </trans-unit>
       <trans-unit id="23" resname="97b5801ecd52aea45a31e5badd102a2c">
         <source>Expand</source>
-        <target>Aufklappen</target>
+        <target>rozšěrić</target>
       </trans-unit>
       <trans-unit id="24" resname="345ce3556d660f33dd3629dfde19d183">
         <source>Close</source>
-        <target>Schließen</target>
+        <target>začinić</target>
       </trans-unit>
       <trans-unit id="25" resname="6fa3b4723a979e573a25902d299e6959">
         <source>More things to try!</source>
-        <target>Probiere mehr Dinge aus</target>
+        <target>Wjace k wuspytowanju!</target>
       </trans-unit>
       <trans-unit id="26" resname="33f3edaeb1cd0de4f6893087a1baa1da">
         <source>See more</source>
-        <target>Mehr erfahren</target>
+        <target>wjace nazhonić</target>
       </trans-unit>
       <trans-unit id="27" resname="2598e681328a6a75d3b77b1b947db748">
         <source>Don't worry, we're on it {emoji}</source>
-        <target>Keine Sorge, wir kümmern uns darum {emoji}</target>
+        <target>Njeboj so/žadyn strach, staramy so wo to! {emoji}</target>
       </trans-unit>
       <trans-unit id="28" resname="efb9cfba44d2d3ce23aa2c444e4a7367">
         <source>Coming Soon...</source>
-        <target>Bald verfügbar ...</target>
+        <target>Bórze wužiwajomny/ Bórze k dispoziciji stejacy ...</target>
       </trans-unit>
       <trans-unit id="29" resname="06c5d747b60916a0bb1f72c008d608a4">
         <source>We're working on it {emoji}</source>
-        <target>Wir arbeiten daran {emoji}</target>
+        <target>Dźěłamy na tym. {emoji}</target>
       </trans-unit>
       <trans-unit id="30" resname="f8484fa9b100d382a0608920b69deafb">
         <source>No devices found</source>
-        <target>Keine Geräte gefunden</target>
+        <target>Žane nastroje so njenamakachu</target>
       </trans-unit>
       <trans-unit id="31" resname="e7913bb6bb7a98004ee26dd31af8211f">
         <source>Have your device nearby, then begin searching.</source>
-        <target>Starte die Suche, wenn du ein Gerät in der Nähe hast.</target>
+        <target>Dźerž swój nastroj w bliskosći a započ z pytanjom.</target>
       </trans-unit>
       <trans-unit id="32" resname="dbb7e064046ffe5bf9b67322505ff295">
         <source>Press the button on your device.</source>
-        <target>Drücke den Button an deinem Gerät.</target>
+        <target>Stłóč tastu na swojim nastroju.</target>
       </trans-unit>
       <trans-unit id="33" resname="9d514a544d9a9862f2d90f5b1a166b90">
         <source>Start Searching</source>
-        <target>Suche starten</target>
+        <target>Startuj pytać</target>
       </trans-unit>
       <trans-unit id="34" resname="6587576721bab741eb428f71cbbe2d2c">
         <source>Searching...</source>
-        <target>Suche läuft...</target>
+        <target>pyta so...</target>
       </trans-unit>
       <trans-unit id="35" resname="ebb7dc1f443fc7cf692b71f75547026e">
         <source>Try again</source>
-        <target>Versuche es noch einmal</target>
+        <target>Wuspytaj znowa</target>
       </trans-unit>
       <trans-unit id="36" resname="418e879579570f44ac102dc9dd4e73e0">
         <source>Update my Device</source>
-        <target>Mein Gerät aktualisieren</target>
+        <target>Aktualizuj mój nastroj</target>
       </trans-unit>
       <trans-unit id="37" resname="b96f8c94a0768a87ed07b6f03c0e5551">
         <source>Connected</source>
-        <target>Verbunden</target>
+        <target>zwjazany</target>
       </trans-unit>
       <trans-unit id="38" resname="85566701125c3d5245f3f89f267127ef">
         <source>Disconnect</source>
-        <target>Trenne</target>
+        <target>dźělić</target>
       </trans-unit>
       <trans-unit id="39" resname="9e24e462cf477a2c721ec415724c89dd">
         <source>Go to Editor</source>
-        <target>Gehe zum Editor</target>
+        <target>Dźi k editorej</target>
       </trans-unit>
       <trans-unit id="40" resname="3a539614e6e959dd42372ce86f0340d9">
         <source>Connecting...</source>
-        <target>Ich verbinde...</target>
+        <target>zwjazam...</target>
       </trans-unit>
       <trans-unit id="41" resname="0f650580d1c73e4685a4d3f036fd5792">
         <source>Oops, looks like something went wrong.</source>
-        <target>Hoppla, etwas hat wohl nicht funktioniert.</target>
+        <target>Saperlot/Saperliška/Jejdyrnej/jejdyrko, něšto bě wopak.</target>
       </trans-unit>
       <trans-unit id="42" resname="349031b62ce0caf95cc482356f4c6f59">
         <source>Try again</source>
-        <target>Versuche es noch einmal</target>
+        <target>Spytaj znowa</target>
       </trans-unit>
       <trans-unit id="43" resname="7279f8bdecc83a11c50f9b8d0a648f46">
         <source>Help</source>
-        <target>Hilfe</target>
+        <target>pomoc</target>
       </trans-unit>
       <trans-unit id="44" resname="4fa4255b21c97f447bde1d3ebef1c6b7">
         <source>Device name</source>
-        <target>Gerätename</target>
+        <target>mjeno nastroja</target>
       </trans-unit>
       <trans-unit id="45" resname="709d4b8c01e77a44f78402601b8235b7">
         <source>Connect</source>
-        <target>Verbinde</target>
+        <target>Zwjazaj</target>
       </trans-unit>
       <trans-unit id="46" resname="46b72cca0bb9bbcab073381fd5260e58">
         <source>Looking for devices</source>
-        <target>Suche Geräte</target>
+        <target>Za nastrojemi so pyta</target>
       </trans-unit>
       <trans-unit id="47" resname="b4f00a47e493b9511518043d1222e647">
         <source>No devices found</source>
-        <target>Keine Geräte gefunden</target>
+        <target>Nastroje so njenamakachu</target>
       </trans-unit>
       <trans-unit id="48" resname="49593940257a651efd768f83c014a338">
         <source>Select your device in the list above.</source>
-        <target>Wähle dein Gerät oben in der Liste.</target>
+        <target>Wuzwol horjeka w lisćiny swój nastroj.</target>
       </trans-unit>
       <trans-unit id="49" resname="6a5a4bff77ce0215a26e3580c6fced0e">
         <source>Refresh</source>
-        <target>Aktualisieren</target>
+        <target>aktualizěrować</target>
       </trans-unit>
       <trans-unit id="50" resname="7551488d4946227c658890b95627595c">
         <source>Update my Device</source>
-        <target>Mein Gerät aktualisieren</target>
+        <target>Mój nastroj aktualizěrować</target>
       </trans-unit>
       <trans-unit id="51" resname="4f76adc47417f05caab81791352a6f92">
         <source>Make sure you have Scratch Link installed and running</source>
-        <target>Überprüfe, ob du Scratch Link installiert hast und das Programm läuft.</target>
+        <target>Přepruwuj, hač maš Scratch Link instalowany a program běži.</target>
       </trans-unit>
       <trans-unit id="52" resname="73ff807ceda8677f53a2b997a7caee64">
         <source>Check that Bluetooth is enabled</source>
-        <target>Überprüfe, ob Bluetooth aktiviert ist</target>
+        <target>Přepruwuj, hač je Bluetooth aktiwěrowany</target>
       </trans-unit>
       <trans-unit id="53" resname="b29f013f474b95191bddc4d7b1606ea5">
         <source>Try again</source>
-        <target>Versuche es noch einmal</target>
+        <target>Spytaj znowa</target>
       </trans-unit>
       <trans-unit id="54" resname="73062d8ac87d534fead5fe61c214726e">
         <source>Help</source>
-        <target>Hilfe</target>
+        <target>pomoc</target>
       </trans-unit>
       <trans-unit id="55" resname="0b6d953dc3f29b9fbff6430ee58d45a6">
         <source>Connect your {extensionName} to this device using a USB cable.</source>
-        <target>Verbinde dein[en] {extensionName} via USB-Kabel mit diesem Gerät.</target>
+        <target>Zwjazaj swój {extensionName} via USB-kabl z tutym nastrojom.</target>
       </trans-unit>
       <trans-unit id="56" resname="1c6eb20bc9a281a5864519c08ccf85e7">
         <source>Press &quot;Do Update&quot; and allow the update to complete.</source>
-        <target>Drücke auf &quot;Aktualisieren&quot; und warte, bis es abgeschlossen ist.</target>
+        <target>tłóč &quot;aktualizěrować&quot; a čakaj na zdokonjenje updatea.</target>
       </trans-unit>
       <trans-unit id="57" resname="990cfd1ff8ab9a65371f93e22b113185">
         <source>Updating {progressPercentage}%</source>
-        <target>Aktualisierung zu {progressPercentage}% abgeschlossen</target>
+        <target>aktualizěrowanje k {progressPercentage}% wotzamknjene</target>
       </trans-unit>
       <trans-unit id="58" resname="7b67a696a9d81a31a008be60db9eb74c">
         <source>Update successful!</source>
-        <target>Aktualisierung erfolgreich!</target>
+        <target>aktualizěrowanje wuspěšnje!</target>
       </trans-unit>
       <trans-unit id="59" resname="d065604a7720f8eac291689530a2f39c">
         <source>Update failed.</source>
-        <target>Aktualisierung fehlgeschlagen.</target>
+        <target>aktualizěrowanje njewuspěšnje.</target>
       </trans-unit>
       <trans-unit id="60" resname="8dae0c04e0dfb599aaeaf711abf84bd9">
         <source>Go Back</source>
-        <target>Zurück</target>
+        <target>wróćo</target>
       </trans-unit>
       <trans-unit id="61" resname="7c253a43a9fbc70b60d32c0b5532b0c3">
         <source>Do Update</source>
-        <target>Aktualisieren</target>
+        <target>aktualizěrować</target>
       </trans-unit>
       <trans-unit id="62" resname="146a2de35e68aef0faac26728910938f">
         <source>Try Again</source>
-        <target>Erneut versuchen</target>
+        <target>Spytaj znowa</target>
       </trans-unit>
       <trans-unit id="63" resname="8c2288600bd4c9fa8b83d2770394188d">
         <source>Go</source>
-        <target>Los</target>
+        <target>Start</target>
       </trans-unit>
       <trans-unit id="64" resname="e1ebd3eaa662338e52432090ebd09936">
         <source>Stop</source>
-        <target>Stopp</target>
+        <target>Stop</target>
       </trans-unit>
       <trans-unit id="65" resname="939382ab20bb392dbf68f82a7fd98327">
         <source>Oops! Something went wrong.</source>
-        <target>Hoppla! Da ist was schief gegangen.</target>
+        <target>jejdyrko! něšto so nimokuleše.</target>
       </trans-unit>
       <trans-unit id="66" resname="6be6f723f46a386b892189640ef16eed">
         <source>We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.</source>
-        <target>Es tut uns leid, anscheinend ist ein Fehler bei Scratch aufgetreten. Das Scratch-Team wurde informiert. Bitte aktualisiere die Seite, um es erneut zu versuchen.</target>
+        <target>Je nam žel, po zdaću jewješe so při Scratch zmylk. Scratch-Team bu informowany. Aktualizěruj stronu prošu znowa, zo by znowa spytał.</target>
       </trans-unit>
       <trans-unit id="67" resname="bc83329d270c5f490af1396c7504b9bf">
         <source>Your error was logged with id {errorId}</source>
-        <target>Der Fehler wurde unter der ID {errorId} gespeichert.</target>
+        <target>Zmylk so pod ID {errorId} wotskładowaše.</target>
       </trans-unit>
       <trans-unit id="68" resname="19fa58cf02505460daab9f38423b1c60">
         <source>Reload</source>
-        <target>Neu laden</target>
+        <target>re-loadować</target>
       </trans-unit>
       <trans-unit id="69" resname="e2dc7da7f0026ea562efe4463da45b11">
         <source>Make a Block</source>
-        <target>Neuer Block</target>
+        <target>Nowy blok</target>
       </trans-unit>
       <trans-unit id="70" resname="29e3e1a45485643e723938fe8831718a">
         <source>Add an input</source>
-        <target>Eingabefeld hinzufügen</target>
+        <target>zapodawanske polo dodać</target>
       </trans-unit>
       <trans-unit id="71" resname="622532be15564300b730887d00813a6e">
         <source>number or text</source>
-        <target>Zahl oder Text</target>
+        <target>ličba abo tekst</target>
       </trans-unit>
       <trans-unit id="72" resname="341cc9e8d63143f973ef806dac292632">
         <source>Add an input</source>
-        <target>Eingabefeld hinzufügen</target>
+        <target>zapodawanske polo dodać</target>
       </trans-unit>
       <trans-unit id="73" resname="7a2a16f004a275961a2e62cb32a79f5f">
         <source>boolean</source>
-        <target>Wahrheitswert</target>
+        <target>???hódnota wěrnosće??</target>
       </trans-unit>
       <trans-unit id="74" resname="302f79fdb15ab1d8420b8cb30c72135c">
         <source>Add a label</source>
-        <target>Beschriftung hinzufügen</target>
+        <target>Pomjenowanje dodać</target>
       </trans-unit>
       <trans-unit id="75" resname="e76eb31d415314a21e61f4630179dcb3">
         <source>Run without screen refresh</source>
-        <target>Ohne Bildschirmaktualisierung laufen lassen</target>
+        <target>Bjez screen-aktualizěrowanje běžeć dać</target>
       </trans-unit>
       <trans-unit id="76" resname="57684daa517c577d849cab90e882cfdb">
         <source>Cancel</source>
-        <target>Abbrechen</target>
+        <target>wotwamać</target>
       </trans-unit>
       <trans-unit id="77" resname="4cb31691929f0afc82fbe0adc060b11c">
         <source>OK</source>
@@ -311,99 +311,99 @@
       </trans-unit>
       <trans-unit id="78" resname="ac550905981ca44fd66a8a0a32d50866">
         <source>Direction</source>
-        <target>Richtung</target>
+        <target>směr</target>
       </trans-unit>
       <trans-unit id="79" resname="4082c024db54c270fd6e75205ded3c10">
         <source>All Around</source>
-        <target>Rundherum</target>
+        <target>kołowokoło</target>
       </trans-unit>
       <trans-unit id="80" resname="d6024a7de4e42a9a1eceebeeb635f293">
         <source>Left/Right</source>
-        <target>Links/Rechts</target>
+        <target>nalěwo/naprawo</target>
       </trans-unit>
       <trans-unit id="81" resname="a8dcbcb3f1333021a5b5e8f0ad276880">
         <source>Do not rotate</source>
-        <target>Nicht drehen</target>
+        <target>njerotěrować</target>
       </trans-unit>
       <trans-unit id="82" resname="aea0d06293717e78863d043ac64619d7">
         <source>Add Extension</source>
-        <target>Erweiterung hinzufügen</target>
+        <target>Rozšěrjenje přidać/dodawać</target>
       </trans-unit>
       <trans-unit id="83" resname="c768adf73ebbce0fdf9cddf8cdf1b0c5">
         <source>Code</source>
-        <target>Skripte</target>
+        <target>Kody/Skripty</target>
       </trans-unit>
       <trans-unit id="84" resname="61825e1c6a996f835c6c756d67b77e14">
         <source>Backdrops</source>
-        <target>Hintergrundbilder</target>
+        <target>Pozadkowe wobrazy</target>
       </trans-unit>
       <trans-unit id="85" resname="ae1b4c41b0a0405dc7eff26915c51b65">
         <source>Costumes</source>
-        <target>Kostüme</target>
+        <target>Kostimy</target>
       </trans-unit>
       <trans-unit id="86" resname="a973292c98b382ed0cc34643fd0a0b46">
         <source>Sounds</source>
-        <target>Klänge</target>
+        <target>zwuki</target>
       </trans-unit>
       <trans-unit id="87" resname="a0ed94961e05418ff3b96258ced648c7">
         <source>Coming Soon</source>
-        <target>Bald verfügbar</target>
+        <target>Bórze přińdźe/...</target>
       </trans-unit>
       <trans-unit id="88" resname="70ca6d62dc2bf3f776b3277d47f1c26b">
         <source>Requires</source>
-        <target>Erfordert</target>
+        <target>trěbny/žada sej/njeparujomny</target>
       </trans-unit>
       <trans-unit id="89" resname="9941ee1c023e576e55c700c5cf896c50">
         <source>Collaboration with</source>
-        <target>Zusammenarbeit mit</target>
+        <target>Zhromadne dźěło z</target>
       </trans-unit>
       <trans-unit id="90" resname="04e676fe56e7aaf3f90230bd38c0759b">
         <source>Search</source>
-        <target>Suche</target>
+        <target>Pytać</target>
       </trans-unit>
       <trans-unit id="91" resname="579edded537c3ede3b36ba404eaacd6d">
         <source>All</source>
-        <target>Alles</target>
+        <target>wšitke/wšě</target>
       </trans-unit>
       <trans-unit id="92" resname="cf14bfb146a68f7103009448ef8bf7e4">
         <source>Creating blocks …</source>
-        <target>Blöcke werden erstellt ...</target>
+        <target>Bloki nastanu so ...</target>
       </trans-unit>
       <trans-unit id="93" resname="189c07d1d1309a7831a1a9e0673646f2">
         <source>Loading sprites …</source>
-        <target>Figuren werden geladen ...</target>
+        <target>Figury loadować ...</target>
       </trans-unit>
       <trans-unit id="94" resname="d314fd458874a6345c47145a6785c5fa">
         <source>Loading sounds …</source>
-        <target>Klänge werden geladen ...</target>
+        <target>Zwuki loadować ...</target>
       </trans-unit>
       <trans-unit id="95" resname="554baf9beb2acbfef6593c9230ed7ee9">
         <source>Loading extensions …</source>
-        <target>Erweiterungen werden geladen ...</target>
+        <target>Rozšěrjenja loadować ...</target>
       </trans-unit>
       <trans-unit id="96" resname="48078f9c2da2e5d030cc7d8fda8b1c14">
         <source>Herding cats …</source>
-        <target>Katzen werden eingesammelt ...</target>
+        <target>Pasenje kóčkow ...</target>
       </trans-unit>
       <trans-unit id="97" resname="d09d12edcfb01b919cf00aebeecf1498">
         <source>Transmitting nanos …</source>
-        <target>Nanos werden übertragen ...</target>
+        <target>Přenjesenje Nanos ...</target>
       </trans-unit>
       <trans-unit id="98" resname="480b4c46f283fa89d82b7913a65ab471">
         <source>Inflating gobos …</source>
-        <target>Gobos werden aufgeblasen ...</target>
+        <target>naduwanje Gobos ...</target>
       </trans-unit>
       <trans-unit id="99" resname="a5a60677f97dae5bc8198ec704ee11d9">
         <source>Preparing emojis …</source>
-        <target>Emojis werden vorbereitet ...</target>
+        <target>Emojis so přihotuja ...</target>
       </trans-unit>
       <trans-unit id="100" resname="778c9dbc27de518ecbd4441509302ba1">
         <source>Loading Project</source>
-        <target>Projekt wird geladen</target>
+        <target>Projekt so wočini/wotwoła/...</target>
       </trans-unit>
       <trans-unit id="101" resname="22260cf0fdd2153489a66582917045b8">
         <source>Creating Project</source>
-        <target>Projekt wird erstellt</target>
+        <target>Projekt kreěrować/zdźěłać</target>
       </trans-unit>
       <trans-unit id="102" resname="a9a23977667cf878e9ade047987bdd26">
         <source>Profile</source>
@@ -411,111 +411,111 @@
       </trans-unit>
       <trans-unit id="103" resname="4e102af010bb413a751974745c7b5dee">
         <source>My Stuff</source>
-        <target>Meine Sachen</target>
+        <target>Moje wěcki</target>
       </trans-unit>
       <trans-unit id="104" resname="a749a9586c4db6a555dcd96140d2b517">
         <source>My Classes</source>
-        <target>Meine Klassen</target>
+        <target>Moje rjadownje</target>
       </trans-unit>
       <trans-unit id="105" resname="d2a92dda37b81a8e9e2d1f9cc86eb1a1">
         <source>My Class</source>
-        <target>Meine Klasse</target>
+        <target>Moja rjadownja</target>
       </trans-unit>
       <trans-unit id="106" resname="192c88c41ea4976113c91cc214ed1b3f">
         <source>Account settings</source>
-        <target>Kontoeinstellungen</target>
+        <target>nastajenja konta</target>
       </trans-unit>
       <trans-unit id="107" resname="eb54553fac64e799a0ef326fb2a39612">
         <source>Sign out</source>
-        <target>Abmelden</target>
+        <target>wotzjewić so</target>
       </trans-unit>
       <trans-unit id="108" resname="187b1953a1beec5d350d79bdd9f09960">
         <source>by {username}</source>
-        <target>von {username}</target>
+        <target>wot {wužiwarske mjeno}</target>
       </trans-unit>
       <trans-unit id="109" resname="b423415cc83eee2ba0f1c106e474fa2d">
         <source>See Project Page</source>
-        <target>Zeige Projektseite</target>
+        <target>pokazaj projektowu stronu</target>
       </trans-unit>
       <trans-unit id="110" resname="07d569a69bc4c582f42997afed8718d9">
         <source>Language</source>
-        <target>Sprache</target>
+        <target>rěč</target>
       </trans-unit>
       <trans-unit id="111" resname="e306c1d085364d33ca7bdfdd7b696333">
         <source>Username</source>
-        <target>Benutzername</target>
+        <target>wužiwarske mjeno</target>
       </trans-unit>
       <trans-unit id="112" resname="d30208b6642f3aeb03ca90a27394cd78">
         <source>Password</source>
-        <target>Kennwort</target>
+        <target>tajne hesło</target>
       </trans-unit>
       <trans-unit id="113" resname="571c1d09ab38b3d21c5bded844048df2">
         <source>Sign in</source>
-        <target>Anmelden</target>
+        <target>přizjewić so</target>
       </trans-unit>
       <trans-unit id="114" resname="d7e5fb5db57204c58738b267a3a6d1a7">
         <source>Need Help?</source>
-        <target>Brauchst du Hilfe?</target>
+        <target>Trjebaš pomoc?</target>
       </trans-unit>
       <trans-unit id="115" resname="4383dd26293aaf55b273e1763e226e47">
         <source>This field is required</source>
-        <target>Dieses Feld wird benötigt</target>
+        <target>tute polo je trěbne</target>
       </trans-unit>
       <trans-unit id="116" resname="947a236d1b95ad265bbe7dca9daf80df">
         <source>Tutorials</source>
-        <target>Tutorials</target>
+        <target>Tutorials/zawod</target>
       </trans-unit>
       <trans-unit id="117" resname="f52bdd307be629a9716b978a8463bc1b">
         <source>Restore Sprite</source>
-        <target>Figur wiederherstellen</target>
+        <target>Figuru wobnowić</target>
       </trans-unit>
       <trans-unit id="118" resname="f4f4b43964a18dfcc17bc66ef732c789">
         <source>Restore Sound</source>
-        <target>Klang wiederherstellen</target>
+        <target>Zwuk wobnowić</target>
       </trans-unit>
       <trans-unit id="119" resname="48f586d3f3600b2f515a62f180f610fb">
         <source>Restore Costume</source>
-        <target>Kostüm wiederherstellen</target>
+        <target>Kostim wobnowić</target>
       </trans-unit>
       <trans-unit id="120" resname="caa340e3c89d341f0b88fca0f40f91ad">
         <source>Restore</source>
-        <target>Wiederherstellen</target>
+        <target>wobnowić</target>
       </trans-unit>
       <trans-unit id="121" resname="370afc4d729b7f7c230043b161fb4a16">
         <source>Save now</source>
-        <target>Jetzt speichern</target>
+        <target>wotskładuj nětko</target>
       </trans-unit>
       <trans-unit id="122" resname="2a2f014a42628e14ea26c5ce3e711a4c">
         <source>Save as a copy</source>
-        <target>Eine Kopie speichern</target>
+        <target>Jako kopiju wotskładować</target>
       </trans-unit>
       <trans-unit id="123" resname="f3f4f3b4af6d2091e13631a95a0e0cbb">
         <source>Remix</source>
-        <target>Remixen</target>
+        <target>Remiksować</target>
       </trans-unit>
       <trans-unit id="124" resname="2e9c485f6563a376e88244f29e55a9ea">
         <source>New</source>
-        <target>Neu</target>
+        <target>nowe</target>
       </trans-unit>
       <trans-unit id="125" resname="11a94cc5142a97effc53e36da122f048">
         <source>File</source>
-        <target>Datei</target>
+        <target>Dataja</target>
       </trans-unit>
       <trans-unit id="126" resname="3be6109dda3a0d05ef188e3dc804339d">
         <source>Save to your computer</source>
-        <target>Auf deinem Computer speichern</target>
+        <target>Na twojim kompjuteru wotskładować</target>
       </trans-unit>
       <trans-unit id="127" resname="f7919d7b15b8537a0551d79d71a960fb">
         <source>Edit</source>
-        <target>Bearbeiten</target>
+        <target>wobdźěłać</target>
       </trans-unit>
       <trans-unit id="128" resname="7338324811ade48857684ca5232abd01">
         <source>Turn off Turbo Mode</source>
-        <target>Turbo-Modus ausschalten</target>
+        <target>Turbo-Modus hasnyć</target>
       </trans-unit>
       <trans-unit id="129" resname="2e9b8988fc78bf926b4b8977b2282e41">
         <source>Turn on Turbo Mode</source>
-        <target>Turbo-Modus einschalten</target>
+        <target>Turbo-Modus zaswěćić</target>
       </trans-unit>
       <trans-unit id="130" resname="123fed0c783d8de995dfe4f463ea1743">
         <source>Mode</source>
@@ -523,119 +523,119 @@
       </trans-unit>
       <trans-unit id="131" resname="9066ed175478967720a18667ac0c4bcb">
         <source>Normal mode</source>
-        <target>Normaler Modus</target>
+        <target>Normalny Modus</target>
       </trans-unit>
       <trans-unit id="132" resname="9f14d4f64a4ad539bfe05ff014d13ea3">
         <source>Caturday mode</source>
-        <target>Katzen-Modus</target>
+        <target>kóčkowy-modus</target>
       </trans-unit>
       <trans-unit id="133" resname="26c427a40e929c29a0eef61c615a6daf">
         <source>Join Scratch</source>
-        <target>Scratcher werden</target>
+        <target>So ze Scratcherom stać</target>
       </trans-unit>
       <trans-unit id="134" resname="553cfeb95d2220831819a858bc79eff6">
         <source>Sign in</source>
-        <target>Anmelden</target>
+        <target>přizjewić so/přizjewjenje</target>
       </trans-unit>
       <trans-unit id="135" resname="ef7b510dc11fca7680bf4d74c73e6e79">
         <source>Project title here</source>
-        <target>Projekttitel</target>
+        <target>Projektowy titl</target>
       </trans-unit>
       <trans-unit id="136" resname="752523562d66ffbd0bf2d1c7f52ce710">
         <source>Save Now</source>
-        <target>Jetzt speichern</target>
+        <target>nětko wotskładować</target>
       </trans-unit>
       <trans-unit id="137" resname="e1182a10e2065f35b10d67e8797bd528">
         <source>Settings</source>
-        <target>Einstellungen</target>
+        <target>Nastajenja</target>
       </trans-unit>
       <trans-unit id="138" resname="12cf14dd779723b523e2dda7cccc4f8e">
         <source>Shared</source>
-        <target>Veröffentlicht</target>
+        <target>zwozjawnjene/dźělene</target>
       </trans-unit>
       <trans-unit id="139" resname="6bd71b7357e481365300fa8038c72089">
         <source>Share</source>
-        <target>Veröffentlichen</target>
+        <target>zwozjawnić/dźěl</target>
       </trans-unit>
       <trans-unit id="140" resname="f94b519275de72cdc3a6fee5b4b876f5">
         <source>Color Mode</source>
-        <target>Farbmodus</target>
+        <target>modus barby</target>
       </trans-unit>
       <trans-unit id="141" resname="ca5299b3ce8de467e3663e5614ec1e65">
         <source>Help</source>
-        <target>Hilfe</target>
+        <target>pomoc</target>
       </trans-unit>
       <trans-unit id="142" resname="5a6b27007341458dc34a122d09f6efb4">
         <source>Back</source>
-        <target>Zurück</target>
+        <target>wróćo</target>
       </trans-unit>
       <trans-unit id="143" resname="fc05e254c341a8998535d3c831874236">
         <source>(empty)</source>
-        <target>(leer)</target>
+        <target>(prózdny)</target>
       </trans-unit>
       <trans-unit id="144" resname="03bc6064739396101297d2448337ed3d">
         <source>length {length}</source>
-        <target>Länge: {length}</target>
+        <target>dołhosć: {dołhosć}</target>
       </trans-unit>
       <trans-unit id="145" resname="e117082736706b286af90335fde0acce">
         <source>normal readout</source>
-        <target>Normale Anzeigengröße</target>
+        <target>Normalnu pokazku/...wulkosć pokazki/pokazowanja</target>
       </trans-unit>
       <trans-unit id="146" resname="6f98877b103953950a0494f1e416726d">
         <source>large readout</source>
-        <target>Großanzeige</target>
+        <target>wulko-pokazk/wulke pokazowanje</target>
       </trans-unit>
       <trans-unit id="147" resname="071e1d934d2b402a79712569d2ff5fac">
         <source>slider</source>
-        <target>Schieberegler</target>
+        <target>zasuwak</target>
       </trans-unit>
       <trans-unit id="148" resname="a06bb54d1706f6386251ece46186ddad">
         <source>change slider range</source>
-        <target>Wertebereich des Schiebereglers ändern</target>
+        <target>hódnotu zasuwaka měnić</target>
       </trans-unit>
       <trans-unit id="149" resname="05a1d43f1af33a8aeb6603f91a9c1c85">
         <source>import</source>
-        <target>Importieren</target>
+        <target>import</target>
       </trans-unit>
       <trans-unit id="150" resname="e72d0a931a1d6fb57e16af80deba862e">
         <source>export</source>
-        <target>Exportieren</target>
+        <target>eksport</target>
       </trans-unit>
       <trans-unit id="151" resname="ade58630f9742710e8fbb54b7fdd35db">
         <source>hide</source>
-        <target>Verbergen</target>
+        <target>chować/skryć</target>
       </trans-unit>
       <trans-unit id="152" resname="0f56da7b4ae1f458315f4353ccb08b3a">
         <source>Play</source>
-        <target>Abspielen</target>
+        <target>wothrać</target>
       </trans-unit>
       <trans-unit id="153" resname="3b52a2650ac0691e7dbc48ddf496d9ee">
         <source>Stop</source>
-        <target>Stopp</target>
+        <target>stop</target>
       </trans-unit>
       <trans-unit id="154" resname="7e1900c61059d09d552aa646e0a872f0">
         <source>For all sprites</source>
-        <target>Für alle Figuren</target>
+        <target>Za wšitke figury/postawy</target>
       </trans-unit>
       <trans-unit id="155" resname="02b8e5c1ee030ba5112c02f70c1e28eb">
         <source>For this sprite only</source>
-        <target>Nur für diese Figur</target>
+        <target>Jenož za tutón figuru/postawu</target>
       </trans-unit>
       <trans-unit id="156" resname="a98599cbba3e2724d86512c003a8b0b3">
         <source>Cloud variable (stored on server)</source>
-        <target>Cloud-Variable (auf dem Server gespeichert)</target>
+        <target>Cloud-wariabla (na serweru (wot-)składowana)</target>
       </trans-unit>
       <trans-unit id="157" resname="c79a16630a11d90f23b86b6de40f1783">
         <source>This variable will be available to all sprites.</source>
-        <target>Diese Variable wird für alle Figuren verfügbar sein.</target>
+        <target>Tuta wariabla budźe za wšitke figury přistupna.</target>
       </trans-unit>
       <trans-unit id="158" resname="adb8b2da8829ee8c5b42e5ed2d1e82a3">
         <source>This list will be available to all sprites.</source>
-        <target>Diese Liste wird für alle Figuren sichtbar sein.</target>
+        <target>Tuta lisćina budźe za wšitke figury widźomna.</target>
       </trans-unit>
       <trans-unit id="159" resname="ff36f60558680c1f888068f37f351d72">
         <source>Cancel</source>
-        <target>Abbrechen</target>
+        <target>přetorhnyć</target>
       </trans-unit>
       <trans-unit id="160" resname="6193416552acd67daa516e604ce74c73">
         <source>OK</source>
@@ -643,59 +643,59 @@
       </trans-unit>
       <trans-unit id="161" resname="c55f330f9bfb2b5543c259bb9dee2315">
         <source>Stop</source>
-        <target>Stopp</target>
+        <target>Stop</target>
       </trans-unit>
       <trans-unit id="162" resname="79927922b24e90119294b5c302d383a2">
         <source>Play</source>
-        <target>Abspielen</target>
+        <target>wothrać</target>
       </trans-unit>
       <trans-unit id="163" resname="ec4b580687312affe72713d884ba39e1">
         <source>Loading...</source>
-        <target>Wird geladen ...</target>
+        <target>loadować ...</target>
       </trans-unit>
       <trans-unit id="164" resname="f33dd0a26e6e48e951b2f71756e76f0f">
         <source>Save</source>
-        <target>Speichern</target>
+        <target>wotskładować</target>
       </trans-unit>
       <trans-unit id="165" resname="f55fdd616318d637a4344698254b1317">
         <source>Re-record</source>
-        <target>Erneut aufnehmen</target>
+        <target>znowa nahrawać</target>
       </trans-unit>
       <trans-unit id="166" resname="5f80bf1a73d47dad65eb39c8baa58885">
         <source>Record Sound</source>
-        <target>Klang aufnehmen</target>
+        <target>zwuk nahrawać</target>
       </trans-unit>
       <trans-unit id="167" resname="312e6a9355ba2857e6e3161df95955a8">
         <source>Begin recording by clicking the button below</source>
-        <target>Starte die Aufnahme, indem du auf den Knopf unten klickst</target>
+        <target>Startuj nahrawanje z tym, zo na knefl deleka kliknješ.</target>
       </trans-unit>
       <trans-unit id="168" resname="06275cdfe87b48893a1cd0945c609760">
         <source>{arrow}We need your permission to use your microphone</source>
-        <target>{arrow}Wir benötigen deine Zustimmung, um dein Mikrofon zu benutzen</target>
+        <target>{kłok}Trjebamy twoju dowolnosć, zo bychmy twój mikrofon wužiwali.</target>
       </trans-unit>
       <trans-unit id="169" resname="89c53425ef054c933c3a7741c9d06520">
         <source>Stop recording</source>
-        <target>Aufnahme beenden</target>
+        <target>kónc nahrawanja</target>
       </trans-unit>
       <trans-unit id="170" resname="adb4c44ecb0375609a1a8cdfc90aad4b">
         <source>Record</source>
-        <target>Aufnehmen</target>
+        <target>nahrawać</target>
       </trans-unit>
       <trans-unit id="171" resname="437263b5e21e9ce3562eaa13b890b45b">
         <source>Minimum value</source>
-        <target>Kleinster Wert</target>
+        <target>minimalna hódnota</target>
       </trans-unit>
       <trans-unit id="172" resname="4027dbc6d8e153dc61025d35a22bb58e">
         <source>Maximum value</source>
-        <target>Größter Wert</target>
+        <target>maksimalna hódnota</target>
       </trans-unit>
       <trans-unit id="173" resname="34b6c550720655506ae6cff3bb9feca4">
         <source>Change slider range</source>
-        <target>Wertebereich des Schiebereglers ändern</target>
+        <target>Wobłuk suwadła/zasuwaka změnić.</target>
       </trans-unit>
       <trans-unit id="174" resname="4329b5539bf95c76a025cf47f815b8f7">
         <source>Cancel</source>
-        <target>Abbrechen</target>
+        <target>přetorhnyć</target>
       </trans-unit>
       <trans-unit id="175" resname="d955074ccbcd3ea1c59627fcaeb5dde7">
         <source>OK</source>
@@ -703,51 +703,51 @@
       </trans-unit>
       <trans-unit id="176" resname="ea335c3d6dc854daa3e16391f20c33d8">
         <source>Sound</source>
-        <target>Klang</target>
+        <target>zwuk</target>
       </trans-unit>
       <trans-unit id="177" resname="64e9d29bdcee764ead471cd91a1670fb">
         <source>Play</source>
-        <target>Abspielen</target>
+        <target>wothrać</target>
       </trans-unit>
       <trans-unit id="178" resname="1891123cc3efb6a0f37ddeb72af0cf8f">
         <source>Stop</source>
-        <target>Stopp</target>
+        <target>stop</target>
       </trans-unit>
       <trans-unit id="179" resname="edb97a94aee87ed077859b66d9a7ff5c">
         <source>Copy</source>
-        <target>Kopieren</target>
+        <target>kopěrować</target>
       </trans-unit>
       <trans-unit id="180" resname="106f6277fba204c27b52bed153a2ee5d">
         <source>Paste</source>
-        <target>Einfügen</target>
+        <target>zasunyć/</target>
       </trans-unit>
       <trans-unit id="181" resname="a7bef8859c30b8adde9a9351edc8af9f">
         <source>Copy to New</source>
-        <target>Duplizieren</target>
+        <target>Duplicěrować</target>
       </trans-unit>
       <trans-unit id="182" resname="468419f82e2ff97be7be5b8ed219e970">
         <source>Delete</source>
-        <target>Löschen</target>
+        <target>hašeć/wotstronić</target>
       </trans-unit>
       <trans-unit id="183" resname="0f1784a9bbcaf0e42f6c9d84f6258a30">
         <source>Save</source>
-        <target>Speichern</target>
+        <target>wotskładować</target>
       </trans-unit>
       <trans-unit id="184" resname="c6cd3f7e23d5eb0fa283b951188449aa">
         <source>Undo</source>
-        <target>Rückgängig</target>
+        <target>nječiń/wróćo</target>
       </trans-unit>
       <trans-unit id="185" resname="19fe78a7d7699dc2e7b31f1c7f24dd3a">
         <source>Redo</source>
-        <target>Wiederherstellen</target>
+        <target>čiń znowa/ znowa činić</target>
       </trans-unit>
       <trans-unit id="186" resname="a6bfe591f6980408a887bdd76335d451">
         <source>Faster</source>
-        <target>Schneller</target>
+        <target>spěšnišo</target>
       </trans-unit>
       <trans-unit id="187" resname="52d0f20695e1656fb9ffaac720d1f299">
         <source>Slower</source>
-        <target>Langsamer</target>
+        <target>pomałšo</target>
       </trans-unit>
       <trans-unit id="188" resname="009756df1ae14b4d5a129bf62d3db5d2">
         <source>Echo</source>
@@ -759,163 +759,163 @@
       </trans-unit>
       <trans-unit id="190" resname="963bb7346fa2b2f47eeb78da2584bca2">
         <source>Louder</source>
-        <target>Lauter</target>
+        <target>wótřišo</target>
       </trans-unit>
       <trans-unit id="191" resname="21c57f19ca0e8ee16f43ab4cb467c861">
         <source>Softer</source>
-        <target>Leiser</target>
+        <target>mjechšo</target>
       </trans-unit>
       <trans-unit id="192" resname="b2f63fe83e81e3dafcd69f1433f8586f">
         <source>Reverse</source>
-        <target>Umkehren</target>
+        <target>nazad/wróćo</target>
       </trans-unit>
       <trans-unit id="193" resname="a8ca5efd7f2aaeb162d6f4403d689e05">
         <source>Fade out</source>
-        <target>Ausblenden</target>
+        <target>wublendować</target>
       </trans-unit>
       <trans-unit id="194" resname="c6ec47f30af7a265598f50dc2e569ef8">
         <source>Fade in</source>
-        <target>Einblenden</target>
+        <target>zablendować</target>
       </trans-unit>
       <trans-unit id="195" resname="7f7aab4aabe494fbfcb343afa0c3ae54">
         <source>Mute</source>
-        <target>Stummschalten</target>
+        <target>zněmić</target>
       </trans-unit>
       <trans-unit id="196" resname="dbec03a6f36a886ef280ea9c2d719358">
         <source>Name</source>
-        <target>Name</target>
+        <target>mjeno</target>
       </trans-unit>
       <trans-unit id="197" resname="6def24097fc0a45e09fc3e4a84fab360">
         <source>Show sprite</source>
-        <target>Figur zeigen</target>
+        <target>pokazaj figuru</target>
       </trans-unit>
       <trans-unit id="198" resname="61e8a085a560e88afe4a763db62b58eb">
         <source>Hide sprite</source>
-        <target>Figur verstecken</target>
+        <target>schowaj figuru</target>
       </trans-unit>
       <trans-unit id="199" resname="3b339a23a7cdcb479625678a82af27db">
         <source>Sprite</source>
-        <target>Figur</target>
+        <target>Figura</target>
       </trans-unit>
       <trans-unit id="200" resname="a1d6fc8bc4e190a80758eb5c319094c0">
         <source>Show</source>
-        <target>Sichtbarkeit</target>
+        <target>widźomnosć</target>
       </trans-unit>
       <trans-unit id="201" resname="94b13552940be3c98cb7aa8c5ccbd0e4">
         <source>Size</source>
-        <target>Größe</target>
+        <target>wulkosć</target>
       </trans-unit>
       <trans-unit id="202" resname="83fe01ef9dcef13f13e31b4aa5b4f0b3">
         <source>duplicate</source>
-        <target>Duplizieren</target>
+        <target>duplěrować/podwojić</target>
       </trans-unit>
       <trans-unit id="203" resname="cc7b89a80fad9b2c4fb1636433315c7f">
         <source>export</source>
-        <target>Exportieren</target>
+        <target>Eksportować</target>
       </trans-unit>
       <trans-unit id="204" resname="8cbaa4954d00b774d1499371a2faba85">
         <source>delete</source>
-        <target>Löschen</target>
+        <target>wotstronić</target>
       </trans-unit>
       <trans-unit id="205" resname="e9fb5fb41c9b04678c68a8f195a1747a">
         <source>Choose a Sprite</source>
-        <target>Figur wählen</target>
+        <target>wuzwol sej figuru</target>
       </trans-unit>
       <trans-unit id="206" resname="7d91dd5506a4f41a2749e3c63c657a56">
         <source>Paint</source>
-        <target>Malen</target>
+        <target>molować/rysować</target>
       </trans-unit>
       <trans-unit id="207" resname="9c0ca4eaff84ed53687f0b8e1c45fc12">
         <source>Surprise</source>
-        <target>Überraschung</target>
+        <target>překwapjenka</target>
       </trans-unit>
       <trans-unit id="208" resname="cb7317089aba1546cfc725481e1e22e8">
         <source>Upload Sprite</source>
-        <target>Figur hochladen</target>
+        <target>figuru uploadować</target>
       </trans-unit>
       <trans-unit id="209" resname="13c604e3e29d28d4ed632508fddc3882">
         <source>Switch to large stage</source>
-        <target>Schalte auf große Bühne um</target>
+        <target>Na wulke jewišćo měnić/switchować</target>
       </trans-unit>
       <trans-unit id="210" resname="34e71eae7b32492f55dd5e916b6fd0ac">
         <source>Switch to small stage</source>
-        <target>Schalte auf kleine Bühne um</target>
+        <target>Na małke jewišćo měnić/switchować</target>
       </trans-unit>
       <trans-unit id="211" resname="913cea8d5d4deecb0319f62b039ac404">
         <source>Enter full screen mode</source>
-        <target>Vollbildmodus</target>
+        <target>połny screen/połna wobrazowka</target>
       </trans-unit>
       <trans-unit id="212" resname="119ce1a5791051d059a1016ccdf18e20">
         <source>Exit full screen mode</source>
-        <target>Vollbildmodus verlassen</target>
+        <target>połny screen/połnu wobrazowku hasnyć</target>
       </trans-unit>
       <trans-unit id="213" resname="19cf543e6d228f8ceba626c69e3a62a9">
         <source>Full Screen Control</source>
-        <target>Vollbildkontrolle</target>
+        <target>kontrola połneho screena/...</target>
       </trans-unit>
       <trans-unit id="214" resname="5236bf3bb184afef62b5495a1716c22a">
         <source>Choose a Backdrop</source>
-        <target>Hintergrund wählen</target>
+        <target>pozadk wuzwolić</target>
       </trans-unit>
       <trans-unit id="215" resname="f1b378e517eb6d29b444409ad031d421">
         <source>Paint</source>
-        <target>Malen</target>
+        <target>molować/rysować</target>
       </trans-unit>
       <trans-unit id="216" resname="06515e0774864d4516c6abdce7dc8175">
         <source>Surprise</source>
-        <target>Überraschung</target>
+        <target>překwapjenka</target>
       </trans-unit>
       <trans-unit id="217" resname="e804d54b6eb47ad35384966a41ad073f">
         <source>Upload Backdrop</source>
-        <target>Hintergrund hochladen</target>
+        <target>pozadk uploadować</target>
       </trans-unit>
       <trans-unit id="218" resname="2521b303d495ea2811f70382fd1c2624">
         <source>Stage</source>
-        <target>Bühne</target>
+        <target>jewišćo</target>
       </trans-unit>
       <trans-unit id="219" resname="91d8f8294fcea7d52aab6355ddd7dd49">
         <source>Backdrops</source>
-        <target>Hintergrundbilder</target>
+        <target>pozadkowe wobrazy</target>
       </trans-unit>
       <trans-unit id="220" resname="b633ea33109f2ca8e4454bfb6fe58182">
         <source>Report statistics to improve Scratch</source>
-        <target>Statistiken zur Verbesserung von Scratch übermitteln</target>
+        <target>Statistiki k polěpšenju Scratch sposrědkować/přizjewić</target>
       </trans-unit>
       <trans-unit id="221" resname="14986ecb6a5ff02f132f6a6930c16174">
         <source>The Scratch Team is always looking to better understand how Scratch is used around the world. To help support this effort, you can allow Scratch to automatically send usage information to the Scratch Team.</source>
-        <target>Das Scratch-Team interessiert sich dafür, wie Scratch weltweit verwendet wird. Um dabei zu helfen, kannst du Scratch erlauben, Daten über seine Verwendung automatisch an das Scratch-Team zu schicken.</target>
+        <target>Scratch-Team zajimuje so za to, kak so Scratch po cyłym swěće nałožuje. Zo by pomhał/přidźěłał, móžeš Scratch dowolić, daty jeho nałožowanja awtomatisce na Scratch-Team pósłać.</target>
       </trans-unit>
       <trans-unit id="222" resname="80000a76a163a8bfd4f55a2534c38c14">
         <source>The information we collect includes language selection, blocks usage, and some events like saving, loading, and uploading a project. We DO NOT collect any personal information. Please see our {privacyPolicyLink} for more information.</source>
-        <target>Die Informationen, die wir sammeln, umfassen Sprachauswahl, Verwendung der Blöcke sowie Vorgänge wie Speichern, Laden und Hochladen von Projekten. Wir sammeln KEINERLEI personenbezogene Informationen. Weitere Informationen dazu finden sich unter {privacyPolicyLink}.</target>
+        <target>Informacije, kiž zběramy, wopřijeja wuběr rěčow, wužiwanje blokow kaž tež podawki kaž składować, loadować a uploadować/nahrawać projekta. NJEZBĚRAMY ŽANEŽKULI na wosobu so poćahowace informacije. Dalše informacije k tomu namakaja so pod {privacyPolicyLink}.</target>
       </trans-unit>
       <trans-unit id="223" resname="7ba08bc91f64da1560dc92c5a3c2fa4e">
         <source>Privacy Policy</source>
-        <target>Datenschutzrichtlinien</target>
+        <target>směrnicy datoweho škita</target>
       </trans-unit>
       <trans-unit id="224" resname="b5845d294a9ecf5a73b58f25618f4af6">
         <source>Share my usage data with the Scratch Team</source>
-        <target>Meine Nutzungsdaten mit dem Scratch-Team teilen</target>
+        <target>Moje wužiwanske daty ze Scratch-teamom dźělić</target>
       </trans-unit>
       <trans-unit id="225" resname="22a6c42977c0ba9e69527391a7d8409d">
         <source>Enable telemetry</source>
-        <target>Telemetrie aktivieren</target>
+        <target>Telemetriju aktiwěrować</target>
       </trans-unit>
       <trans-unit id="226" resname="6c7559b38a047851308e14700c8b8d1f">
         <source>Do not share my usage data with the Scratch Team</source>
-        <target>Meine Nutzungsdaten nicht mit dem Scratch-Team teilen</target>
+        <target>Moje wužiwanske daty ze Scratch-teamom NJEdźělić</target>
       </trans-unit>
       <trans-unit id="227" resname="220a2bfa5d2537834b7a5a0596e3c794">
         <source>Disable telemetry</source>
-        <target>Telemetrie deaktivieren</target>
+        <target>Telemetriju deaktiwěrować</target>
       </trans-unit>
       <trans-unit id="228" resname="114f8c56c2a5681bd0fb2d94f16dff84">
         <source>Your setting was updated.</source>
-        <target>Deine Einstellung wurde aktualisiert.</target>
+        <target>Twoje nastajenje bu aktualizowane.</target>
       </trans-unit>
       <trans-unit id="229" resname="6d23b7ebb1c122fedeaebf25887cca7a">
         <source>Close</source>
-        <target>Schließen</target>
+        <target>začiń</target>
       </trans-unit>
       <trans-unit id="230" resname="537c04ee7065b565b22d0fa96a134e36">
         <source>Turbo Mode</source>
@@ -923,1091 +923,1091 @@
       </trans-unit>
       <trans-unit id="231" resname="6de3a6f448b0eb7d709e61e39ec73c2e">
         <source>Your Browser Does Not Support WebGL</source>
-        <target>Dein Browser unterstützt kein WebGL</target>
+        <target>Twój browser njepodpěruje WebGL</target>
       </trans-unit>
       <trans-unit id="232" resname="1e59895f1716af8f0628d7fa16acff19">
         <source>Unfortunately it looks like your browser or computer {webGlLink}. This technology is needed for Scratch 3.0 to run.</source>
-        <target>Es sieht leider so aus, als ob dein Browser oder Computer {webGlLink}. Diese Technologie wird benötigt, um Scratch 3.0 auszuführen.</target>
+        <target>Nažel tak wupada, kaž by rjekł twój Browser abo kompjuter {webGlLink}. Tuta technologija je za wukonjenje Scratch 3.0 trěbna.</target>
       </trans-unit>
       <trans-unit id="233" resname="b3bb79835860387daee4f29fb26ef459">
         <source>does not support WebGL</source>
-        <target>unterstützt kein WebGL</target>
+        <target>njepodpěruje WebGL</target>
       </trans-unit>
       <trans-unit id="234" resname="25282ae68b8e4d5e650c0b46f8894253">
         <source>Back</source>
-        <target>Zurück</target>
+        <target>wróćo</target>
       </trans-unit>
       <trans-unit id="235" resname="fcade46e32ae01e02dc7d0d8c6df6b87">
         <source>To learn more, go to the {previewFaqLink}.</source>
-        <target>Besuche die {previewFaqLink}, um mehr zu erfahren.</target>
+        <target>Dźi/wopytuj {previewFaqLink}, zo by wjace zohnił.</target>
       </trans-unit>
       <trans-unit id="236" resname="fb1b4058b910b4c487867178e1875485">
         <source>FAQ</source>
-        <target>Häufig gestellte Fragen</target>
+        <target>HustoWoprašenePrašenja</target>
       </trans-unit>
       <trans-unit id="237" resname="ad57bd9ea2b6333b848485dd80edb00b">
         <source>Choose a Backdrop</source>
-        <target>Wähle einen Hintergrund</target>
+        <target>Wuzwol sej pozadk</target>
       </trans-unit>
       <trans-unit id="238" resname="03c83737024fede5f0b7c52e963720ae">
         <source>Choose a Costume</source>
-        <target>Wähle ein Kostüm</target>
+        <target>Wuzwol sej kostim</target>
       </trans-unit>
       <trans-unit id="239" resname="7c8e6e24a5d2ed3bcc3fd093d9769110">
         <source>Choose a Backdrop</source>
-        <target>Wähle einen Hintergrund</target>
+        <target>Wuzwol sej pozadk</target>
       </trans-unit>
       <trans-unit id="240" resname="3e5371476c0d04de729c0051643423fe">
         <source>Choose a Costume</source>
-        <target>Wähle ein Kostüm</target>
+        <target>Wuzwol sej kostim</target>
       </trans-unit>
       <trans-unit id="241" resname="e377b1652fd0e8849ee228e71d94212f">
         <source>Paint</source>
-        <target>Malen</target>
+        <target>molować</target>
       </trans-unit>
       <trans-unit id="242" resname="0be450ab2d08db78ef4b72f8aa990cef">
         <source>Surprise</source>
-        <target>Überraschung</target>
+        <target>překwapjenka</target>
       </trans-unit>
       <trans-unit id="243" resname="15c00eb86b5fe9aea766e86828d85328">
         <source>Upload Backdrop</source>
-        <target>Hintergrund hochladen</target>
+        <target>pozadk nahrawać</target>
       </trans-unit>
       <trans-unit id="244" resname="c40d1455b4b4630067168303ce2eecce">
         <source>Upload Costume</source>
-        <target>Kostüm hochladen</target>
+        <target>Kostim nahrawać/uploadować</target>
       </trans-unit>
       <trans-unit id="245" resname="1df3e3743e88f5392e5e76ae8e50222d">
         <source>Choose an Extension</source>
-        <target>Erweiterung auswählen</target>
+        <target>rozšěrjenje wuzwolić</target>
       </trans-unit>
       <trans-unit id="246" resname="55fe300e4c9580e17193e0127febbff5">
         <source>Enter the URL of the extension</source>
-        <target>Gib die URL der Erweiterung ein</target>
+        <target>Zapodaj URL rozšěrjenja</target>
       </trans-unit>
       <trans-unit id="247" resname="07d356a6381b509a2a425f8de5249e17">
         <source>Which column should be used (1-{numberOfColumns})?</source>
-        <target>Welche Spalte soll verwendet werden (1-{numberOfColumns})?</target>
+        <target>Kotra špalta ma so wužiwać (1-{numberOfColumns})?</target>
       </trans-unit>
       <trans-unit id="248" resname="55d2a102ffae2408b21316969b86b448">
         <source>Could not start recording</source>
-        <target>Aufnahme konnte nicht gestartet werden</target>
+        <target>nahrawanje njemóžeše so startować</target>
       </trans-unit>
       <trans-unit id="249" resname="28efbce622438f3d2e2984287a86321b">
         <source>Choose a Sound</source>
-        <target>Klang wählen</target>
+        <target>Zwuk wuzwolić</target>
       </trans-unit>
       <trans-unit id="250" resname="1890236e80c7d7ad29ad6c18c486a288">
         <source>Upload Sound</source>
-        <target>Klang hochladen</target>
+        <target>Zwuk uploadować</target>
       </trans-unit>
       <trans-unit id="251" resname="8d73581ab4fbcbdbbd78de8221a073cf">
         <source>Surprise</source>
-        <target>Überraschung</target>
+        <target>překwapjenka</target>
       </trans-unit>
       <trans-unit id="252" resname="abc9928f420e432ac32b0d5ffb05c33a">
         <source>Record</source>
-        <target>Aufnehmen</target>
+        <target>nahrawać</target>
       </trans-unit>
       <trans-unit id="253" resname="3e9aa012745945ca12eeb08ab23e1b41">
         <source>Choose a Sound</source>
-        <target>Klang wählen</target>
+        <target>Sound/zwuk wuzwolić</target>
       </trans-unit>
       <trans-unit id="254" resname="76bbc68b1953d55b36399aa8fe17a79d">
         <source>Choose a Sprite</source>
-        <target>Figur wählen</target>
+        <target>Figuru wuzwolić</target>
       </trans-unit>
       <trans-unit id="255" resname="7134f9400d020cd072f0ca0ef0ea1bd0">
         <source>Choose a Tutorial</source>
-        <target>Wähle ein Tutorial</target>
+        <target>Wuzwol sej nawod/instrukciju</target>
       </trans-unit>
       <trans-unit id="256" resname="9f95524dfe51aec1404d542622047b68">
         <source>New project created.</source>
-        <target>Ein neues Projekt wurde erstellt.</target>
+        <target>Nowy projekt zestajeny.</target>
       </trans-unit>
       <trans-unit id="257" resname="0426fb7d6edfb2365e278d07707f19b8">
         <source>Project saved as a copy.</source>
-        <target>Das Projekt wurde als Kopie gespeichert.</target>
+        <target>Projekt so jako kopija wotskładowaše.</target>
       </trans-unit>
       <trans-unit id="258" resname="bb4d2cda1c0e550d42760576a500aee1">
         <source>Project saved as a remix.</source>
-        <target>Das Projekt wurde als Remix gespeichert.</target>
+        <target>Projekt so jako Remix wotskładowaše.</target>
       </trans-unit>
       <trans-unit id="259" resname="b7aa63227c515ec79ef09e9aea321110">
         <source>Creating new…</source>
-        <target>Ein neues Projekt wird erzeugt...</target>
+        <target>Zestaji so nowy...</target>
       </trans-unit>
       <trans-unit id="260" resname="2026a5cb7809f99f25795974b3959d09">
         <source>Copying project…</source>
-        <target>Das Projekt wird kopiert...</target>
+        <target>Projekt so kopěruje...</target>
       </trans-unit>
       <trans-unit id="261" resname="77db08ef998829c51537c1bb52486b33">
         <source>Remixing project…</source>
-        <target>Das Projekt wird remixt...</target>
+        <target>Projekt so remixuje...</target>
       </trans-unit>
       <trans-unit id="262" resname="d4223d2dc7cb60861803582b89bd9193">
         <source>Could not create the project. Please try again!</source>
-        <target>Das Projekt konnte nicht erstellt werden. Versuche es bitte erneut! </target>
+        <target>Projekt njehodźeše so zestajeć. Spytaj prošu znowa! </target>
       </trans-unit>
       <trans-unit id="263" resname="63774aba3bcf44621784e315d72ba193">
         <source>Project could not save.</source>
-        <target>Das Projekt konnte nicht gespeichert werden.</target>
+        <target>Projekt njehodźeše so wotskładować.</target>
       </trans-unit>
       <trans-unit id="264" resname="90eca70514de77ad6649a324282907ab">
         <source>Project saved.</source>
-        <target>Das Projekt wurde gespeichert.</target>
+        <target>Projekt woskładowany.</target>
       </trans-unit>
       <trans-unit id="265" resname="8a173ef041de47ef0cafc819b557fa9e">
         <source>Saving project…</source>
-        <target>Das Projekt wird gespeichert...</target>
+        <target>Wotskładowanje projekta...</target>
       </trans-unit>
       <trans-unit id="266" resname="899111b3edda5500dea89839c69261b9">
         <source>Please note, cloud variables only support numbers, not letters or symbols. {learnMoreLink}</source>
-        <target>Beachte bitte, dass Cloud-Variablen nur Zahlen unterstützen, keine Buchstaben oder Symbole. {learnMoreLink}</target>
+        <target>Prošu wobkedźbuj, zo cloud-wariable jenož ličby podpěruja, žane pismiki abo symbole.{learnMoreLink}</target>
       </trans-unit>
       <trans-unit id="267" resname="129d7fd7c48a983c7bbd81d849caf64a">
         <source>Learn more.</source>
-        <target>Erfahre mehr.</target>
+        <target>Wjace nazhonić.</target>
       </trans-unit>
       <trans-unit id="268" resname="73579c8f2c484da676fc016852809e02">
         <source>Importing…</source>
-        <target>Importiere...</target>
+        <target>Importuj...</target>
       </trans-unit>
       <trans-unit id="269" resname="cfd3bd97282223828b564caa316cecd6">
         <source>Meow</source>
-        <target>Miau</target>
+        <target>Mjaw</target>
       </trans-unit>
       <trans-unit id="270" resname="d71391952cdc39b5f56339a92c58c27f">
         <source>my variable</source>
-        <target>meine Variable</target>
+        <target>moja wariabla</target>
       </trans-unit>
       <trans-unit id="271" resname="f7cbb79980b576fd30faf4ff08609aaa">
         <source>Getting Started</source>
-        <target>Erste Schritte</target>
+        <target>Prěnje kročele</target>
       </trans-unit>
       <trans-unit id="272" resname="59279d2afe2832bdd9d9191b36f0b2bb">
         <source>Add a move block</source>
-        <target>Füge einen Bewegungsblock hinzu</target>
+        <target>Přidaj přesuwanski blok</target>
       </trans-unit>
       <trans-unit id="273" resname="daba04a945e30f0186f926f6313b967a">
         <source>Add a say block</source>
-        <target>Füge einen „sage“-Block hinzu</target>
+        <target>Přidaj „praj“-blok</target>
       </trans-unit>
       <trans-unit id="274" resname="ea153b2b491dd38ed37c2321cbd323a8">
         <source>Click the green flag to start</source>
-        <target>Klicke zum Starten auf die grüne Flagge</target>
+        <target>Klikń na zelenu chorhoj, zo by startował.</target>
       </trans-unit>
       <trans-unit id="275" resname="a76153e8a56e736404034cf4d06b2d7d">
         <source>Getting Started - ASL</source>
-        <target>Erste Schritte - ASL</target>
+        <target>Prěnje kročele - ASL</target>
       </trans-unit>
       <trans-unit id="276" resname="594225c7feace0d9d346888a3524e099">
         <source>Animate a Name</source>
-        <target>Animiere einen Namen</target>
+        <target>Animěruj mjeno</target>
       </trans-unit>
       <trans-unit id="277" resname="6f3d3c434187b497abb4955cadad43d7">
         <source>Pick a Letter Sprite</source>
-        <target>Wähle eine Buchstabenfigur</target>
+        <target>Wuzwol sej pismikowu figuru</target>
       </trans-unit>
       <trans-unit id="278" resname="61c1fef1f1b14e595409449e42d66357">
         <source>Play a Sound When Clicked</source>
-        <target>Spiele einen Klang, wenn angeklickt</target>
+        <target>wothrawaj sound/zynk hdyž so nakliknje</target>
       </trans-unit>
       <trans-unit id="279" resname="e1e730d329674440727ab5d2ddcf5449">
         <source>Pick Another Letter Sprite</source>
-        <target>Wähle eine weitere Buchstabenfigur</target>
+        <target>Wuzwol sej dalšu ličbowu figuru</target>
       </trans-unit>
       <trans-unit id="280" resname="037c653cba7621918648f8872a8479ce">
         <source>Change color</source>
-        <target>Ändere die Farbe</target>
+        <target>barbu měnić</target>
       </trans-unit>
       <trans-unit id="281" resname="0ebd8bae773e83f9ee420a7adc025fcf">
         <source>Pick Another Letter Sprite &amp; Make It Spin</source>
-        <target>Wähle eine weitere Buchstabenfigur und lass sie sich drehen</target>
+        <target>Wuzwol sej dalšu ličbowu figuru a daj ju so wjerčeć</target>
       </trans-unit>
       <trans-unit id="282" resname="5e4d3d729d8cbc5b61ec81291e748bfe">
         <source>Pick Another Letter Sprite &amp; Make It Grow</source>
-        <target>Wähle einen weiteren Buchstaben und lass ihn wachsen</target>
+        <target>Wuzwol sej dalšeho pismika a daj jeho rosć</target>
       </trans-unit>
       <trans-unit id="283" resname="f934cf87e6027b381135089eaeb46999">
         <source>Imagine a World</source>
-        <target>Stell dir eine Welt vor</target>
+        <target>Předstaj sej swět</target>
       </trans-unit>
       <trans-unit id="284" resname="2e8ca1eee5fed5385c411c5062f5ff2a">
         <source>Type What You Want to Say</source>
-        <target>Gib ein, was du sagen willst</target>
+        <target>Zapodaj štož chceš rjec/prajić</target>
       </trans-unit>
       <trans-unit id="285" resname="178126ee48259f639e878acd12d7b638">
         <source>Click the Green Flag to Start</source>
-        <target>Klicke zum Starten auf die grüne Flagge</target>
+        <target>Klikń na zelenu chorhoj, zo by startował</target>
       </trans-unit>
       <trans-unit id="286" resname="5a32ba15e4d7a081d9e3730fd044aafe">
         <source>Choose Any Backdrop</source>
-        <target>Wähle irgendeinen Hintergrund</target>
+        <target>Wuzwol sej někajki pozadk</target>
       </trans-unit>
       <trans-unit id="287" resname="cf2d955574993aa63a947b10bba04b37">
         <source>Choose Any Sprite</source>
-        <target>Figur wählen</target>
+        <target>Figuru wuzwolić</target>
       </trans-unit>
       <trans-unit id="288" resname="c76a6807e33e821d167e15df285e2013">
         <source>Press the Space Key to Glide</source>
-        <target>Drücke die Leertaste, um zu gleiten</target>
+        <target>Tłóč mjezotowu tastu, zo by so suwał/sunył/znošował</target>
       </trans-unit>
       <trans-unit id="289" resname="17f7828ac8fd2b513a5365fe3fabad9a">
         <source>Choose Another Sprite</source>
-        <target>Wähle eine andere Figur</target>
+        <target>Wuzwol sej dalšu figuru</target>
       </trans-unit>
       <trans-unit id="290" resname="9ceee592d0cc69d976e367c0c3df0ba1">
         <source>Move Left-Right</source>
-        <target>Nach links und rechts bewegen</target>
+        <target>dolěwa-doprawa pohibować</target>
       </trans-unit>
       <trans-unit id="291" resname="2c640710ab631052b59c58ccb440973d">
         <source>Move Up-Down</source>
-        <target>Nach oben und unten bewegen</target>
+        <target>horje-dele pohibować</target>
       </trans-unit>
       <trans-unit id="292" resname="ef098804e50d1994986ee531a35ebe02">
         <source>Change Costumes</source>
-        <target>Kostüme ändern</target>
+        <target>Kostimy wuměnić</target>
       </trans-unit>
       <trans-unit id="293" resname="0da5acc2f7af31a9c43e620357dfcabe">
         <source>Glide to a Point</source>
-        <target>Zu einem Punkt gleiten</target>
+        <target>Znošuj/suwaj so k jednym dypkej</target>
       </trans-unit>
       <trans-unit id="294" resname="70ed465e6efb786bd46a7b31d4c023b4">
         <source>Grow and Shrink</source>
-        <target>Wachsen und Schrumpfen</target>
+        <target>rosć a woteběrać</target>
       </trans-unit>
       <trans-unit id="295" resname="db6680ba27189f03fe49b6a985440d38">
         <source>Choose Another Backdrop</source>
-        <target>Wähle einen weiteren Hintergrund</target>
+        <target>Wuzwol sej dalši pozadk</target>
       </trans-unit>
       <trans-unit id="296" resname="55458620ffad7982c84a7d269ae6890a">
         <source>Switch Backdrops</source>
-        <target>Tausche die Hintergrundbilder</target>
+        <target>pozadki/pozadkaj wuměnić</target>
       </trans-unit>
       <trans-unit id="297" resname="239b918765245124045db9c03dfc5f8e">
         <source>Add a Sound</source>
-        <target>Füge einen Klang hinzu</target>
+        <target>Zwuk/sound přidawać</target>
       </trans-unit>
       <trans-unit id="298" resname="f45ee469d3b6e4a4e8a701ba6406afdc">
         <source>Choose Your Sound</source>
-        <target>Wähl deinen Sound aus</target>
+        <target>Wuzwol swój sound/zwuk</target>
       </trans-unit>
       <trans-unit id="299" resname="8d224e1cd86ec97ce4dd787de121c902">
         <source>Make Music</source>
-        <target>Mach Musik</target>
+        <target>Čiń hudźbu/hudź</target>
       </trans-unit>
       <trans-unit id="300" resname="c5fc5b6c7970d6815017dbb48b67e0b4">
         <source>Pick an Instrument Sprite</source>
-        <target>Wähle eine Instrumentenfigur</target>
+        <target>Wuzwol sej instrumentowu figuru</target>
       </trans-unit>
       <trans-unit id="301" resname="15e12bd22b3cbad66d743bb05bae191d">
         <source>Play Sound When Clicked</source>
-        <target>Spiele einen Klang, wenn angeklickt</target>
+        <target>Wothrawaj Sound/zwuk hdyž so nakliknje</target>
       </trans-unit>
       <trans-unit id="302" resname="875b482493875fbbb9dba041360b1e2d">
         <source>Create a Song</source>
-        <target>Komponiere ein Lied</target>
+        <target>Komponuj spěw/pěseń</target>
       </trans-unit>
       <trans-unit id="303" resname="49bb7df4b9e17fda86269207200c5165">
         <source>Choose a Drum &amp; Make a Beat</source>
-        <target>Wähle ein Schlaginstrument und spiele einen Rhythmus</target>
+        <target>Wuzwol sej bijadło a zahraj rytmus</target>
       </trans-unit>
       <trans-unit id="304" resname="f911058245254e48af72a13ccee0b43f">
         <source>Choose the Microphone Sprite &amp; Surprise Beatbox</source>
-        <target>Wähle die Mikrofonfigur &amp; Überraschungs-Beatbox</target>
+        <target>Wuzwol sej mikrofonowu figuru &amp;Beatbox-překwapjenka</target>
       </trans-unit>
       <trans-unit id="305" resname="0147d41226ab48f87156b3de3a05b3ab">
         <source>Create A Story</source>
-        <target>Erzähle eine Geschichte</target>
+        <target>Powědaj/kreěruj stawizničku/powědančko/powědku</target>
       </trans-unit>
       <trans-unit id="306" resname="188a15a9cd4b4dc624a1d70524535785">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>Dodawaj pozadk</target>
       </trans-unit>
       <trans-unit id="307" resname="e9c36eb41e075e03ed4aad4b9acbf197">
         <source>Add a Character</source>
-        <target>Füge eine Figur hinzu</target>
+        <target>Dodawaj karakter/figuru/postawu</target>
       </trans-unit>
       <trans-unit id="308" resname="cfcdff2b2a4d4b035cb89f0ff4f6d181">
         <source>Say Something</source>
-        <target>Sag etwas</target>
+        <target>Praj něšto</target>
       </trans-unit>
       <trans-unit id="309" resname="cf1cfd1c47b0db74750da887f38a3751">
         <source>Add Another Character</source>
-        <target>Füge eine weitere Figur hinzu</target>
+        <target>dalši karakter/postawu/... přidać</target>
       </trans-unit>
       <trans-unit id="310" resname="6749d75f629c83d3bdfbd4b1d961d4f5">
         <source>Flip Direction</source>
-        <target>Dreh die Figur um</target>
+        <target>figuru zwjertnyć</target>
       </trans-unit>
       <trans-unit id="311" resname="0e0444faea9a82cfc5dbbb5c4f8864ee">
         <source>Have A Conversation</source>
-        <target>Lass sie sich unterhalten</target>
+        <target>Daj ju so rozmołwić</target>
       </trans-unit>
       <trans-unit id="312" resname="78cfb3dc83cd97dd3444769d96a91c0c">
         <source>Add Another Backdrop</source>
-        <target>Füge einen weiteren Hintergrund hinzu</target>
+        <target>Dodawaj dalši pozadk</target>
       </trans-unit>
       <trans-unit id="313" resname="b19bb50209d2c2943cb7c7cba4b65060">
         <source>Switch Backdrops</source>
-        <target>Tausche die Hintergrundbilder</target>
+        <target>Wuměń pozadki/aj</target>
       </trans-unit>
       <trans-unit id="314" resname="951c43d7bb64e71b2e55e20c6e9bcaa1">
         <source>Hide a Character</source>
-        <target>Verstecke eine Figur</target>
+        <target>chowaj jedneho karaktera/postawu</target>
       </trans-unit>
       <trans-unit id="315" resname="9f1d9e2c7f135b1fd6f3386f3614b1ba">
         <source>Show a Character</source>
-        <target>Zeige eine Figur</target>
+        <target>pokazaj jednu Figur/...</target>
       </trans-unit>
       <trans-unit id="316" resname="f5324d1740ec1bea8d8960adb1cc61d3">
         <source>Make a Chase Game</source>
-        <target>Mach ein Fangspiel</target>
+        <target>zahraj: popańcu/hóńtwu/łójiće so</target>
       </trans-unit>
       <trans-unit id="317" resname="8e424bc3d940096242a1d0fa39aed928">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>Dodawaj pozadk</target>
       </trans-unit>
       <trans-unit id="318" resname="c2117aeb7ae85f1e3f4d238d15f8af12">
         <source>Add a Sprite</source>
-        <target>Füge eine Figur hinzu</target>
+        <target>Přidaj postawu/...</target>
       </trans-unit>
       <trans-unit id="319" resname="d2a82f30d11bb97e2500fdd50b114256">
         <source>Move Right &amp; Left With Arrow Keys</source>
-        <target>Bewege mit den Pfeiltasten nach links und rechts</target>
+        <target>pohibuj so naprawo a nalěwo z kłokomaj</target>
       </trans-unit>
       <trans-unit id="320" resname="74fd65b19826074922d0432192639d3d">
         <source>Move Up &amp; Down With Arrow Keys</source>
-        <target>Bewege mit den Pfeiltasten nach oben und unten</target>
+        <target>pohibuj so horje a dele z kłokomaj</target>
       </trans-unit>
       <trans-unit id="321" resname="69d8f5ba026d17518ea7543442bdeb64">
         <source>Add Another Sprite</source>
-        <target>Füge eine weitere Figur hinzu</target>
+        <target>Dodawaj dalšu figuru</target>
       </trans-unit>
       <trans-unit id="322" resname="e509a410e86a978140ef5f944bcb795c">
         <source>Move Randomly</source>
-        <target>Bewege zufällig</target>
+        <target>so připadnje pohibować</target>
       </trans-unit>
       <trans-unit id="323" resname="c2176bd06270779395a18b78ad643a07">
         <source>In Octopus Sprite, When Touching Play Sound</source>
-        <target>In der Oktopusfigur: Spiele bei Berührung einen Klang</target>
+        <target>W oktopusu: Wothraj při dótkanju zynk/zwuk/sound</target>
       </trans-unit>
       <trans-unit id="324" resname="a50ebc55d98264a72d345627ab63ebbf">
         <source>Create Score Variable</source>
-        <target>Erstelle eine Punktestandsvariable</target>
+        <target>dypkowu/ličensku wariablu zestajeć/kreěrować</target>
       </trans-unit>
       <trans-unit id="325" resname="a1f5f777250531151b09d9b44b66f2fc">
         <source>In Octopus Sprite, When Touching Add Score</source>
-        <target>In der Oktopusfigur: Füge bei Berührung einen Punkt hinzu</target>
+        <target>W oktopusu: při dótkanju dypk dodać/dać</target>
       </trans-unit>
       <trans-unit id="326" resname="e056bce2b450ce8d0611d54eddda6a8c">
         <source>Animate A Character</source>
-        <target>Animiere eine Figur</target>
+        <target>Animěruj/wožiw figuru/postawu</target>
       </trans-unit>
       <trans-unit id="327" resname="2f7a2ab48e1e66650c490d82cba132a6">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>Přidaj pozadk</target>
       </trans-unit>
       <trans-unit id="328" resname="cb733962dcbc25dfcb09f4838c5b66a7">
         <source>Add a Sprite</source>
-        <target>Füge eine Figur hinzu</target>
+        <target>Přidaj postawu</target>
       </trans-unit>
       <trans-unit id="329" resname="72ddda663a4feaff383a5e777b44df94">
         <source>Say Something</source>
-        <target>Sag etwas</target>
+        <target>Praj něšto</target>
       </trans-unit>
       <trans-unit id="330" resname="468d6c8046c443ff7f3a47a3a4ff71d6">
         <source>Add Sound</source>
-        <target>Füge einen Klang hinzu</target>
+        <target>Přidaj zwuk</target>
       </trans-unit>
       <trans-unit id="331" resname="178fca8a6bcfe5ed78c852d9ec5b6e57">
         <source>Animate Talking</source>
-        <target>Animiere das Sprechen</target>
+        <target>Animěruj rěčenje/rěč</target>
       </trans-unit>
       <trans-unit id="332" resname="c7a6b09f20af66a2826046ff707a38f4">
         <source>Move Using Arrow Keys</source>
-        <target>Bewege mit den Pfeiltasten</target>
+        <target>Pohibuj so z kłok-tastami</target>
       </trans-unit>
       <trans-unit id="333" resname="dae28a0943cbc57c11deb2867b5c1e9f">
         <source>Jump</source>
-        <target>Springe</target>
+        <target>skakaj/skakać</target>
       </trans-unit>
       <trans-unit id="334" resname="9e2a9a9691ee901fc81a8161b0375ecf">
         <source>Change Color</source>
-        <target>Ändere die Farbe</target>
+        <target>přebarbić</target>
       </trans-unit>
       <trans-unit id="335" resname="e319aa313b11b6831a60489717f5f3c0">
         <source>Make a Clicker Game</source>
-        <target>Mach ein Klick-Spiel</target>
+        <target>zahraj: klik-hru</target>
       </trans-unit>
       <trans-unit id="336" resname="e2f972a8b59a6a84424cfc24a8b479f0">
         <source>Pick A Sprite</source>
-        <target>Wähle eine Figur</target>
+        <target>Wuzwol sej figuru/postawu</target>
       </trans-unit>
       <trans-unit id="337" resname="8f0b32196c514e659f2323b94fed2584">
         <source>Play Sound When Clicked</source>
-        <target>Spiele einen, Klang wenn angeklickt</target>
+        <target>wothrawaj sound hdyž nakliknjeny</target>
       </trans-unit>
       <trans-unit id="338" resname="cc5768144d69db12707376db94ef52c2">
         <source>Create Score Variable</source>
-        <target>Erstelle eine Punktestandsvariable</target>
+        <target>Zestawaj dypkowu/ličensku wariablu </target>
       </trans-unit>
       <trans-unit id="339" resname="5263de338ef00de6d7d5a018b70b6428">
         <source>When Clicked Increase Score</source>
-        <target>Erhöhe den Punktestand, wenn angeklickt</target>
+        <target>Hdyž so nakliknje, ličbu dypkow powyšić</target>
       </trans-unit>
       <trans-unit id="340" resname="e8dc39f925dd0e1595c46918af958341">
         <source>Go to a random position</source>
-        <target>Geh zu einer Zufallsposition</target>
+        <target>Dźi k připadnej poziciji</target>
       </trans-unit>
       <trans-unit id="341" resname="660e9bd6a381dcfb21efb2a9cc17776e">
         <source>Change Color</source>
-        <target>Ändere die Farbe</target>
+        <target>přebarbić</target>
       </trans-unit>
       <trans-unit id="342" resname="8a6f24213c1f81b88192875fdf8d4679">
         <source>Reset Score</source>
-        <target>Setze den Punktestand zurück</target>
+        <target>dypki wróćo sadźić</target>
       </trans-unit>
       <trans-unit id="343" resname="0c4890dea49861ed359ab59e5ffd1cc2">
         <source>Make it Fly</source>
-        <target>Lasse sie fliegen</target>
+        <target>Wostaj to lećeć</target>
       </trans-unit>
       <trans-unit id="344" resname="949a21bfa4323ba242f752cbf21e9156">
         <source>Choose a Sky Background</source>
-        <target>Wähle ein Bühnenbild mit Himmel</target>
+        <target>Wuzwol njebjeske pozadki</target>
       </trans-unit>
       <trans-unit id="345" resname="1ccb5546efc3d0b7ec17e78d7b6e679f">
         <source>Choose a Character</source>
-        <target>Wähle eine Figur</target>
+        <target>Wuzwol sej karakter</target>
       </trans-unit>
       <trans-unit id="346" resname="991f28bfbd48649dec1703898465fe12">
         <source>Say Something</source>
-        <target>Sag etwas</target>
+        <target>Praj něšto</target>
       </trans-unit>
       <trans-unit id="347" resname="09d07879bf569d43559a05580301b868">
         <source>Move With Arrow Keys</source>
-        <target>Bewege mit den Pfeiltasten</target>
+        <target>pohibuj z kłok-tastami</target>
       </trans-unit>
       <trans-unit id="348" resname="fbc78c24adb085c3233f11fd64e7f9d6">
         <source>Choose an Object to Collect</source>
-        <target>Wähle einen Gegenstand zum Sammeln</target>
+        <target>Wuzwol objekt/wěc, kotryž chceš hromadźić </target>
       </trans-unit>
       <trans-unit id="349" resname="5735657ca3a19bf4a625e0f28137c9e4">
         <source>Make the Object Move</source>
-        <target>Lasse den Gegenstand bewegen</target>
+        <target>Čin, zo so objekt pohibuje</target>
       </trans-unit>
       <trans-unit id="350" resname="392f51b172f4ceb327c511472ef5a083">
         <source>Select Your Character</source>
-        <target>Wähle deine Figur</target>
+        <target>Wuzwol swój karakter</target>
       </trans-unit>
       <trans-unit id="351" resname="b8052056c69680d6441d3e5da28d7ea3">
         <source>Add a Score</source>
-        <target>Füge die Punktezahl hinzu</target>
+        <target>přidawaj dypkowy staw</target>
       </trans-unit>
       <trans-unit id="352" resname="eaa5e5146caf8e3d9ca8b7dc97fa6ea4">
         <source>Keep Score</source>
-        <target>Speichere den Spielstand</target>
+        <target>wotskładuj staw</target>
       </trans-unit>
       <trans-unit id="353" resname="fad8ecd9902787ca05d6dab45736a909">
         <source>Add Scenery</source>
-        <target>Szenario hinzufügen</target>
+        <target>Scenario dodać</target>
       </trans-unit>
       <trans-unit id="354" resname="1a4ec530a76036cecd4d07c8ae9280b1">
         <source>Move the Scenery</source>
-        <target>Bewege die Szene</target>
+        <target>pohibuj scenu</target>
       </trans-unit>
       <trans-unit id="355" resname="0704bea4cd4d932bf01a2bb2b05253e3">
         <source>Next Costume</source>
-        <target>Nächstes Kostüm</target>
+        <target>přichodny kostim</target>
       </trans-unit>
       <trans-unit id="356" resname="e3bee18c222cb6cd750be59ce5636a01">
         <source>Pong Game</source>
-        <target>Pong-Spiel</target>
+        <target>Pong-hra</target>
       </trans-unit>
       <trans-unit id="357" resname="8c972898e81518e6655f93375e2580de">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>Dodaj pozadk</target>
       </trans-unit>
       <trans-unit id="358" resname="3247f0e776185d43063a5da4b8db601f">
         <source>Add a Ball Sprite</source>
-        <target>Füge eine Ball-Figur hinzu</target>
+        <target>Dodawaj bulowu figuru</target>
       </trans-unit>
       <trans-unit id="359" resname="ffdbea161c3fba7bb272ada186cc1a80">
         <source>Bounce Around</source>
-        <target>Rumhüpfen</target>
+        <target>wokoło skakać</target>
       </trans-unit>
       <trans-unit id="360" resname="8bb32324ec31bedd4592f77fb7351f5d">
         <source>Add a Paddle</source>
-        <target>Füge das Paddle hinzu</target>
+        <target>přidawaj Padl</target>
       </trans-unit>
       <trans-unit id="361" resname="7c231b58bb161dad4d0a2b7a9d583085">
         <source>Move the Paddle</source>
-        <target>Bewege das Paddle</target>
+        <target>pohibuj padl</target>
       </trans-unit>
       <trans-unit id="362" resname="7e07c4e7d0912a88da4c23be097afc1e">
         <source>Select the Ball Sprite</source>
-        <target>Wähle die Ball-Figur</target>
+        <target>Wuzwol figuru bula</target>
       </trans-unit>
       <trans-unit id="363" resname="5ba1c6c6c05907251cb3b73a2b17de83">
         <source>Add Code to Bounce the Ball Off the Paddle</source>
-        <target>Lasse den Ball vom Paddle abprallen</target>
+        <target>Daj bula wot padla wotrazyć</target>
       </trans-unit>
       <trans-unit id="364" resname="ab478ff272538a7128545ae4779e1ed0">
         <source>Add a Score</source>
-        <target>Füge die Punktezahl hinzu</target>
+        <target>Přidaj dypkowy staw</target>
       </trans-unit>
       <trans-unit id="365" resname="d9a9f2e2bea824ab82c73ce055a913f8">
         <source>Choose 'Score' from the Menu</source>
-        <target>Wähle &quot;Punktezahl&quot;, resp. &quot;Score&quot;  aus dem Menu</target>
+        <target>Wuzwol &quot;staw&quot;, resp. &quot;dypkowy staw &quot;  z menija</target>
       </trans-unit>
       <trans-unit id="366" resname="6f32bf69e50a84148c3bf379a18b6e63">
         <source>Insert the 'Change Score' Block</source>
-        <target>Füge &quot;ändere Punktezahl&quot;-Block hinzu</target>
+        <target>dodaj &quot;dypkowy staw změnić&quot;-blok</target>
       </trans-unit>
       <trans-unit id="367" resname="bedfd8a5cad2a0455359420fc4a02a8f">
         <source>Reset Score</source>
-        <target>Setze den Punktestand zurück</target>
+        <target>dypkowy staw wróćo sadźić</target>
       </trans-unit>
       <trans-unit id="368" resname="507f3ba95a6ad1e7dd27376ab0ff5a21">
         <source>Add the Line Sprite</source>
-        <target>Füge die Line-Figur hinzu</target>
+        <target>Dodawaj linkowu figuru</target>
       </trans-unit>
       <trans-unit id="369" resname="936a03451ef99670cb60c70d745d9ba1">
         <source>Game Over</source>
-        <target>Spiel vorbei</target>
+        <target>Hra nimo</target>
       </trans-unit>
       <trans-unit id="370" resname="6e5a1cf6de1939806745e487288d4040">
         <source>Code a Cartoon</source>
-        <target>Programmiere eine Karikatur</target>
+        <target>Programěruj karikaturu/komik</target>
       </trans-unit>
       <trans-unit id="371" resname="a6e96485a1d9592d46c940ca5fc92388">
         <source>Say Something When You Click the Green Flag</source>
-        <target>Klicke die grüne Fahne, um etwas zu sagen</target>
+        <target>Praj něšto, hdyž na zelenu chorhoj kliknješ</target>
       </trans-unit>
       <trans-unit id="372" resname="617edfa059cb17718d4ffb378611c241">
         <source>Animate a Character When You Click It</source>
-        <target>Klicke auf die Figur, um sie zu animieren</target>
+        <target>wožiw/animěruj karakter/postawu/..., hdyž na njeho kliknješ</target>
       </trans-unit>
       <trans-unit id="373" resname="d2a707066a9f5fa2223967084afab388">
         <source>Select a Different Character</source>
-        <target>Wähle eine andere Figur</target>
+        <target>wuzwol sej druhi karakter/figuru/postawu</target>
       </trans-unit>
       <trans-unit id="374" resname="22b5a1afcc38c232eb66f8a5b421547d">
         <source>Use a Minus Sign to Get Smaller</source>
-        <target>Verwende das Minuszeichen um zu verkleinern</target>
+        <target>wužiwaj minus-znamjo, zo by pomjeńšił</target>
       </trans-unit>
       <trans-unit id="375" resname="d7da0cd4267a18b772902a735dd06a73">
         <source>Make a Character Grow and Shrink</source>
-        <target>Lasse die Figur wachsen und schrumpfen</target>
+        <target>Daj figuru rosć a woteběrać/powjetš a pomjeńš figuru</target>
       </trans-unit>
       <trans-unit id="376" resname="e10a79d3926cf74c36cfbdab7e039f19">
         <source>Select a Different Character</source>
-        <target>Wähle eine andere Figur</target>
+        <target>wuzwol druhi karakter/..</target>
       </trans-unit>
       <trans-unit id="377" resname="838fe3feb72155d820920465d668504d">
         <source>Jump Up and Down</source>
-        <target>Hüpfe rauf und runter</target>
+        <target>poskakaj horje a dele</target>
       </trans-unit>
       <trans-unit id="378" resname="ac63d53cc94f8dd760fe53972cab94f5">
         <source>Click a Character to Change Scenes</source>
-        <target>Klicke auf Figur, um Bühnenbild zu wechseln</target>
+        <target>Klikń na figuru, zo by jewišćowu scenu/wobraz změnił</target>
       </trans-unit>
       <trans-unit id="379" resname="cb5a3e0dc90b44f361f5994752e8500a">
         <source>Glide Around</source>
-        <target>Gleite umher</target>
+        <target>Suwaj so wokoło</target>
       </trans-unit>
       <trans-unit id="380" resname="4b6f2569ff776ea610642ddf559cdb69">
         <source>Change Costumes</source>
-        <target>Kostüme wechseln</target>
+        <target>Kostim změnić</target>
       </trans-unit>
       <trans-unit id="381" resname="aa7e4d7de17e6600bd0190463ddc77d1">
         <source>Choose More Characters to Add to Your Cartoon</source>
-        <target>Füge mehr Figuren deiner Karikatur hinzu</target>
+        <target>Dodaj wjace figurow ke komikej</target>
       </trans-unit>
       <trans-unit id="382" resname="8e02f05761cb37f22bccbd9419d5148d">
         <source>Animate an Adventure Game</source>
-        <target>Animiere ein Abenteuerspiel</target>
+        <target>Animěruj dyrdomdejowu hru</target>
       </trans-unit>
       <trans-unit id="383" resname="152155ed747bc8c0486439f44cdd5e3a">
         <source>Choose a Character to Show</source>
-        <target>Wähle die Figur, die gezeigt werden soll</target>
+        <target>Wuzwol sej figuru, kotraž ma so pokazać</target>
       </trans-unit>
       <trans-unit id="384" resname="8ca9a1d0c9b9e86dc17453fed326498f">
         <source>Say Something</source>
-        <target>Sag etwas</target>
+        <target>Praj něšto</target>
       </trans-unit>
       <trans-unit id="385" resname="84e9a2c593c5aafe8b08e6d7d2808949">
         <source>Glide Around</source>
-        <target>Gleite umher</target>
+        <target>Suwaj so wokoło</target>
       </trans-unit>
       <trans-unit id="386" resname="1ed4813db11f48cafd08031533c16265">
         <source>Choose an Object to Chase</source>
-        <target>Wähle ein Objekt, das verfolgt werden soll</target>
+        <target>Wuzwol objekt, kotrymž ma so sćěhować</target>
       </trans-unit>
       <trans-unit id="387" resname="fe0d46507b3bb816bc7b9b38a639a6a4">
         <source>Collect Objects</source>
-        <target>Sammle Objekte</target>
+        <target>zběraj objekty</target>
       </trans-unit>
       <trans-unit id="388" resname="ec34cb6d4ab6c529f06ffca73574c001">
         <source>Make a Score Variable</source>
-        <target>Erzeuge eine Variable für den Spielstand</target>
+        <target>Nadźěłaj dypkowu wariablu za hrajny staw</target>
       </trans-unit>
       <trans-unit id="389" resname="d469bc8c74a4951f52816df87bbf939a">
         <source>Keep Score</source>
-        <target>Speichere den Spielstand</target>
+        <target>wotskładuj hrajny staw</target>
       </trans-unit>
       <trans-unit id="390" resname="d1fd58f07e11374021fca4cf631e38eb">
         <source>Level Up: Change Backdrop</source>
-        <target>Nächstes Level: Ändere den Hintergrund</target>
+        <target>powyš niwow/lewel: změn pozadk</target>
       </trans-unit>
       <trans-unit id="391" resname="b0652bb9ffa223ab51ad7a55cc53e0c0">
         <source>Video Sensing</source>
-        <target>Video-Erfassung</target>
+        <target>widejo-zwěsćenje</target>
       </trans-unit>
       <trans-unit id="392" resname="fdd3e2ea895ae8582d4c830afe065660">
         <source>Add Extension</source>
-        <target>Füge eine Erweiterung hinzu</target>
+        <target>Dodawaj rozšěrjenje</target>
       </trans-unit>
       <trans-unit id="393" resname="f82563190d7fb1745cc3146002e1d1eb">
         <source>Pet the Cat</source>
-        <target>Streichle die Katze</target>
+        <target>majkaj/hacaj kóčku</target>
       </trans-unit>
       <trans-unit id="394" resname="a33771dce4cef36c88aa535e571950b7">
         <source>Animate</source>
-        <target>Animiere</target>
+        <target>wožiw/animěruj</target>
       </trans-unit>
       <trans-unit id="395" resname="431b25b02f4b84021ac1037b438c3653">
         <source>Pop a Balloon</source>
-        <target>Lass einen Ballon platzen</target>
+        <target>Daj balona -so-puknyć</target>
       </trans-unit>
       <trans-unit id="396" resname="2b7a0abeefa6bae4b8fd999be18f3c59">
         <source>Create Animations That Talk</source>
-        <target>Erstelle Animationen, die sprechen können</target>
+        <target>Zestaj animacije, kotrež zamóža rěčeć</target>
       </trans-unit>
       <trans-unit id="397" resname="4521a9168200329b8fcbbad55c5d4ed0">
         <source>Add the Text to Speech blocks</source>
-        <target>Füge die &quot;Text zu Sprache&quot;-Blöcke hinzu</target>
+        <target>přidawaj &quot;Tekst k rěč&quot;-bloki</target>
       </trans-unit>
       <trans-unit id="398" resname="cc0701964d91549210e204537509a52f">
         <source>Say Something</source>
-        <target>Sag etwas</target>
+        <target>Praj něšto</target>
       </trans-unit>
       <trans-unit id="399" resname="1f2f66364e0830f2b52a670185cf7a38">
         <source>Set a Voice</source>
-        <target>Wähle eine Stimme</target>
+        <target>wuzwol sej hłós</target>
       </trans-unit>
       <trans-unit id="400" resname="26f1424e7291ed394992d95f95b33712">
         <source>Move Around</source>
-        <target>Bewege dich umher</target>
+        <target>pohibuj so wokoło</target>
       </trans-unit>
       <trans-unit id="401" resname="4f8fe87f3e0c9ca6005dd7912be15f24">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>Dodaj pozadk</target>
       </trans-unit>
       <trans-unit id="402" resname="9a7e35e03609078ad92cf67e3e0153ee">
         <source>Add Another Character</source>
-        <target>Füge eine weitere Figur hinzu</target>
+        <target>Dodaj dalšu postawu/...</target>
       </trans-unit>
       <trans-unit id="403" resname="42b0c1a6ef65a279b2e36fb0cb653764">
         <source>Perform a Song</source>
-        <target>Führe ein Lied auf</target>
+        <target>Spěwaj spěw</target>
       </trans-unit>
       <trans-unit id="404" resname="24f01235b4624e3479b608dce89cd4fc">
         <source>Change Color</source>
-        <target>Ändere die Farbe</target>
+        <target>přebarbić</target>
       </trans-unit>
       <trans-unit id="405" resname="511b1ac7e8302e251aca9a76b5e4e88a">
         <source>Spin Around</source>
-        <target>Dreh dich im Kreis</target>
+        <target>so w kole wjerčeć /dać</target>
       </trans-unit>
       <trans-unit id="406" resname="9d5fc665616e304aec4f7290dbb204d3">
         <source>Grow and Shrink</source>
-        <target>Wachse und Schrumpfe</target>
+        <target>powjetš a pomjeńš</target>
       </trans-unit>
       <trans-unit id="407" resname="9104a1d8666515cd95a7ffe8630f50ef">
         <source>Talking Tales</source>
-        <target>Geschichten erzählen</target>
+        <target>Stawizny /bajki powědajo</target>
       </trans-unit>
       <trans-unit id="408" resname="800bfe7c8a0f68806db1f683d28adb72">
         <source>Click to Add the Text-to-Speech Blocks</source>
-        <target>Klicke  &quot;Erweiterung&quot; um &quot;Text zu Sprache&quot; Blöcke hinzuzufügen</target>
+        <target>Klikń  &quot;rozšěrjenje&quot; za dodawanje &quot;tekst k rěč&quot; blokow </target>
       </trans-unit>
       <trans-unit id="409" resname="1b616ea053ef0cfd33cbb4e29d078c83">
         <source>Choose a Sprite</source>
-        <target>Figur wählen</target>
+        <target>figuru wuzwolić</target>
       </trans-unit>
       <trans-unit id="410" resname="ed6cc27fef2e431679db5cf64bdbc852">
         <source>Make a Character Speak</source>
-        <target>Lasse die Figur sprechen</target>
+        <target>Daj karaktera rěčeć</target>
       </trans-unit>
       <trans-unit id="411" resname="b62911a6fb8944c47a7f4437bc8b4838">
         <source>Choose a Backdrop</source>
-        <target>Wähle einen Hintergrund</target>
+        <target>pozadk wuzwolić</target>
       </trans-unit>
       <trans-unit id="412" resname="66054fb9c0fd3a136e6cc1921d7b45f3">
         <source>Click a Character to Go to the Next Backdrop</source>
-        <target>Klicke auf eine Figur, um zum nächsten Hintergrund zu kommen.</target>
+        <target>Naklikń karaktera, zo by k dalšemu pozadku šoł.</target>
       </trans-unit>
       <trans-unit id="413" resname="64fd497cefb1fdc276104b221c5184fd">
         <source>Choose Another Sprite</source>
-        <target>Wähle eine andere Figur</target>
+        <target>wuzwol sej druhu figuru</target>
       </trans-unit>
       <trans-unit id="414" resname="1046c24be383cc37d481cac353efe2b4">
         <source>Move Around</source>
-        <target>Umher bewegen</target>
+        <target>so dokoławokoło pohibować</target>
       </trans-unit>
       <trans-unit id="415" resname="5db53443aa2aeb273ff5eabaeac6d0b1">
         <source>Choose Another Backdrop</source>
-        <target>Wähle einen weiteren Hintergrund</target>
+        <target>wuzwol dalši pozadk</target>
       </trans-unit>
       <trans-unit id="416" resname="562ce965de062c0001acfbb86437a130">
         <source>Animate Talking</source>
-        <target>Animiere das Sprechen</target>
+        <target>animěruj rěčenje</target>
       </trans-unit>
       <trans-unit id="417" resname="c44a6aefd3de274c728c0fb0924e9d3a">
         <source>Choose Another Backdrop</source>
-        <target>Wähle einen weiteren Hintergrund</target>
+        <target>wuzwol dalši pozadk</target>
       </trans-unit>
       <trans-unit id="418" resname="20fb11efa810b3d74357e142584c4a74">
         <source>Choose a Song to Dance To</source>
-        <target>Wähle einen Klang zum Tanzen</target>
+        <target>wuzwol pěsnju/pěseń k rejowanju</target>
       </trans-unit>
       <trans-unit id="419" resname="21caf4c26bc77afee226cfd055118610">
         <source>Dance Moves</source>
-        <target>Tanzbewegungen</target>
+        <target>rejowacy/ rejować/dać</target>
       </trans-unit>
       <trans-unit id="420" resname="d6c1d8399e3e1d6de480ead817ca2a02">
         <source>Get the Ask and Answer Blocks from the Sensing Category</source>
-        <target>Verwende &quot;Frage&quot;- und &quot;Antwort&quot;-Blöcke der Fühlen-Kategorie</target>
+        <target>   Wotwołanje&quot;naprašowanskich&quot;- a &quot;wotmołwnych&quot;blokow z kategorije "Sensing"</target>
       </trans-unit>
       <trans-unit id="421" resname="e9a047811e2ead1a030a830b94a2afca">
         <source>Add a Sprite</source>
-        <target>Füge eine Figur hinzu</target>
+        <target>Zapodaj nowu postawu</target>
       </trans-unit>
       <trans-unit id="422" resname="cc3ee10ca1bcd0fb77f651e5b08f46df">
         <source>Add a Sprite</source>
-        <target>Füge eine Figur hinzu</target>
+        <target>Zapodaj figuru</target>
       </trans-unit>
       <trans-unit id="423" resname="ef861d131e5991070ef1e519e5cbc2bc">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>zadźěłaj pozadk</target>
       </trans-unit>
       <trans-unit id="424" resname="8c713248b6dfdff73d2324d03a747a04">
         <source>Add a Backdrop</source>
-        <target>Füge einen Hintergrund hinzu</target>
+        <target>Přidaj pozadk</target>
       </trans-unit>
       <trans-unit id="425" resname="a0d73fec88542ff36057dd84bdef0094">
         <source>Change Size</source>
-        <target>Ändere die Größe</target>
+        <target>změń wulkosć</target>
       </trans-unit>
       <trans-unit id="426" resname="324c6fb6914e7bc365101b63bedec141">
         <source>Change Size</source>
-        <target>Ändere die Grösse</target>
+        <target>wulkosć wuměnić</target>
       </trans-unit>
       <trans-unit id="427" resname="48fc2825b9e28028a38cb0300c5fa958">
         <source>Glide Around</source>
-        <target>Gleite umher</target>
+        <target>so wokoło sunyć/ znošować</target>
       </trans-unit>
       <trans-unit id="428" resname="d8ca073fd4ed2541f512b4805ea506b1">
         <source>Glide Around</source>
-        <target>Gleite umher</target>
+        <target>wokoło sunyć</target>
       </trans-unit>
       <trans-unit id="429" resname="d4eab00c679a3bae3b09c360140a5852">
         <source>Glide to a Point</source>
-        <target>Zu einem Punkt gleiten</target>
+        <target>Suwać so k dypkej</target>
       </trans-unit>
       <trans-unit id="430" resname="991fd882faa812091c8e0e9d28dd0064">
         <source>Record a Sound</source>
-        <target>Einen Klang aufnehmen</target>
+        <target>Sound/Zynk/zwuk nahrawać/natočić</target>
       </trans-unit>
       <trans-unit id="431" resname="d6cf58648138f8df77fcef8689b2e161">
         <source>Click on the 'Sounds' Tab</source>
-        <target>Klicke auf das &quot;Klänge&quot;-Tab</target>
+        <target>Naklikń &quot;zwuki&quot;-Tab</target>
       </trans-unit>
       <trans-unit id="432" resname="5df01ae7a05e5048dd220fee419cee64">
         <source>Click 'Record'</source>
-        <target>Klicke auf &quot;Aufnehmen&quot;</target>
+        <target>Naklikń/klikaj &quot;natočić&quot;</target>
       </trans-unit>
       <trans-unit id="433" resname="34e9ed0ec744bd9d98900b4a2ad4cedf">
         <source>Press the Record Button</source>
-        <target>Klicke den &quot;Aufnehmen&quot;-Knopf</target>
+        <target>tłóč &quot;natočić/nahrawać&quot;-knefla</target>
       </trans-unit>
       <trans-unit id="434" resname="4ea3208cf1dc5d2154c9b2e36494d2da">
         <source>Choose Your Sound</source>
-        <target>Wähl deinen Klang aus</target>
+        <target>Wuzwol swójski sound/spěw/..</target>
       </trans-unit>
       <trans-unit id="435" resname="eb9ef09061400cab4770b0be8b9a67a7">
         <source>Play Your Sound</source>
-        <target>Spiele deine Aufnahme ab</target>
+        <target>Wothraj twój sound/spěw</target>
       </trans-unit>
       <trans-unit id="436" resname="ca4fdfd4e92e80b1966fa389f59a195d">
         <source>Make It Spin</source>
-        <target>Lass es sich drehen</target>
+        <target>Daj je so wjerćeć</target>
       </trans-unit>
       <trans-unit id="437" resname="87c1643c5a852ff6975e4fca71083438">
         <source>Turn</source>
-        <target>Drehen</target>
+        <target>wjerćeć</target>
       </trans-unit>
       <trans-unit id="438" resname="8729633d9befcd10019c81b81f4e8eb8">
         <source>Set Direction</source>
-        <target>Richtung festlegen</target>
+        <target>směr postajić</target>
       </trans-unit>
       <trans-unit id="439" resname="945d755bc625d794c4f0bfc566f48c83">
         <source>Hide and Show</source>
-        <target>Verstecken und Zeigen</target>
+        <target>Chować a pokazać</target>
       </trans-unit>
       <trans-unit id="440" resname="a01dc10db5f918b3f2bada691371abab">
         <source>Hide and Show</source>
-        <target>Verstecken und Zeigen</target>
+        <target>so schować a so pokazać</target>
       </trans-unit>
       <trans-unit id="441" resname="149f852eb12bf23abb4dc430819a7651">
         <source>Animate a Sprite</source>
-        <target>Animiere eine Figur</target>
+        <target>Animěruj postawu/figuru</target>
       </trans-unit>
       <trans-unit id="442" resname="9314e28297194789316c961d02fcc8de">
         <source>Animate a Sprite</source>
-        <target>Animiere eine Figur</target>
+        <target>Animěruj postawu/figuru</target>
       </trans-unit>
       <trans-unit id="443" resname="ec8cf7ef7834f8f8f72cf96ebe6f9214">
         <source>Use Arrow Keys</source>
-        <target>Benutze die Pfeiltasten</target>
+        <target>wužiwaj kłok-tasty</target>
       </trans-unit>
       <trans-unit id="444" resname="a261f902d142c3efda000da7df270b55">
         <source>Move Left and Right</source>
-        <target>Nach rechts und links bewegen</target>
+        <target>pohibuj so dolěwa a doprawa</target>
       </trans-unit>
       <trans-unit id="445" resname="288f5c5e21cea41279643c74d548a627">
         <source>Move Up and Down</source>
-        <target>Nach oben und unten bewegen</target>
+        <target>pohibuj so horje a dele</target>
       </trans-unit>
       <trans-unit id="446" resname="af714105243aa4c6a7aae75386b653ff">
         <source>Add Effects</source>
-        <target>Füge Effekte hinzu</target>
+        <target>Přidaj efekty</target>
       </trans-unit>
       <trans-unit id="447" resname="5e01a08475fcf3d75b6fc037d4674f21">
         <source>Add Effects</source>
-        <target>Füge Effekte hinzu</target>
+        <target>Přidawaj efekty</target>
       </trans-unit>
       <trans-unit id="448" resname="052db7f7126d7e125086bd3f3447cc11">
         <source>Music</source>
-        <target>Musik</target>
+        <target>Hudźba</target>
       </trans-unit>
       <trans-unit id="449" resname="33a4535a664ce0a70ece6a4da2f669fe">
         <source>Play instruments and drums.</source>
-        <target>Spiele Instrumente und Schlagzeug.</target>
+        <target>Zahraj na instrumentach a bijadłom.</target>
       </trans-unit>
       <trans-unit id="450" resname="8ca3f8d3c13155e03a2f93131ccc72a3">
         <source>Pen</source>
-        <target>Malstift</target>
+        <target>Pisak</target>
       </trans-unit>
       <trans-unit id="451" resname="730afe0cb78c013414623ba9acba7ea0">
         <source>Draw with your sprites.</source>
-        <target>Zeichne mit deinen Figuren.</target>
+        <target>Rysuj ze swojimi figurami/Moluj zhromadnje z figurami.</target>
       </trans-unit>
       <trans-unit id="452" resname="e0a7dcd8abcd94ce46c0702306384158">
         <source>Video Sensing</source>
-        <target>Video-Erfassung</target>
+        <target>widejo-sensorika/nahrawanje/zapřimnjenje</target>
       </trans-unit>
       <trans-unit id="453" resname="eb0567372bfcf215508baadf892077f6">
         <source>Sense motion with the camera.</source>
-        <target>Erfasse Bewegung mit der Kamera.</target>
+        <target>Zapřimń pohiby z kameru.</target>
       </trans-unit>
       <trans-unit id="454" resname="16a00033be81ae3e028dfdaaac814120">
         <source>Text to Speech</source>
-        <target>Text zu Sprache</target>
+        <target>Tekst k rěč/i</target>
       </trans-unit>
       <trans-unit id="455" resname="050962c9adf857a0cd4804c8e7896978">
         <source>Make your projects talk.</source>
-        <target>Bring deinen Projekten das Sprechen bei.</target>
+        <target>Nawukń twojim projektam rěčeć/Čiń zo twoje projekty rěča.</target>
       </trans-unit>
       <trans-unit id="456" resname="7d93a68d034b6a01abce43d6c73a299d">
         <source>Translate</source>
-        <target>Übersetzen</target>
+        <target>přełož</target>
       </trans-unit>
       <trans-unit id="457" resname="389f3623b38533d1235d7434733b896f">
         <source>Translate text into many languages.</source>
-        <target>Übersetze den Text in viele Sprachen.</target>
+        <target>přełož tekst do mnohich rěčow.</target>
       </trans-unit>
       <trans-unit id="458" resname="3ec16a60230e767a1b16a68de71d3c67">
         <source>Make anything into a key.</source>
-        <target>Mach alles zu einer Taste.</target>
+        <target>Čiń ze wšeho tastu.</target>
       </trans-unit>
       <trans-unit id="459" resname="64cb398014cf8dde4baa97f6062a7aa8">
         <source>Connect your projects with the world.</source>
-        <target>Verbinde deine Projekte mit der realen Welt.</target>
+        <target>Zwjazaj swoje projekty z realnym swětom.</target>
       </trans-unit>
       <trans-unit id="460" resname="7b2ce6be2bab617b5bb08f1eec14baf9">
         <source>Connecting</source>
-        <target>Verbinde</target>
+        <target>Zwjazaj</target>
       </trans-unit>
       <trans-unit id="461" resname="a5478c734ffac95004df26b65ab1c991">
         <source>Build interactive robots and more.</source>
-        <target>Baue interaktive Roboter und mehr.</target>
+        <target>Interaktiwne robotery a wjace twarić.</target>
       </trans-unit>
       <trans-unit id="462" resname="85f6893d37f6a18a0476d245699a8377">
         <source>Connecting. Make sure the pin on your EV3 is set to 1234.</source>
-        <target>Verbinde. Stelle sicher, dass das Kennwort auf deiner EV3 auf 1234 gesetzt ist.</target>
+        <target>Zwjazujo. Zwěsć, zo je pin na swojim EV3 na 1234 nastajeny.</target>
       </trans-unit>
       <trans-unit id="463" resname="ac5b284ec9300bf3662194038520af42">
         <source>Bring robotic creations to life.</source>
-        <target>Erwecke Roboterkreationen zum Leben.</target>
+        <target>Wožiw roboterowe kreacije.</target>
       </trans-unit>
       <trans-unit id="464" resname="ee1432f955c2702eb4641ccfd312ebdc">
         <source>Connecting</source>
-        <target>Verbinde</target>
+        <target>Zwjazujo</target>
       </trans-unit>
       <trans-unit id="465" resname="8aff9fda107c74d3199350cd841478b9">
         <source>Build with motors and sensors.</source>
-        <target>Baue mit Motoren und Sensoren.</target>
+        <target>Z motorami und sensorami twarić.</target>
       </trans-unit>
       <trans-unit id="466" resname="4eaebe1ff0e466280404022eb5e9b40d">
         <source>Connecting</source>
-        <target>Verbinde</target>
+        <target>Zwjazujo</target>
       </trans-unit>
       <trans-unit id="467" resname="42963808a7a7532963a874cb2ae8912b">
         <source>Sense push, pull, motion, and spin.</source>
-        <target>Spüre Druck, Zug, Bewegung und Drehung</target>
+        <target>Zastajić/Sensibilizěruj ćišć/tłóčenje, ćahanje, pohibowanje a wjerćenje</target>
       </trans-unit>
       <trans-unit id="468" resname="7efbc3fb0864fdf69473399957bac305">
         <source>Connecting</source>
-        <target>Verbinde</target>
+        <target>Zwjazujo</target>
       </trans-unit>
       <trans-unit id="469" resname="e112a3074152a595e6281699a47f8c62">
         <source>All</source>
-        <target>Alles</target>
+        <target>wšitko</target>
       </trans-unit>
       <trans-unit id="470" resname="13e16169f78047667f945ada0774638f">
         <source>Animals</source>
-        <target>Tiere</target>
+        <target>zwěrjata</target>
       </trans-unit>
       <trans-unit id="471" resname="1a7b663d26c58754a6f8e02d678a488f">
         <source>Dance</source>
-        <target>Tanz</target>
+        <target>reja</target>
       </trans-unit>
       <trans-unit id="472" resname="e36effae6139225d457287717d7e0149">
         <source>Effects</source>
-        <target>Effekte</target>
+        <target>efekty</target>
       </trans-unit>
       <trans-unit id="473" resname="6d5107c0a507f370e0a66be74872666c">
         <source>Fantasy</source>
-        <target>Fantasie</target>
+        <target>fantazija</target>
       </trans-unit>
       <trans-unit id="474" resname="ea44faba86d7272556999ae5eb0edef7">
         <source>Fashion</source>
-        <target>Mode</target>
+        <target>moda</target>
       </trans-unit>
       <trans-unit id="475" resname="6c7615213aaa764d43317992b1c20777">
         <source>Food</source>
-        <target>Essen</target>
+        <target>jědź</target>
       </trans-unit>
       <trans-unit id="476" resname="c631c0c4bfe227c87a612ac103179459">
         <source>Indoors</source>
-        <target>Innenräume</target>
+        <target>nutřka/nutřkowny</target>
       </trans-unit>
       <trans-unit id="477" resname="a9bdf861359bcd353c5f97d73eb5e846">
         <source>Loops</source>
-        <target>Schleifen</target>
+        <target>sekle</target>
       </trans-unit>
       <trans-unit id="478" resname="129f623f136024b40a9936c37e15a19d">
         <source>Music</source>
-        <target>Musik</target>
+        <target>hudźba</target>
       </trans-unit>
       <trans-unit id="479" resname="865e7aaed89fca40063c30df1167e7a8">
         <source>Notes</source>
-        <target>Noten</target>
+        <target>Noty</target>
       </trans-unit>
       <trans-unit id="480" resname="d0e93e3aa274148b5c91b5b4fba18295">
         <source>Outdoors</source>
-        <target>Landschaften</target>
+        <target>krajiny</target>
       </trans-unit>
       <trans-unit id="481" resname="123a36289583ab827b88fcedb0f9aa01">
         <source>Patterns</source>
-        <target>Muster</target>
+        <target>Mustry/</target>
       </trans-unit>
       <trans-unit id="482" resname="ddc54b16fbdcad15845543af12b407ab">
         <source>People</source>
-        <target>Personen</target>
+        <target>wosoby</target>
       </trans-unit>
       <trans-unit id="483" resname="b12be540e7cc100643b16ca175803462">
         <source>Percussion</source>
-        <target>Schlagwerk</target>
+        <target>bijadło</target>
       </trans-unit>
       <trans-unit id="484" resname="5b0bf92fff1bc7ed289031f7b459bfc7">
         <source>Space</source>
-        <target>Weltraum</target>
+        <target>swětnišćo</target>
       </trans-unit>
       <trans-unit id="485" resname="b6b5309d7d7060df764a2de09458fc71">
         <source>Sports</source>
-        <target>Sport</target>
+        <target>Sporty</target>
       </trans-unit>
       <trans-unit id="486" resname="618ed781635dc037d78452ca6d7558c5">
         <source>Underwater</source>
-        <target>Unterwasserwelt</target>
+        <target>podwódny swět</target>
       </trans-unit>
       <trans-unit id="487" resname="365d109c7e1e891151cd24f2352eec6c">
         <source>Voice</source>
-        <target>Stimmen</target>
+        <target>hłosy</target>
       </trans-unit>
       <trans-unit id="488" resname="8aac4d5b3192cf84c324f205c82b99f4">
         <source>Wacky</source>
-        <target>Verrücktes</target>
+        <target>błudny</target>
       </trans-unit>
       <trans-unit id="489" resname="976d39a2b68dfab6b206e78b3e251e36">
         <source>Animation</source>
-        <target>Animationen</target>
+        <target>Animacija</target>
       </trans-unit>
       <trans-unit id="490" resname="9bb0a7e942c9edd6ab435ef30cc94aad">
         <source>Art</source>
-        <target>Kunst</target>
+        <target>wuměłstwo</target>
       </trans-unit>
       <trans-unit id="491" resname="2e744b30a4964fb8be76fc1e2e14367b">
         <source>Games</source>
-        <target>Spiele</target>
+        <target>hry</target>
       </trans-unit>
       <trans-unit id="492" resname="063697e432b8b6fbe1a2dd9a9ff19508">
         <source>Stories</source>
-        <target>Geschichten</target>
+        <target>powědančki/ stawiznički</target>
       </trans-unit>
       <trans-unit id="493" resname="5c5232f4fc530ba1ee54dbafe8b8686c">
         <source>Letters</source>
-        <target>Buchstaben</target>
+        <target>pismiki</target>
       </trans-unit>
       <trans-unit id="494" resname="7eaec6b2eb3f11dc3816a24d285c4593">
         <source>direction</source>
-        <target>Richtung</target>
+        <target>směr</target>
       </trans-unit>
       <trans-unit id="495" resname="c3ead153edb33263b95a63d491ddc46c">
         <source>x position</source>
-        <target>x-Position</target>
+        <target>x-pozicija</target>
       </trans-unit>
       <trans-unit id="496" resname="961988716e5744392467e0e063410aaf">
         <source>y position</source>
-        <target>y-Position</target>
+        <target>y-pozicija</target>
       </trans-unit>
       <trans-unit id="497" resname="f18cebd0ba1271915eb2c2d2002f4358">
         <source>size</source>
-        <target>Größe</target>
+        <target>wulkosć</target>
       </trans-unit>
       <trans-unit id="498" resname="82e03379361f82e1d1643237503ea6d4">
         <source>costume name</source>
-        <target>Kostümname</target>
+        <target>Kostimowe po/mjeno/wanje</target>
       </trans-unit>
       <trans-unit id="499" resname="b1e7f3c961f1caf5bb82ee3dae3c7ffa">
         <source>costume number</source>
-        <target>Kostümnummer</target>
+        <target>Kostimowa ličba</target>
       </trans-unit>
       <trans-unit id="500" resname="93a60d99445ace775cb45d743943f64b">
         <source>backdrop name</source>
-        <target>Hintergrundbezeichnung</target>
+        <target>pozadkowe po/mjeno/wanje</target>
       </trans-unit>
       <trans-unit id="501" resname="9e6c06d630aae7b35c9da02c6455fd04">
         <source>backdrop number</source>
-        <target>Hintergrundnummer</target>
+        <target>pozadkowa ličba</target>
       </trans-unit>
       <trans-unit id="502" resname="980fe90e4e9a4001624fe2644f10553c">
         <source>volume</source>
-        <target>Lautstärke</target>
+        <target>wolumen/sylnosć zwuka</target>
       </trans-unit>
       <trans-unit id="503" resname="59a8e53e52293dc71da325a9c7c74a6d">
         <source>tempo</source>
@@ -2015,23 +2015,23 @@
       </trans-unit>
       <trans-unit id="504" resname="21a6191023f99b12c84728a656f18278">
         <source>answer</source>
-        <target>Antwort</target>
+        <target>wotmołwa</target>
       </trans-unit>
       <trans-unit id="505" resname="02e333a099dbb97861691e7d2b3df431">
         <source>loudness</source>
-        <target>Lautstärke</target>
+        <target>intensita zwuka</target>
       </trans-unit>
       <trans-unit id="506" resname="85cf87c3ef6a53bbfa8e0ebab230537f">
         <source>username</source>
-        <target>Benutzername</target>
+        <target>Wužiwarske mjeno</target>
       </trans-unit>
       <trans-unit id="507" resname="d60a484ff7ec10b077816a55a506ff8f">
         <source>year</source>
-        <target>Jahr</target>
+        <target>lěto</target>
       </trans-unit>
       <trans-unit id="508" resname="fc24e863e8135ce1330038e03f463d92">
         <source>month</source>
-        <target>Monat</target>
+        <target>měsac</target>
       </trans-unit>
       <trans-unit id="509" resname="c8758a198aa7789d0f4ac3a59ce51d10">
         <source>date</source>
@@ -2039,51 +2039,51 @@
       </trans-unit>
       <trans-unit id="510" resname="aa556b033cfcf018907b9f991db5a220">
         <source>day of week</source>
-        <target>Wochentag</target>
+        <target>dźeń</target>
       </trans-unit>
       <trans-unit id="511" resname="e82e0d974568e423ff55c99083b6042b">
         <source>hour</source>
-        <target>Stunde</target>
+        <target>hodźina</target>
       </trans-unit>
       <trans-unit id="512" resname="349c5854789d7737af1f8e37e881d21b">
         <source>minute</source>
-        <target>Minute</target>
+        <target>mjeńšina/minuta</target>
       </trans-unit>
       <trans-unit id="513" resname="0d460c50da913a6c24a52f3db849171b">
         <source>second</source>
-        <target>Sekunde</target>
+        <target>Sekunda</target>
       </trans-unit>
       <trans-unit id="514" resname="12921a9e0dd85f271880040ca54b45da">
         <source>timer</source>
-        <target>Stoppuhr</target>
+        <target>stopowka</target>
       </trans-unit>
       <trans-unit id="515" resname="73d3ca96b50a71cc6c42d003b0eba2f6">
         <source>The project file that was selected failed to load.</source>
-        <target>Die gewählte Projekt-Datei konnte nicht geladen werden.</target>
+        <target>Wuzwolena projektowa dataja njemóžeše so nahrać/loadować.</target>
       </trans-unit>
       <trans-unit id="516" resname="5cc8fbee3ed87b63ea8e94118831ce80">
         <source>backdrop{index}</source>
-        <target>Hintergrund{index}</target>
+        <target>pozadk{index}</target>
       </trans-unit>
       <trans-unit id="517" resname="f8d73f70bbe794887b6d9149380b8809">
         <source>costume{index}</source>
-        <target>Kostüm{index}</target>
+        <target>Kostim{index}</target>
       </trans-unit>
       <trans-unit id="518" resname="c1d9659b824b8d37fb18055dc71191f3">
         <source>Sprite{index}</source>
-        <target>Figur{index}</target>
+        <target>Postawa{index}</target>
       </trans-unit>
       <trans-unit id="519" resname="f9593b633fd9983b3dc8d3de2c1795c2">
         <source>pop</source>
-        <target>Plopp</target>
+        <target>kunks/jewićk/plop</target>
       </trans-unit>
       <trans-unit id="520" resname="13215b339e264bebaee2b818334de487">
         <source>Replace contents of the current project?</source>
-        <target>Inhalte des aktuellen Projektes ersetzen?</target>
+        <target>Wobsahi aktualneho projekta narunać?</target>
       </trans-unit>
       <trans-unit id="521" resname="27cf570e7ed0cf6d43babefd77799056">
         <source>Load from your computer</source>
-        <target>Von deinem Computer hochladen</target>
+        <target>uploaduj wot swojeho kompjutera</target>
       </trans-unit>
       <trans-unit id="522" resname="f1cf87c38524c49e4c0df506ce641d69">
         <source>Original</source>
@@ -2091,11 +2091,11 @@
       </trans-unit>
       <trans-unit id="523" resname="beaae9f3a0e2c2c468c6f0ea3f581ac1">
         <source>Dark</source>
-        <target>Dunkel</target>
+        <target>ćmowy/ćěmny</target>
       </trans-unit>
       <trans-unit id="524" resname="02396dc36d19334b814e8eb80aaca56e">
         <source>High Contrast</source>
-        <target>Hoher Kontrast</target>
+        <target>wysoki kontrast</target>
       </trans-unit>
       <trans-unit id="525" resname="9cb55b0290632675a541e78036b4a479">
         <source>Scratch Project</source>
